@@ -9,9 +9,9 @@ We want to make this documentary accessible everywhere in the world even for peo
 How
 ---
 
-At the moment I haven't been able to find subtitles and translations for the documentary "The Internet's own boy: the story of Aaron Swartz" (contact me if they do exists).
+At the moment I haven't been able to find subtitles and translations for the documentary "The Internet's own boy: the story of Aaron Swartz" (contact me if they do exist).
 
-We will divide the documentary in short 2 min sections each of us can sign-up for.
+We will divide the documentary in short 2 min sections that each of us can sign-up for.
 
 Since the creation process is fast and can be divided more quickly than how fast I can merge a change let use this spreadsheet to 'divide & conquer':
 https://docs.google.com/spreadsheets/d/1gzJzJkCdce_Vdshb1tpH2VGH4bswi5tfbdEAUe71W6k/edit#gid=0

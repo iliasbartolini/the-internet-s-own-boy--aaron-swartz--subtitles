@@ -588,12 +588,105 @@ who was then challenging copyright law in the supreme court
 00:13:08,900 --> 00:13:13,200
 A young Aaron Swartz flew to Washington to listen to the supreme court hearings
 
-00:13:09,300 --> 00:13:13,200
-I'm Aaron Swartz and I'm here to listen to the [?] to see the [?] argument
+00:13:13,500 --> 00:13:17,700
+I'm Aaron Swartz and I'm here to listen to the Eldred ...to see the Eldred argument
+
+00:13:18,100 --> 00:13:23,000
+Why did you fly out here from Chicago and come all this way to see the Eldred argument?
+
+00:13:23,200 --> 00:13:25,000
+That's a more difficult question
+
+00:13:30,000 --> 00:13:33,700
+I don't know, I'm very excited to see the supreme court 
+
+00:13:33,800 --> 00:13:36,400
+especially in such a prestigious case as this one
+
+00:13:42,000 --> 00:13:46,600
+Lessig was also moving forward with a new way to define copyright on the Internet
+
+00:13:46,900 --> 00:13:48,800
+it was called Creative Commons
+
+00:13:49,200 --> 00:13:51,800
+So the simple idea of Creative Commons is to give people, creators
+
+00:13:53,000 --> 00:13:55,800
+a simple way to mark their creativity
+
+00:13:56,000 --> 00:13:58,600
+with the freedoms they intended to carry
+
+00:13:59,000 --> 00:14:01,700
+So copyright is about "all rights reserved"
+
+00:14:01,900 --> 00:14:04,900
+then this is a kind of "some rights reserved" bottle[?]
+
+00:14:05,100 --> 00:14:08,400
+It's I want a simple way to say to you "here's what you can do with my work"
+
+00:14:08,700 --> 00:14:12,800
+even if there are other things which you need to get my permission before you could do
+
+00:14:13,300 --> 00:14:16,400
+And Aaron's role was the computer part
+
+00:14:16,600 --> 00:14:18,600
+like how do you architect the licenses 
+
+00:14:18,800 --> 00:14:23,300
+so that would be simple and understandable and expressed in way that machines could process it
+
+00:14:23,600 --> 00:14:26,800
+And people are like, why do you have this fifteen yars old kid
+
+00:14:26,900 --> 00:14:29,000
+writing the specifications of creative commons?
+
+00:14:29,400 --> 00:14:31,100
+like, don't you think that's a huge mistake?
+
+00:14:31,200 --> 00:14:34,600
+and larry is like: "the biggest mistake that we would have is not listening to this kid"
+
+00:14:35,700 --> 00:14:39,200
+embarrassing[?] is not even tall enough to get over the podium
+
+00:14:39,400 --> 00:14:41,300
+and it wasn't one of those movable podiums
+
+00:14:41,500 --> 00:14:45,600
+so this embarrassing thing that once he put his screen up nobody could see his face
+
+00:14:45,900 --> 00:14:49,000
+When we come to our website here
+
+00:14:49,300 --> 00:14:50,500
+and we've got few licences 
+
+00:14:50,900 --> 00:14:54,600
+it gives you this list of options explaining what it means
+
+00:14:54,900 --> 00:14:57,200
+and we thought three set of questions
+
+00:14:57,500 --> 00:14:59,600
+Do you want to require attribution?
+
+00:14:59,900 --> 00:15:02,600
+Do you want to allow commercial uses of your work?
+
+00:15:02,900 --> 00:15:05,800
+Do you want to allow modifications of your work?
 
 
-00:14:00,000 --> 00:14:59,800
-lorem ipsum
+
+
+
+
+
 
 
 00:15:00,000 --> 00:15:59,800
