@@ -28,3 +28,6 @@ If there are sections where you're unsure just leave a [?] question mark in the 
 
 The .srt format requires a sequential number before each displayed text. Unfortunately this sequential numbers makes merges and changes more complex. Will add them at the end once we have a stable subtitle file. Players like VLC do recognize the file even without the sequence anyway so you can test your changes.
 
+The freely download CC licensed version of the movie is available at The Internet Archive: https://archive.org/details/TheInternetsOwnBoyTheStoryOfAaronSwartz
+
+You might want to consider paying for watching it from here: https://vimeo.com/ondemand/internetsownboy
