@@ -829,17 +829,84 @@ so implausible. His expenses like "I like living in an apartment, so I'm not gon
 00:20:54,600 --> 00:21:00,500
 What is a big deal to Swartz is how traffic flows on the Internet & what commands our attention?
 
-00:21:00,600 --> 00:21:59,800
-lorem ipsum
+00:21:00,600 --> 00:21:04,800
+The whole system of broadcasting, you know, fundamentally limited by the amount of space in the airwaves.
 
+00:21:04,900 --> 00:21:09,500
+You know, you could always send out 10 channels over the airwaves for televisions right away
 
-00:22:00,000 --> 00:22:59,800
-lorem ipsum
+00:21:09,600 --> 00:21:13,200
+even with cables you have 500 channels. On the Internet everybody can have a channel.
+
+00:21:13,300 --> 00:21:17,800
+Everyone can get a blog or a myspace page. Everyone has a way of expressing themselves. 
+
+00:21:17,900 --> 00:21:19,800
+And so what you see now is not a question of 
+
+00:21:19,900 --> 00:21:24,800
+<b>Who gets access to the airwaves. It's the question of Who gets control over the ways you find people?</b>
+
+00:21:24,900 --> 00:21:29,500
+You know you started seeing power centralizing in sites like <b>Google</b>, these sort of <b>gate keepers</b> that tell you
+
+00:21:29,500 --> 00:21:34,500
+where on the internet where you want to go. The people who provides you, your sources of news information.
+
+00:21:34,600 --> 00:21:39,500
+So it's not you know, only certain people have a license to speak now everyone has a license to speak
+
+00:21:39,500 --> 00:21:41,300
+<b>It's a question of Who gets heard</b>
+
+00:21:44,400 --> 00:21:49,700
+After he started working, in San Fransico at Conde Nast, he comes into the office
+
+00:21:49,800 --> 00:21:55,500
+and they want to give him a computer with all this crap installed on it and say that he can't
+
+00:21:55,600 --> 00:21:59,400
+install any new things on this computer, which to developers outraged straight[?]
+
+00:21:59,500 --> 00:22:01,800
+From the first day he was complaining about all this sutff.
+
+00:22:05,600 --> 00:22:10,800
+Gray wall, gray desks, gray noise. The first day I showed up here, I simply couldn't take it.
+
+00:22:10,900 --> 00:22:14,800
+By lunch time I had literally locked myself in a bathroom stall and started crying.
+
+00:22:14,900 --> 00:22:19,600
+I can't imagine staying sane with someone buzzing in my ear all day, let alone getting
+
+00:22:19,700 --> 00:22:24,400
+any actual work done. Nobody else seems to get work done either. Everybody's
+
+00:22:24,500 --> 00:22:27,800
+is always coming into our room to hang out and chat or invite us to play the new
+
+00:22:27,900 --> 00:22:30,500
+video game system that wired is testing.
+
+00:22:32,700 --> 00:22:39,600
+He really had different aspirations, that were <b>politically</b> oriented & Silicon valley
+
+00:22:39,700 --> 00:22:46,600
+just doesn't really quite have that culture that [?] technical activity for the purposes
+
+00:22:46,700 --> 00:22:50,200
+political goals. Aaron <b>hated</b> working for <b>corporation</b>. They all hate
+
+00:22:50,300 --> 00:22:53,100
+working for Conde Nast but aaron is like the only one who is not going to take it.
+
+00:22:53,300 --> 00:22:57,800
+And then basically he got himself fired by not showing up to work ever.
 
 
 00:23:00,000 --> 00:23:59,800
 lorem ipsum
-
 
 00:24:00,000 --> 00:24:59,800
 lorem ipsum
@@ -1163,5 +1230,4 @@ lorem ipsum
 
 01:44:00,000 --> 01:44:59,800
 lorem ipsum
-
 
