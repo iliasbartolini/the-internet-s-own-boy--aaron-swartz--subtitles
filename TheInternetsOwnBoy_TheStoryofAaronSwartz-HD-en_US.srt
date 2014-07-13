@@ -11,7 +11,7 @@ You can use <i>italic</i> and <b>bold</b>!
 Make sure you display the sentence long enough to be read :)
 
 00:00:19,220 --> 00:00:23,321
-To start choose a section below and replace the <i>lorem ipsum</i> with your name
+Keep sentences less than 2 lines, they might become longer when translated in other languages
 
 00:00:24,000 --> 00:00:25,900
 Unjust laws exist;
