@@ -33,7 +33,7 @@ Henry David Thoreau
 The co-founder of the social news and entertainment website "reddit" has been found dead
 
 00:00:58,000 --> 00:01:02,300
-He surely was a prodigy althought he never [?] thought of himself like that
+He surely was a prodigy althought he never kind of thought of himself like that
 
 00:01:03,000 --> 00:01:08,000
 He was totally unexcited about studing businesses and making money
@@ -179,7 +179,7 @@ I remember once we were are the University of Chicago library
 I pulled a book off the shelf that was like from 1900
 
 00:04:12,100 --> 00:04:16,000
-and showed to him, [?]you know this is an extraordinary place
+and showed to him, I said: "You know this is [?] an extraordinary place"
 
 00:04:16,100 --> 00:04:22,000
 We all were curious children but Aaron really liked learning and really liked teaching
@@ -243,9 +243,8 @@ The problem that I kept having with him was that
 there was nothing that I woudn't done 
 
 00:05:39,100 --> 00:05:43,500
-and to him there'sat always something to do
+and to him there was always something to do
 always something that programming could solve 
-
 
 00:05:47,000 --> 00:05:50,900
 The way that Aaron always thought is that programming is magic
@@ -288,10 +287,10 @@ And then other people can come at a later point and read that information
 and edit the information if they thought that it was bad
 
 00:06:43,900 --> 00:06:46,000
-Not too dissimilar from WikiPedia, all right?
+Not too dissimilar from Wikipedia, all right?
 
 00:06:46,300 --> 00:06:49,500
-This is before WikiPedia begun
+This is before Wikipedia begun
 
 00:06:49,600 --> 00:06:51,800
 and this is developed by a 12 year old 
@@ -318,7 +317,7 @@ One of the teacher's response like:
 Me and my other brother would be like: "Yeah, you know"
 
 00:07:14,900 --> 00:07:19,800
-"WikiPedia is cool but we had that in our house, like 5 years ago"
+"Wikipedia is cool but we had that in our house, like 5 years ago"
 
 00:07:21,700 --> 00:07:30,000
 Aaron's website "The Info.org" wins a school competition hosted by the Cambridge based web design firm ArsDigita
@@ -878,11 +877,9 @@ large enough that my dad was getting bugged with questions about like
 00:19:47,000 --> 00:19:51,300
 "How do I... store this money?"
 
-00:19:51,400 --> 00:19:52,500
-Like a lot of money
-
-00:19:52,600 --> 00:19:53,800
-Like a lot of money
+00:19:51,400 --> 00:19:53,800
+Interviewer: Like a lot of money
+Noah: Like a lot of money
 
 00:19:53,900 --> 00:20:00,200
 Like... probably more than a million dollars. But I don't actually know.
@@ -998,23 +995,165 @@ working for Condé Nast but Aaron is like the only one who is not going to take 
 00:22:53,300 --> 00:22:57,800
 And then basically he got himself fired by not showing up to work ever.
 
-00:23:00,000 --> 00:23:59,800
-lorem ipsum
 
-00:24:00,000 --> 00:24:59,800
-lorem ipsum
+00:23:01,000 --> 00:23:03,300
+It was said to be a messy breakup.
 
+00:23:03,500 --> 00:23:07,600
+Both Alexis Ohanian and Steve Huffman declined to be interviewed for this film
 
-00:25:00,000 --> 00:25:59,800
-lorem ipsum
+00:23:09,400 --> 00:23:11,600
+He rejected the business world 
 
+00:23:12,200 --> 00:23:16,100
+One of the really important things to remember about 
 
-00:26:00,000 --> 00:26:59,800
-lorem ipsum
+00:23:16,300 --> 00:23:19,800
+that choice when Aaron decided to kind of leave the startup colture
 
+00:23:19,900 --> 00:23:26,100
+is that he was also leaving behind the things that made him famous
 
-00:27:00,000 --> 00:27:59,800
-lorem ipsum
+00:23:26,300 --> 00:23:31,400
+and well love and, you know, he was at risk of letting down fans
+
+00:23:31,600 --> 00:23:33,900
+He got to where he was supposed to be going 
+
+00:23:34,100 --> 00:23:39,500
+and had the self-awareness and honorariness to realise 
+
+00:23:39,700 --> 00:23:43,600
+that he had climbed that mountain of shit to pluck a single rose
+
+00:23:43,700 --> 00:23:45,500
+and discover that it lost its sense of smell
+
+00:23:45,700 --> 00:23:50,100
+and rather than sit there and insist that it wasn't as bad as it seemed
+
+00:23:50,500 --> 00:23:57,200
+and he did get the rose in any event, he climbed down again, which is pretty cool!
+
+00:23:57,500 --> 00:24:01,600
+The way that Aaron always thought is that programming is magic, right
+
+00:24:01,800 --> 00:24:06,400
+You can accomplish this things that normal humans can't by being able to program
+
+00:24:06,700 --> 00:24:13,800
+so, if you had magical power, would you use them for good, or to make you mounts of cash?
+
+00:24:15,200 --> 00:24:18,500
+Swartz was inspired by one of the visionaries he had met as a child
+
+00:24:18,700 --> 00:24:22,000
+the man who had invented the World Wide Web: Tim Berners-Lee
+
+00:24:22,600 --> 00:24:29,000
+In the 1990s Berners-Lee was arguably sitting on one of the most lucrative inventions of the 20th century
+
+00:24:29,200 --> 00:24:32,600
+but instead of profiting from the invention of the World Wide Web
+
+00:24:32,800 --> 00:24:35,300
+he gave it away for free.
+
+00:24:35,800 --> 00:24:39,400
+It is the only reason the World Wide Web exists today 
+
+00:24:41,000 --> 00:24:44,600
+Aaron is certainly deeply influenced by Tim. 
+
+00:24:44,700 --> 00:24:51,400
+Tim is certainly a very prominent early Internet genious who doesn't in any sense cash out.
+
+00:24:51,600 --> 00:24:55,800
+Is not at all interested in how he's going figure out how to make a billion dollars
+
+00:24:55,900 --> 00:24:57,600
+People would have seen "oh, there are money to be made there"
+
+00:24:57,800 --> 00:25:01,000
+so there would have been lots of little webs, instead of one big one
+
+00:25:01,200 --> 00:25:04,400
+And one little web and also which doesn't work
+
+00:25:04,600 --> 00:25:06,800
+because you can't follow links from one to the other.
+
+00:25:09,900 --> 00:25:13,500
+Now you had to have the critial mass that this thing[?] was in the entire planet
+
+00:25:13,700 --> 00:25:17,600
+so is not gonna work unless the whole planet can get onboard.
+
+00:25:22,200 --> 00:25:28,500
+I am, you know, feel very strongly that it's not enough to just live in the world as it is
+
+00:25:28,700 --> 00:25:33,400
+to just, kind of, take what you're given and, you know, follow the things that adults told you to do
+
+00:25:33,600 --> 00:25:37,300
+and, you know, your parents told you to do and that society tells you to do
+
+00:25:37,500 --> 00:25:41,100
+I think you should always be questioning, you know, I take this very scientific attitude
+
+00:25:41,300 --> 00:25:42,800
+that everything you've learned is just provisional 
+
+00:25:42,900 --> 00:25:46,700
+that, you know, is always open to recantation or refutation or questioning
+
+00:25:46,900 --> 00:25:49,400
+And I think the same applies to society
+
+00:25:49,600 --> 00:25:52,200
+Once I realised that there where real serious problems, 
+
+00:25:52,400 --> 00:25:54,900
+fundamental problems that I could do something to address
+
+00:25:55,100 --> 00:25:58,400
+I didn't see a way to forget that, I didn't see a why not to
+
+00:26:02,200 --> 00:26:06,400
+We just started spending a lot of time, just kind of as friends,
+
+00:26:08,800 --> 00:26:11,300
+We would just talk for hours in the night
+
+00:26:14,300 --> 00:26:17,200
+I definetly should have understood that he was flirting with me
+
+00:26:17,400 --> 00:26:19,300
+I think just to some degree I was like 
+
+00:26:19,400 --> 00:26:24,300
+"This is a terrible idea and impossible and therefore I will pretend it is not happening"
+
+00:26:25,200 --> 00:26:29,200
+As my marriage was breaking down and I was really stuck without anywhere to go
+
+00:26:29,400 --> 00:26:32,500
+we became roommates and brough my daughter over 
+
+00:26:34,200 --> 00:26:39,200
+We moved in [?] house, it was really peaceful, like, my life had not been peaceful for a while
+
+00:26:39,300 --> 00:26:40,800
+and really need [?] is
+
+00:26:46,000 --> 00:26:53,600
+We were extremely close, from the beginning of our romantic relationship
+
+00:26:53,700 --> 00:26:57,000
+we just, we were constantly in contact
+
+00:26:57,500 --> 00:27:02,000
+but we were both really difficult people to deal with
 
 
 00:28:00,000 --> 00:28:59,800
