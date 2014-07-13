@@ -1362,7 +1362,7 @@ And its possible you know he was depressed. People get depressed
 Very early in our relationship, like 3 or 4 weeks in or something..
 
 01:33:24,367 --> 01:33:29,962
-.. I remember his saying to me that "I was a lot stronger than he was.
+.. I remember him saying to me that "I was a lot stronger than he was.
 
 01:33:30,517 --> 01:33:36,362
 You know, he was brittle in lot of ways. Things were a lot harder for him than for a lot of people.
@@ -1395,7 +1395,7 @@ I got a phone call late at night.
 I could tell something was wrong and then I called and I realized what had happened.
 
 01:34:23,850 --> 01:34:28,970
-A cofounder of the social news and entertainment website Reddit has been found dead.
+A cofounder of the social news and entertainment website reddit has been found dead.
 
 01:34:29,141 --> 01:34:34,026
 Police say 26 yr old Aaron Swartz killed himself yesterday in his Brooklyn apartment.
@@ -1448,7 +1448,7 @@ And then I just looked at his Wikipedia page and I saw the end date.
 01:36:32,065 --> 01:36:34,944
 02-02-2013
 
-01:37:14,742 --> 01:37:17,653
+01:37:14,742 --> 01:37:17,953
 My first thought was what if nobody even notices.
 
 01:37:18,805 --> 01:37:22,913
@@ -1473,7 +1473,7 @@ He was the Internet's Own Boy... and the whole world killed him.
 We are standing in the middle of a time when great injustice is not touched.
 
 01:38:01,962 --> 01:38:05,397
-Architects of financial meltdown have dinner with the President [?].
+Architects of financial meltdown have dinner with the President regularly.
 
 01:38:06,186 --> 01:38:13,568
 In middle of that time the idea that this was what the government had to prosecute.
@@ -1494,7 +1494,7 @@ All over the world there are starting to be hackathons, gatherings, and Aaron Sw
 .. has in some sense brought the best out us, in trying to say how do we fix this.
 
 01:38:47,137 --> 01:38:54,433
-Roy Singham:  He was in my humble opinion one of the true extraordinary revolutionaries that this country has produced.
+He was in my humble opinion one of the true extraordinary revolutionaries that this country has produced.
 
 01:38:54,954 --> 01:39:00,000
 I don't know weather Aaron was defeated or victorious, but
@@ -1550,11 +1550,8 @@ Out of the last week, and out of today..
 01:39:42,799 --> 01:39:44,832
 .. phoenixes are already rising.
 
-01:39:47,220 --> 01:39:49,141
-Since Swartz's death...
-
-01:39:48,693 --> 01:39:51,637
-.. Rep. Zoe Lofgren and Sen. Ron Wyden..
+01:39:47,220 --> 01:39:51,637
+Since Swartz's death Rep. Zoe Lofgren and Sen. Ron Wyden..
 
 01:39:51,887 --> 01:39:53,536
 have introduced legislations that would reform
