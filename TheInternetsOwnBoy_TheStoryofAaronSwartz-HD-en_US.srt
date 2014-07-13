@@ -1296,31 +1296,176 @@ lorem ipsum
 01:37:00,000 --> 01:37:59,800
 lorem ipsum
 
-
 01:38:00,000 --> 01:38:59,800
 lorem ipsum
 
+01:39:00,000 --> 01:39:04,277
+We are certainly shaped by the hand of the things
 
-01:39:00,000 --> 01:39:59,800
-lorem ipsum
+01:39:04,527 --> 01:39:05,877
+that he wrestled with.
 
+01:39:06,127 --> 01:39:08,692
+When we turned armed agents of the law
 
-01:40:00,000 --> 01:40:59,800
-lorem ipsum
+01:39:08,821 --> 01:39:12,192
+on citizens trying to increase access to knowledge
 
+01:39:12,442 --> 01:39:14,133
+we've broken the rule of law
 
-01:41:00,000 --> 01:41:59,800
-lorem ipsum
+01:39:14,383 --> 01:39:16,778
+and we've desecrated the temple of justice.
 
+01:39:17,028 --> 01:39:19,530
+Aaron Swartz was not a criminal.
 
-01:42:00,000 --> 01:42:59,800
-lorem ipsum
+01:39:21,000 --> 01:39:24,309
+Change does not role in on the wheels..
 
+01:39:24,559 --> 01:39:25,440
+.. of inevitability.
 
-01:43:00,000 --> 01:43:59,800
-lorem ipsum
+01:39:25,390 --> 01:39:27,700
+It comes through continous struggle.
 
+01:39:30,026 --> 01:39:31,690
+Aaron really could do magic
 
-01:44:00,000 --> 01:44:59,800
-lorem ipsum
+01:39:32,000 --> 01:39:33,900
+and I am dedicated to making sure...
 
+01:39:34,095 --> 01:39:35,936
+... his magic doesn't end with his death.
+
+01:39:36,186 --> 01:39:37,664
+He believed that he could change the world.
+
+01:39:37,914 --> 01:39:39,498
+And he was right.
+
+01:39:39,748 --> 01:39:42,549
+Out of the last week, and out of today..
+
+01:39:42,799 --> 01:39:44,832
+.. phoenixes are already rising.
+
+01:39:47,220 --> 01:39:49,141
+Since Swartz's death...
+
+01:39:48,693 --> 01:39:51,637
+.. Rep. Zoe Lofgren and Sen. Ron Wyden..
+
+01:39:51,887 --> 01:39:53,536
+have introduced legislations that would reform
+
+01:39:53,786 --> 01:39:55,370
+... the Computer Fraud and Abuse Act.
+
+01:39:55,620 --> 01:39:58,741
+The outdated law that formed the majority of the charges..
+
+01:39:58,991 --> 01:39:59,936
+against Swartz.
+
+01:40:00,186 --> 01:40:02,389
+It's called "Aaron's Law."
+
+01:40:02,639 --> 01:40:05,802
+Aaron believed that like you literally ought to..
+
+01:40:06,052 --> 01:40:07,424
+.. be asking yourself all the time..
+
+01:40:07,674 --> 01:40:11,157
+.. "what is the most thing i could be working on in the world right now?"
+
+01:40:11,407 --> 01:40:13,269
+And if you are not working on that, why aren't you?
+
+01:40:33,700 --> 01:40:37,098
+I wish we could change the past, but we cannot.
+
+01:40:37,348 --> 01:40:43,605
+But we can change the future and we must. We must do so for Aaron. We must do so for ourselves.
+
+01:40:43,855 --> 01:40:48,469
+We must do so to make our world a better place.. a more humane place.
+
+01:40:48,719 --> 01:40:50,304
+A place where justice works.
+
+01:40:50,554 --> 01:40:54,272
+And access to knowledge becomes a human right.
+
+01:40:54,522 --> 01:40:59,413
+So there was a kid, back in feburary from Baltimore.
+
+01:40:59,663 --> 01:41:01,504
+14 years old.
+
+01:41:01,754 --> 01:41:08,352
+..who had access to JStor and he had been splunking through JStor after reading something.
+
+01:41:08,602 --> 01:41:13,365
+And he figured out a way to do early tests for Pancreatic Cancer.
+
+01:41:15,300 --> 01:41:18,037
+And Pancreatic cancer kills the shit out of you.
+
+01:41:18,287 --> 01:41:22,560
+Because we detect it way to late. By the time we detect its already too late to do anything about that.
+
+01:41:23,370 --> 01:41:28,725
+And, he sent e-mails off to entire Oncology department at John Hopkins..
+
+01:41:28,975 --> 01:41:31,434
+you know hundereds of them.
+Interviewer: A 14 year old?
+
+01:41:31,440 --> 01:41:33,610
+14 year old kid yeah. And most of them ignored it.
+
+01:41:33,860 --> 01:41:35,594
+But one of them, like, sent him a e-mail back
+
+01:41:35,844 --> 01:41:38,100
+And said, "this is not an entirely stupid idea. Why don't you come on over."
+
+01:41:38,474 --> 01:41:43,189
+This kid worked evenings and weekends with this researcher and in Feburary I heard him on the news..
+
+01:41:43,466 --> 01:41:46,794
+.. just couple of weeks after Aaron died, when Aaron was in the news a lot.
+
+01:41:50,000 --> 01:41:51,200
+Sorry.
+
+01:41:53,344 --> 01:41:58,997
+And he said, the reason he was on the news is because they had done it.
+
+01:41:59,247 --> 01:42:03,200
+They were shipping an early test for pancreatic cancer that was gonna save lives.
+
+01:42:03,626 --> 01:42:07,744
+And he said, "This is why what Aaron did was so important."
+
+01:42:10,496 --> 01:42:12,224
+Because you never know, right.
+
+01:42:12,245 --> 01:42:17,024
+This truth of the universe is not only something that policy makers use to figure out...
+
+01:42:17,274 --> 01:42:19,029
+.. you know, what the speed limit should be.
+
+01:42:19,279 --> 01:42:25,258
+Its where the things thats gonna keep, your kid from dying of Pancreatic cancer comes from.
+
+01:42:26,026 --> 01:42:31,146
+And, without access the person who might come up with the thing thats got your
+
+01:42:31,396 --> 01:42:34,901
+number on it may never find that answer.
+
+01:43:00,000 --> 01:44:59,525
