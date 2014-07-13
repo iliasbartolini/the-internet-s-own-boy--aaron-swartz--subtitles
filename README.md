@@ -29,6 +29,10 @@ If there are sections where you're unsure just leave a [?] question mark in the 
 
 The .srt format requires a sequential number before each displayed text. Unfortunately this sequential numbers makes merges and changes more complex. Will add them at the end once we have a stable subtitle file. Players like VLC do recognize the file even without the sequence anyway so you can test your changes.
 
+It's easy to edit subtitles manually editing the .srt file. 
+There are also many sutitle editor available you can try: http://en.wikipedia.org/wiki/Subtitle_editor. 
+Aegisub is a good free, open source and cross-platform option: http://www.aegisub.org/
+
 The freely download CC licensed version of the movie is available at The Internet Archive: https://archive.org/details/TheInternetsOwnBoyTheStoryOfAaronSwartz
 
 You might want to consider paying for watching it if you're un the US from here: https://vimeo.com/ondemand/internetsownboy
