@@ -1445,22 +1445,205 @@ I'm not saying it's harmless
 00:46:58,800 --> 00:47:05,475
 and I'm not saying that we shouldn't criminalise stealing of information
 
+0:47:06,100 --> 00:47:09,575
+but you gotta be much more subtle in trying to figure out
+
+0:47:09,575 --> 00:47:13,675
+exactly which kind of  harms are harmful here
+
+0:47:14,950 --> 00:47:16,525
+so the thing about a crowbar is
+
+0:47:16,548 --> 00:47:18,742
+everytime I brake into a place with a crowbar
+
+0:47:19,497 --> 00:47:20,708
+I do damage, there's no doubt about it
+
+0:47:21,988 --> 00:47:23,371
+But when Aaron writes a script
+
+0:47:23,380 --> 00:47:27,051
+that says: "download, download, download" hundreds times per second
+
+0:47:28,160 --> 00:47:30,342
+there's no obvious damage, to anybody
+
+0:47:30,948 --> 00:47:33,462
+If he does that for the purpose of gathering
+
+0:47:33,577 --> 00:47:35,965
+archive to do academic research on it
+
+0:47:35,970 --> 00:47:38,057
+there's never any damage to anybody
+
+0:47:38,434 --> 00:47:42,685
+He wasn't stealing, he wasn't selling what he got or giving it away
+
+0:47:43,074 --> 00:47:45,634
+he was making a point as for I can tell
+
+0:47:45,782 --> 00:47:47,965
+The arrest took its toll[?] on Swartz
+
+0:47:48,308 --> 00:47:51,314
+He just don't want to talk about it, and he's like very stressed
+
+0:47:51,320 --> 00:47:55,245
+if you thought like the FBI was like, going to come to your doorstep
+
+0:47:55,280 --> 00:47:58,982
+[?] any time you went down the hall, even to do your laundry
+
+0:47:59,040 --> 00:48:02,388
+and it would brake in to your apartment,  because you left the door unlocked
+
+0:48:02,685 --> 00:48:07,177
+like, I'd be preety stressed.
+And it was clear,
+
+0:48:07,291 --> 00:48:11,074
+And so Aarorn was always sort of, like in, down on[?] mood.
+
+0:48:18,420 --> 00:48:22,102
+He wouldn't give up any sensitive information
+
+0:48:22,110 --> 00:48:23,874
+about his whereabouts during this time,
+
+0:48:23,880 --> 00:48:27,382
+because he was so afraid that the FBI will be waiting for him
+
+0:48:30,948 --> 00:48:34,777
+It was a time of unprecedent social and political activism
+
+0:48:35,737 --> 00:48:39,988
+Time magazine would later name as their 2011 person of the year
+
+0:48:39,990 --> 00:48:41,337
+"the protester"
+
+0:48:42,651 --> 00:48:46,068
+There was a kind of hotbed of hacker activity going on
+
+0:48:48,948 --> 00:48:53,817
+WikiLeaks had released a trove of diplomatic cables
+
+0:48:53,977 --> 00:48:57,040
+Manning had been under arrest at the time
+
+0:48:57,074 --> 00:48:59,657
+it was unknown whether he was the source of the leak
+
+0:48:59,908 --> 00:49:04,697
+Anonymous which is a kind of protest ensemble
+
+0:49:04,720 --> 00:49:07,474
+that has lots of hackers in its ranks
+
+0:49:07,520 --> 00:49:11,440
+were going on various spreeze of sorts[?]
+
+0:49:11,611 --> 00:49:14,205
+If you compare that to what he did
+
+0:49:14,342 --> 00:49:18,091
+this stuff should have been left behind for MIT and JSTOR to deal with,
+
+0:49:18,228 --> 00:49:22,057
+in a kind of private, professional matter.
+
+0:49:22,060 --> 00:49:28,262
+It should have never got to the attention of the criminal system,
+
+0:49:28,720 --> 00:49:30,731
+It just didn't belong there.
+
+0:49:36,628 --> 00:49:39,874
+Before he was indicted, Swartz was offered a plea deal,
+
+0:49:39,920 --> 00:49:43,451
+that involved three months in prison, time in a halfway house,
+
+0:49:43,450 --> 00:49:45,257
+and a year of home detention,
+
+0:49:45,348 --> 00:49:47,508
+all without the use of a computer.
+
+0:49:47,908 --> 00:49:52,011
+It was on the condition that Swartz plead guilty to a felony.
+
+0:49:52,217 --> 00:49:56,480
+Here we are, we have no discovery, no evidence whatsoever
+
+0:49:56,560 --> 00:49:58,251
+about what the government case is
+
+0:49:58,250 --> 00:50:01,634
+and we have to make this immense decision
+
+0:50:01,805 --> 00:50:05,794
+where the lawyer is pushing you do this
+
+0:50:05,965 --> 00:50:09,714
+the government is giving you a non-negotiable demand
+
+0:50:09,817 --> 00:50:13,028
+and you're told that your likelihood of prevailing is small
+
+0:50:13,108 --> 00:50:17,485
+So wether you're guilty or not you better of taking the deal.
+
+0:50:18,468 --> 00:50:21,085
+Boston has it's own computer crime division
+
+0:50:21,588 --> 00:50:25,222
+lots of lawyers, probably more lawyers than they need
+
+0:50:25,420 --> 00:50:28,662
+So, you know, you can imagine all sort of cases
+
+0:50:28,674 --> 00:50:30,160
+where it would be really hard to prosecute
+
+0:50:30,182 --> 00:50:33,177
+cause you've got some criminals in Russia
+
+0:50:33,188 --> 00:50:38,260
+or you've got some people inside a corporation who are gonna have $500 a hour lawyers
+
+0:50:38,270 --> 00:50:41,234
+or $700 a hour lawyers sitting down against you
+
+0:50:41,290 --> 00:50:43,097
+and then you got this case with this kid,
+
+0:50:43,874 --> 00:50:47,565
+which is pretty easy to prove that he did something
+
+0:50:47,570 --> 00:50:52,525
+and he has already marked himself as a troublemaker with the FBI
+
+0:50:52,530 --> 00:50:56,502
+so why not go as tough as you can in hearing[?] against that guy?
+
+0:50:56,510 --> 00:50:57,805
+It's good for you the prosecutor,
+
+0:50:57,828 --> 00:51:02,194
+it's good for the republic 'cause you're fighting all those terrorist types
 
 
-00:47:00,000 --> 00:47:59,800
-lorem ipsum
 
 
-00:48:00,000 --> 00:48:59,800
-lorem ipsum
 
 
-00:49:00,000 --> 00:49:59,800
-lorem ipsum
 
 
-00:50:00,000 --> 00:50:59,800
-lorem ipsum
+
+
 
 
 00:51:00,000 --> 00:51:59,800
