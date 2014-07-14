@@ -1208,28 +1208,243 @@ lorem ipsum
 lorem ipsum
 
 
-00:41:00,000 --> 00:41:59,800
-lorem ipsum
+00:40:58,725 --> 00:41:01,825
+The next day ghost laptop begins grabbing articles
 
+00:41:02,020 --> 00:41:05,400
+but soon the computers IP address is blocked
 
-00:42:00,000 --> 00:42:59,800
-lorem ipsum
+00:41:05,720 --> 00:41:08,400
+for Swartz is barely a bump in the road
 
+00:41:08,420 --> 00:41:11,425
+he quickly reassigns his computer IP address
 
-00:43:00,000 --> 00:43:59,800
-lorem ipsum
+00:41:11,425 --> 00:41:13,420
+and keeps downloading
 
+00:41:13,420 --> 00:41:17,625
+Well JSTOR and MIT take a number of step to try interfer with this
 
-00:44:00,000 --> 00:44:59,800
-lorem ipsum
+00:41:17,630 --> 00:41:19,525
+when they noticed that this was happening
 
+00:41:19,530 --> 00:41:22,925
+and when the more modest steps don't work in a certain stage they,
 
-00:45:00,000 --> 00:45:59,800
-lorem ipsum
+00:41:22,930 --> 00:41:26,925
+JSTOR, just cuts off MIT from having access to the JSTOR database
 
+00:41:26,930 --> 00:41:33,475
+so this is a kind of cat mouse game around trying to get access to the JSTOR database
 
-00:46:00,000 --> 00:46:59,800
-lorem ipsum
+00:41:33,480 --> 00:41:35,825
+Aaron ultimately obviously is the cat 
+
+00:41:35,830 --> 00:41:42,075
+because he has more technical capabilities than the JSTOR database people defending them
+
+00:41:42,675 --> 00:41:46,765
+Eventually there was a lot[?] of supplies in the basement of one of the buildings
+
+00:41:46,770 --> 00:41:48,515
+they whent, instead of going through WiFi 
+
+00:41:48,520 --> 00:41:51,015
+he went down there and he just plugged his computer directly into the network
+
+00:41:51,020 --> 00:41:55,875
+and just left it there with an external hard drive dowloading articles to the computer
+
+00:41:56,625 --> 00:42:01,900
+Unkown to Swartz his laptop and hard drive had been found by authorities
+
+00:42:03,150 --> 00:42:08,325
+they didn't stop the downloads, instead they installed a surveillance camera
+
+00:42:10,200 --> 00:42:14,670
+They found that computer in this room in the basement of an MIT building
+
+00:42:14,675 --> 00:42:18,740
+they could have unplugged it, they could have waited for the guy to come back
+
+00:42:18,750 --> 00:42:23,640
+and say "Dude, what are you doing? You know, cut it out. Who are you?"
+
+00:42:23,650 --> 00:42:25,640
+and they could have done all this kind of stuff, but they didn't
+
+00:42:25,650 --> 00:42:29,905
+what they wanted to do was film it to gather evidences to make a case
+
+00:42:29,920 --> 00:42:32,825
+that's the only reason you film something like that
+
+00:42:38,100 --> 00:42:41,575
+At first the only person caught on the glitchy[?] surveillance camera
+
+00:42:41,650 --> 00:42:45,275
+was using the closet as a place to store bottles and cans
+
+00:42:53,100 --> 00:42:56,025
+But days later it caught Swartz
+ 
+00:43:05,550 --> 00:43:11,215
+Swartz is replacing a hard drive, he takes it out of his backpack,
+
+00:43:11,220 --> 00:43:15,750
+leans out of frame for about 5 minutes, and then leaves
+
+00:43:37,025 --> 00:43:42,150
+And then, like, organise a [?] as he was biking home from MIT
+
+00:43:42,325 --> 00:43:46,400
+these cops came out from, like, other side of the road, or something like that, instead of going after him
+
+00:43:49,375 --> 00:43:55,000
+He describes that he was pressed down and assoulted by the police
+
+00:43:55,000 --> 00:43:57,800
+he tells me that they... it's unclear[?] they were police 
+
+00:43:57,810 --> 00:44:02,100
+that were after someone [?] was trying to attack him. 
+
+00:44:02,150 --> 00:44:04,350
+He does tell me they beat him up.
+
+00:44:08,150 --> 00:44:09,500
+He was just devastaded.
+
+00:44:09,525 --> 00:44:14,800
+The notion of any kind of criminal prosecution of anyone in our family
+
+00:44:14,800 --> 00:44:18,175
+was so foreign[?] and uncomprensible, I didn't know what to do.
+
+00:44:18,250 --> 00:44:21,315
+Well they executed search warrants[?] at Aaron's house,
+
+00:44:21,320 --> 00:44:24,775
+his apartment in Canbdridge and his office at Harward.
+
+00:44:27,670 --> 00:44:33,625
+Two days before the arrest the investigation had gone beyod JSTOR and the local Cambridge police
+
+00:44:33,775 --> 00:44:37,150
+they had been taken over by the United States secret service.
+
+00:44:37,550 --> 00:44:42,400
+The secret service begun investigating computer and credit card fraud in 1984
+
+00:44:42,600 --> 00:44:46,600
+but 6 weeks after attack on 9/11 their role expanded.
+
+00:44:48,875 --> 00:44:50,925
+President Bush used the "Patriot Act"
+
+00:44:51,075 --> 00:44:55,350
+to establish a network of what they called "Electronic Crimes Task Forces".
+
+00:44:56,575 --> 00:45:01,500
+The bill before me takes account of the new realities and dangers posed by modern terrorists.
+
+00:45:01,600 --> 00:45:06,865
+According to the secret service they are primarily engaged in activities with economic impact,
+
+00:45:06,870 --> 00:45:11,400
+organized criminal groups or use of schemes involving new technology.
+
+00:45:11,700 --> 00:45:16,200
+The secret service turns Swartz's case over to the Boston US attorney office.
+
+00:45:16,200 --> 00:45:17,915
+There was a guy in the US attorneys office
+
+00:45:17,920 --> 00:45:22,175
+who had the title "Head of the computer crimes division" or "task force"
+
+00:45:22,300 --> 00:45:24,515
+I don't know what else he had going
+
+00:45:24,520 --> 00:45:27,390
+but you're certainly not much of a computer crime prosecutor
+
+00:45:27,400 --> 00:45:31,365
+without a computer crime to prosecute, so he jumped on it
+
+00:45:31,370 --> 00:45:35,145
+kept it for himself, didn't assign to anyone else in the office or the unit
+
+00:45:35,150 --> 00:45:37,015
+and that's Stephen Heymann.
+
+00:45:37,020 --> 00:45:41,650
+Prosecutor Stephen Heymann has been largerly out of public view since the arrest of Aaron Swartz
+
+00:45:42,000 --> 00:45:46,565
+but he can be seen here in an episode of the TV show "American Greed"
+
+00:45:46,570 --> 00:45:48,640
+filmed around the time of Aaron's arrest
+
+00:45:48,650 --> 00:45:53,425
+he's describing his previous case against the notorious hacker Albert Gonzalez.
+
+00:45:53,525 --> 00:45:57,040
+a case that gained Heymann enourmous pretentious[?] and accolades.
+
+00:45:57,050 --> 00:46:02,025
+Gonzalez masterminded the theft of over a hundred million credit card and ATM numbers
+
+00:46:02,075 --> 00:46:04,325
+the largest such fraud in history.
+
+00:46:04,475 --> 00:46:09,675
+Here Heymann, decribing Gonzalez, gives his view on the hacker mindset.
+
+00:46:10,200 --> 00:46:16,125
+These guys are driven by a lot of the same things that we're driven by
+
+00:46:16,275 --> 00:46:22,240
+they have an ego, they like challege and of course they like money
+
+00:46:22,250 --> 00:46:24,875
+and everything you can get from money.
+
+00:46:25,075 --> 00:46:27,665
+One of the suspects implicated in the Gonzalez case
+
+00:46:27,670 --> 00:46:30,000
+was a young hacker named Jonathan James
+
+00:46:30,010 --> 00:46:33,115
+believing Gonzalez's crimes would be pinned on him
+
+00:46:33,120 --> 00:46:36,025
+James committed suicide during the investigation.
+
+00:46:36,725 --> 00:46:41,100
+In an early press release describing the government's position in the case of Aaron Swartz
+
+00:46:41,250 --> 00:46:46,275
+Heymann's boss, US attorney for the disctrict of Massachusetts, Carmen Ortiz said this:
+
+00:46:46,375 --> 00:46:50,165
+Stealing is stealing, whether you use a computer command or a crowbar,
+
+00:46:50,170 --> 00:46:52,750
+and wether you take documents, data, or dollars
+
+00:46:53,100 --> 00:46:56,100
+It's not true. It's obviously not true.
+
+00:46:56,400 --> 00:46:58,790
+I'm not saying it's harmless
+
+00:46:58,800 --> 00:47:05,475
+and I'm not saying that we shouldn't criminalise stealing of information
+
 
 
 00:47:00,000 --> 00:47:59,800
