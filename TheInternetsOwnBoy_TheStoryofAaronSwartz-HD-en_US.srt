@@ -1635,31 +1635,214 @@ It's good for you the prosecutor,
 00:50:57,828 --> 00:51:02,194
 it's good for the republic 'cause you're fighting all those terrorist types
 
+00:51:02,200 --> 00:51:03,531
+I was so scared,
+
+00:51:03,577 --> 00:51:05,400
+I was so scared of having my computer ceased
+
+00:51:05,400 --> 00:51:07,200
+I was so scared of going to jail
+
+00:51:07,337 --> 00:51:10,068
+because of my computer being ceased
+
+00:51:10,137 --> 00:51:13,268
+I had confidential material from sources
+
+00:51:13,302 --> 00:51:15,260
+from my previous work on my laptop,
+
+00:51:15,634 --> 00:51:18,760
+and that is above all of my priority
+
+00:51:18,770 --> 00:51:20,411
+is to keep my sources safe.
+
+00:51:20,502 --> 00:51:24,697
+I was so scared of what was gonna happen to Ada
+
+00:51:25,508 --> 00:51:27,862
+Aaron told me that they offered me a deal
+
+00:51:28,331 --> 00:51:32,240
+and he finally just said, that he would take it if I told him to
+
+00:51:32,891 --> 00:51:35,862
+and I came real close to saying him "take it".
+
+00:51:37,862 --> 00:51:42,800
+He had this... he had developed, like, serious political aspirations
+
+00:51:42,868 --> 00:51:46,297
+in the intervening time between when, you know, that moment
+
+00:51:46,605 --> 00:51:51,360
+when he ended that entrepreneurial startup life
+
+00:51:51,360 --> 00:51:56,171
+and begun this new life that had come to this political activism
+
+00:51:57,165 --> 00:52:02,765
+and he just didn't believe that he could continue in this life
+
+00:52:02,982 --> 00:52:05,702
+with a felony, you know, he said to me one day
+
+00:52:05,805 --> 00:52:07,910
+we were walking by the white house and he said to me
+
+00:52:07,920 --> 00:52:09,800
+"they don't have felon work there"
+
+00:52:17,752 --> 00:52:20,696
+I mean, you know, he really wanted that to be his life.
+
+00:52:22,112 --> 00:52:25,216
+He hadn't killed anybody, he hadn't hurt anybody,
+
+00:52:25,256 --> 00:52:27,768
+he hadn't like stolen money
+
+00:52:28,208 --> 00:52:30,830
+he hadn't done anything that seemed felony worthy, right?
+
+00:52:31,808 --> 00:52:36,800
+and, there's this idea that, like,
+
+00:52:36,960 --> 00:52:38,960
+there's no reason that he should be labeled a felon
+
+00:52:39,000 --> 00:52:42,800
+and taken away his right to vote in many states
+
+00:52:43,320 --> 00:52:44,784
+for doing what he did, like,
+
+00:52:44,808 --> 00:52:46,890
+that's just outrageous, like, it makes sense for him to be
+
+00:52:46,900 --> 00:52:50,208
+you know, maybe fined a bunch of money or
+
+00:52:50,560 --> 00:52:53,872
+you know, asked not to come back at MIT again
+
+00:52:54,200 --> 00:52:57,904
+but like, to be a felon? to face jail time?
+
+00:53:01,120 --> 00:53:03,440
+Swartz turned down the plea deal
+
+00:53:03,910 --> 00:53:06,824
+Heymann were doubled his efforts,
+
+00:53:06,968 --> 00:53:12,512
+Heymann  continued to press us at all, at all levels.
+
+00:53:12,710 --> 00:53:14,512
+Even with the physical evidences
+
+00:53:14,520 --> 00:53:18,100
+ceased from Aaron Acer computer, hard drive and usb drive
+
+00:53:18,448 --> 00:53:21,232
+the prosecutors needed evidence of his motives.
+
+00:53:21,376 --> 00:53:24,696
+Why was Aaron Swartz downloading articles from JSTOR?
+
+00:53:24,824 --> 00:53:27,160
+and just what did he planned to do with them?
+
+00:53:29,160 --> 00:53:32,096
+The government claimed that he was planning to publish these,
+
+00:53:32,464 --> 00:53:36,008
+we don't really know whether that was his real intention
+
+00:53:36,016 --> 00:53:37,832
+because Aaron also had a history  of
+
+00:53:39,136 --> 00:53:42,768
+doing projects where he had analyzed giant datasets of articles
+
+00:53:42,920 --> 00:53:45,048
+in order to learn interesting things about them
+
+00:53:45,248 --> 00:53:48,136
+The best evidence for that is that when he was at Stanford
+
+00:53:48,650 --> 00:53:53,192
+he also downloaded the whole Westlaw legal database.
+
+00:53:53,616 --> 00:53:55,824
+In a project with Stanford law students
+
+00:53:55,864 --> 00:53:58,664
+Swartz had downloaded the Westlaw legal database
+
+00:53:58,712 --> 00:54:00,904
+he uncovered troubling connections between
+
+00:54:00,920 --> 00:54:04,208
+funders of legal research and favorable results.
+
+00:54:04,488 --> 00:54:07,696
+He did this amazing analysis of for profit companies
+
+00:54:07,700 --> 00:54:11,040
+giving money to law professors who wrote law review articles
+
+00:54:11,064 --> 00:54:15,072
+which would then beneficial to, like, Exxon, during an oil spill
+
+00:54:15,080 --> 00:54:19,528
+So it was a very corrupt system of funding, you know, vanity research.
+
+00:54:19,768 --> 00:54:22,680
+Swartz had never released the Westlaw documents.
+
+00:54:22,808 --> 00:54:25,544
+In theory he could have been doing the same thing about the JSTOR database
+
+00:54:25,656 --> 00:54:27,540
+That would have been completely OK.
+
+00:54:27,568 --> 00:54:29,976
+if he were on the other hand intending to
+
+00:54:29,992 --> 00:54:33,040
+create a competitive service to JSTOR,
+
+00:54:33,184 --> 00:54:37,064
+or gonna set up our own, you know, access to the Harward law review
+
+00:54:37,064 --> 00:54:39,060
+and charge money for it,
+
+00:54:39,104 --> 00:54:42,024
+then, you know, ok, now it seems like criminal violation
+
+00:54:42,040 --> 00:54:44,810
+because you're commercially trying to exploit this material
+
+00:54:44,820 --> 00:54:47,272
+but that's kind of crazy to imagine that's what he was doing.
+
+00:54:48,264 --> 00:54:49,624
+So, but than there's a middle case
+
+00:54:49,648 --> 00:54:52,720
+what if he was just trying to liberate for all of the developing world?
+
+00:54:53,736 --> 00:54:55,360
+But depending on what he was doing
+
+00:54:55,360 --> 00:54:58,648
+creates a very different character to how the law should be thinking about it
 
 
-
-
-
-
-
-
-
-
-
-00:51:00,000 --> 00:51:59,800
-lorem ipsum
-
-
-00:52:00,000 --> 00:52:59,800
-lorem ipsum
-
-
-00:53:00,000 --> 00:53:59,800
-lorem ipsum
-
-
-00:54:00,000 --> 00:54:59,800
-lorem ipsum
 
 
 00:55:00,000 --> 00:55:59,800
