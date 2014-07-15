@@ -1188,25 +1188,254 @@ lorem ipsum
 lorem ipsum
 
 
-00:36:00,000 --> 00:36:59,800
-lorem ipsum
+00:36:58,136 --> 00:37:00,100
+and moving the country in a more progressive direction
 
+00:37:00,296 --> 00:37:01,624
+to kind of come together
 
-00:37:00,000 --> 00:37:59,800
-lorem ipsum
+00:37:01,800 --> 00:37:03,368
+join our e-mail list, join our campaign,
 
+00:37:03,370 --> 00:37:06,128
+help get progressive candidates selected all across the country
 
-00:38:00,000 --> 00:38:59,800
-lorem ipsum
+00:37:06,272 --> 00:37:09,264
+The group is responsible for igniting the grassroots efforts
 
+00:37:09,270 --> 00:37:12,616
+behind the campaign to elect Elizabeth Warren
 
-00:39:00,000 --> 00:39:59,800
-lorem ipsum
+00:37:13,032 --> 00:37:15,160
+He might have thought was a dumb system, but
 
+00:37:15,352 --> 00:37:17,512
+he came in and he said I need to learn this system
 
-00:40:00,000 --> 00:40:59,800
-lorem ipsum
+00:37:17,688 --> 00:37:20,992
+'cause it can be manipulated, like any, you know, like any social system
 
+00:37:21,488 --> 00:37:23,848
+But his passion for knowledge and libraries
+
+00:37:23,904 --> 00:37:25,272
+didn't take a back seat
+
+00:37:25,744 --> 00:37:27,270
+Aaron began to take a closer look
+
+00:37:27,296 --> 00:37:30,488
+at institutions that publish academic journal articles
+
+00:37:31,248 --> 00:37:33,944
+A virtue of being a student at a major US univerity
+
+00:37:33,952 --> 00:37:37,920
+I assume that you have access to a wide variety of scholarly journals
+
+00:37:38,384 --> 00:37:41,160
+pretty much every major university in the United States
+
+00:37:41,200 --> 00:37:42,808
+pays these sort of licencing fees
+
+00:37:42,832 --> 00:37:46,072
+to organizations like JSTOR and [?]
+
+00:37:46,496 --> 00:37:49,056
+to get access to scholarly journals that
+
+00:37:49,096 --> 00:37:50,640
+the rest of the world can't read
+
+00:37:50,960 --> 00:37:53,064
+These scholarly journals and articles
+
+00:37:53,248 --> 00:37:57,240
+are essentlialy the entire wealth of human knowledge on-line
+
+00:37:57,288 --> 00:38:00,048
+and many had been payed for with taxpayer money
+
+00:38:00,296 --> 00:38:02,040
+or with government grants
+
+00:38:02,480 --> 00:38:04,952
+but to read them you often have to pay again
+
+00:38:05,130 --> 00:38:08,480
+handing over steep fees to publishers like Reed Elsevier
+
+00:38:08,830 --> 00:38:11,048
+These licensing fees are so substantial that
+
+00:38:11,152 --> 00:38:12,990
+people who are studing in India,
+
+00:38:12,995 --> 00:38:14,792
+instead of studing in the United States,
+
+00:38:15,104 --> 00:38:16,704
+don't have this kind of access
+
+00:38:16,880 --> 00:38:19,096
+they're left out from all of these journals
+
+00:38:19,472 --> 00:38:22,704
+they're left out from our entire scientific legacy
+
+00:38:22,992 --> 00:38:26,248
+I mean, a lot of those journal articles go back to the enlightenment
+
+00:38:26,800 --> 00:38:29,600
+everytime someone has written down a scientific paper
+
+00:38:29,610 --> 00:38:32,200
+it has been scanned, digitized and put in these collections
+
+00:38:32,848 --> 00:38:35,568
+that is a legacy that has been brought to us
+
+00:38:35,768 --> 00:38:38,432
+by the history of people doing interesting work
+
+00:38:38,464 --> 00:38:39,672
+the history of scientists
+
+00:38:39,768 --> 00:38:43,136
+it's legacy that should belong to us as commons, as a people
+
+00:38:43,392 --> 00:38:45,904
+but instead it's been locked down and put on-line
+
+00:38:45,910 --> 00:38:48,448
+by handful of for-profit corporations
+
+00:38:48,616 --> 00:38:51,336
+then trying to get the maximum profit as they can out of it
+
+00:38:53,376 --> 00:38:57,288
+So, a researcher by the University or the people
+
+00:38:57,688 --> 00:39:01,016
+publishes a paper and in the very very last step of that process
+
+00:39:01,040 --> 00:39:03,480
+after all the work is done, after all the original research is done,
+
+00:39:03,490 --> 00:39:05,856
+the thinking, the lab work, the analysis
+
+00:39:05,864 --> 00:39:08,232
+after everything is done, at that last stage
+
+00:39:08,488 --> 00:39:11,744
+then the researcher has to handover his or her copyright
+
+00:39:11,760 --> 00:39:13,740
+to this multi billion dollar company
+
+00:39:14,384 --> 00:39:15,280
+and it's sick!
+
+00:39:15,400 --> 00:39:17,864
+It's an entire economy built on volunteer labour
+
+00:39:18,216 --> 00:39:21,008
+and then the publishers sit at the very top and scrape off the cream
+
+00:39:21,744 --> 00:39:23,704
+Talk about a scam
+
+00:39:23,976 --> 00:39:28,936
+one publisher in Britain made a profit of 3 billion dollars last year
+
+00:39:28,976 --> 00:39:30,184
+I mean, what a racket!
+
+00:39:30,472 --> 00:39:33,944
+JSTOR is just a very very small player in that story
+
+00:39:33,976 --> 00:39:38,544
+but for some reason JSTOR is the player that Aaron decided to confront
+
+00:39:41,616 --> 00:39:43,720
+He gone to some conference around Open Access  and Open Publishing
+
+00:39:44,384 --> 00:39:46,352
+and, I don't know who the person from JSTOR was,
+
+00:39:46,376 --> 00:39:49,520
+but I think they, at some point Aaron asked the question, like:
+
+00:39:50,096 --> 00:39:53,048
+"How much would it cost to open up JSTOR in perpetuity?"
+
+00:39:54,368 --> 00:39:58,064
+and they gave some... I think is 200 billion dollars
+
+00:39:58,070 --> 00:40:00,060
+something that Aaron thought was truly ridiculous
+
+00:40:00,968 --> 00:40:02,888
+Working at a fellowship at Harward
+
+00:40:02,960 --> 00:40:07,392
+he knew users on MIT's famously open and fast network next door
+
+00:40:07,552 --> 00:40:10,328
+had authorized access to the riches of JSTOR
+
+00:40:10,392 --> 00:40:12,320
+Swartz saw an opportunity
+
+00:40:12,424 --> 00:40:14,320
+You have the key to those gates
+
+00:40:14,400 --> 00:40:17,328
+and, with a little bit of shell script magic
+
+00:40:17,888 --> 00:40:19,864
+you can get those journal articles
+
+00:40:21,024 --> 00:40:23,576
+On September 24th 2010
+
+00:40:23,752 --> 00:40:27,112
+Swartz registered a newly purchased Acer laptop
+
+00:40:27,136 --> 00:40:30,544
+on the MIT network, under the name Gary Host
+
+00:40:31,088 --> 00:40:34,248
+the client name was registered as "ghost_laptop"
+
+00:40:35,544 --> 00:40:38,656
+He doesn't hack JSTOR in the traditional sense of hacking
+
+00:40:38,720 --> 00:40:40,456
+the JSTOR database was organised so
+
+00:40:40,464 --> 00:40:42,088
+was completely trivial to figure out
+
+00:40:42,090 --> 00:40:44,440
+how you could download all the articles in JSTOR
+
+00:40:44,464 --> 00:40:45,560
+because are basically numbers
+
+00:40:45,590 --> 00:40:48,360
+it was basically "/"  "/"  "/"  number article...
+
+00:40:48,408 --> 00:40:52,630
+...444024, and ...25 ...26
+
+00:40:52,640 --> 00:40:55,392
+He wrote a python script called “keepgrabbing.py”
+
+00:40:55,416 --> 00:40:58,072
+which, was keep grabbing one article after another
 
 00:40:58,725 --> 00:41:01,825
 The next day ghost laptop begins grabbing articles
