@@ -1,4 +1,4 @@
-00:00:24,000 --> 00:00:25,900
+﻿00:00:24,000 --> 00:00:25,900
 Unjust laws exist;
 
 00:00:26,000 --> 00:00:28,600
@@ -1164,14 +1164,134 @@ lorem ipsum
 00:33:00,000 --> 00:33:59,800
 lorem ipsum
 
+00:34:59,800 --> 00:35:00,830
+Oh my goodness!
 
-00:34:00,000 --> 00:34:59,800
-lorem ipsum
+00:35:01,503 --> 00:35:03,153
+that was the FBI agent
 
+00:35:04,208 --> 00:35:05,192
+in my driveway
 
-00:35:00,000 --> 00:35:59,800
-lorem ipsum
+00:35:05,418 --> 00:35:08,075
+He was terrified, he was totally terrified
 
+00:35:09,717 --> 00:35:13,623
+he was way more terrified after the FBI actually
+
+00:35:13,896 --> 00:35:16,640
+called him up on the phone, tried to suck an amenda[?]
+
+00:35:16,640 --> 00:35:18,597
+coming down to a coffee shop without a lawyer
+
+00:35:19,040 --> 00:35:21,792
+He said he went home and laid down on the bed
+
+00:35:21,792 --> 00:35:23,790
+and, you know, was shaking
+
+00:35:25,620 --> 00:35:27,750
+The downloading also uncovered massive
+
+00:35:27,792 --> 00:35:30,141
+privacy violations in the court documents
+
+00:35:30,390 --> 00:35:34,094
+ultimately, the courts were forced to change their policies as a result
+
+00:35:35,152 --> 00:35:38,875
+and the FBI closed thier investigation without bringing charges
+
+00:35:39,628 --> 00:35:43,068
+To this day I find it remarkable, that anybody,
+
+00:35:43,260 --> 00:35:47,007
+even at the most remote [?]hog field office of the FBI,
+
+00:35:47,317 --> 00:35:49,661
+thought that a fitting use for taxpayer dollars
+
+00:35:49,802 --> 00:35:53,049
+was investigating people for criminal theft
+
+00:35:53,124 --> 00:35:55,581
+on the grounds that they had made the law public
+
+00:35:55,741 --> 00:35:57,952
+How can you call yourself a lawman
+
+00:35:58,291 --> 00:36:01,703
+and think there can possibly be anything wrong in this whole world
+
+00:36:01,882 --> 00:36:03,487
+with making the law public
+
+00:36:03,736 --> 00:36:06,263
+Aaron was willing to put himself at risk
+
+00:36:06,447 --> 00:36:08,800
+for the causes that he believed in
+
+00:36:09,576 --> 00:36:11,336
+Bothered by wealth disparity
+
+00:36:11,557 --> 00:36:13,440
+Swartz moves beyond technology
+
+00:36:13,468 --> 00:36:15,985
+in into a broader range of political causes
+
+00:36:16,225 --> 00:36:18,738
+I went into congress, and I invited him to
+
+00:36:18,823 --> 00:36:21,425
+come and hangout an intern for us for a while
+
+00:36:21,712 --> 00:36:25,035
+so that he could learn, you know, the political process
+
+00:36:25,303 --> 00:36:27,816
+he was sort of learning about a new community
+
+00:36:27,825 --> 00:36:28,865
+and a new set of skills
+
+00:36:29,200 --> 00:36:31,120
+and kind of learning to hack politics
+
+00:36:31,505 --> 00:36:34,315
+It's seems ridiculous that miners should have to hammer away
+
+00:36:34,315 --> 00:36:36,423
+until they whole bodies are dripping with sweat
+
+00:36:36,701 --> 00:36:38,884
+faced with the knowledge that if they dared to stop
+
+00:36:38,903 --> 00:36:40,880
+they won't be able to put food on the table that night
+
+00:36:41,369 --> 00:36:43,915
+while I get to make larger and larger amounts of money each day
+
+00:36:43,929 --> 00:36:45,463
+just by sitting and watching TV
+
+00:36:46,592 --> 00:36:48,621
+but apparently the world is ridiculous
+
+00:36:49,520 --> 00:36:51,242
+So, I co-founded a group called
+
+00:36:51,261 --> 00:36:53,077
+the "Progressive Change Campaign Committee"
+
+00:36:53,129 --> 00:36:56,145
+and what we're trying to do is organise people over the Internet
+
+00:36:56,145 --> 00:36:58,130
+who care about progressive politics
 
 00:36:58,136 --> 00:37:00,100
 and moving the country in a more progressive direction
