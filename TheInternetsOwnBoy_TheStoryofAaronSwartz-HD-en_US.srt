@@ -2440,45 +2440,382 @@ to get her to provide information which would be
 unhelpful to Aaron, and helpful to the prosecution of Aaron
 
 
-01:01:00,000 --> 01:01:59,800
-lorem ipsum
+01:01:00,394 --> 01:01:06,581
+But, you know, I don't think she had information that was helpful to the government.
 
+01:01:08,032 --> 01:01:12,000
+Months go by as Swartz's friends and family await a looming indictment.
 
-01:02:00,000 --> 01:02:59,800
-lorem ipsum
+01:01:12,426 --> 01:01:17,376
+In the meantime, Swartz was becoming a goto expert on a series of Internet issues.
 
+01:01:17,930 --> 01:01:22,261
+Do you think that the Intenet is something that should be considered a human right,...
 
-01:03:00,000 --> 01:03:59,800
-lorem ipsum
+01:01:22,261 --> 01:01:24,586
+.. something that the government can not take away from you.
 
+01:01:25,269 --> 01:01:30,624
+Yes. Definately. There is this notion that national security is an excuse to shut down the Internet.
 
-01:04:00,000 --> 01:04:59,800
-lorem ipsum
+01:01:30,624 --> 01:01:34,016
+That's exactly what we heard in Egypt, Syria and these other countries.
 
+01:01:34,293 --> 01:01:38,346
+And so its true. Its like Wikileaks are going to be putting up some embarassing material...
 
-01:05:00,000 --> 01:05:59,800
-lorem ipsum
+01:01:38,346 --> 01:01:39,818
+..about what what the US govt does.
 
+01:01:40,032 --> 01:01:42,506
+And people are going to be organizing to protest about it and...
 
-01:06:00,000 --> 01:06:59,800
-lorem ipsum
+01:01:42,506 --> 01:01:43,808
+... and try and change the government.
 
+01:01:44,149 --> 01:01:47,946
+You know, that's a good thing. Thats what all these First Amendment rights of free expression..
 
-01:07:00,000 --> 01:07:59,800
-lorem ipsum
+01:01:47,946 --> 01:01:49,952
+... freedom of association are all about.
 
+01:01:49,952 --> 01:01:55,264
+And so the notion that we should try and shut them down, I think, just goes against very basic American principles.
 
-01:08:00,000 --> 01:08:59,800
-lorem ipsum
+01:01:55,264 --> 01:01:58,101
+A principle, I think, is one that our founding fathers would have understood.
 
+01:01:58,101 --> 01:02:03,306
+If the Internet would have been around back then instead of putting Post Offices in the constituion they would have put ISPs.
 
-01:09:00,000 --> 01:09:59,800
-lorem ipsum
+01:02:05,504 --> 01:02:10,261
+Swartz meets activist Taren Steinbrickner-Kauffman and the two begin to date.
 
+01:02:10,794 --> 01:02:12,437
+...we the massive public outcry.
 
-01:10:00,000 --> 01:10:59,800
-lorem ipsum
+01:02:12,437 --> 01:02:15,616
+There is no massive global public outcry. It won't create any change.
 
+01:02:15,866 --> 01:02:19,136
+You know, 4 people in this city should cause a massive global public outcry.
+
+01:02:19,306 --> 01:02:22,144
+You know, we need a petition signer.
+
+01:02:22,394 --> 01:02:27,690
+Without telling her specifics, he warned her he was involved in something he called simply " the bad thing".
+
+01:02:27,800 --> 01:02:32,341
+And I had, sort of, crazy theories like that he was having an affair with Elizabeth Warren or...
+
+01:02:33,280 --> 01:02:35,776
+I speculated both Hillary Clinton and Elizabeth Warren.
+
+01:02:38,037 --> 01:02:44,480
+So sometime in probably late July Aaron called me and I happen to pick up and he said...
+
+01:02:45,354 --> 01:02:49,856
+..."The bad thing might be in the news tomorrow. Do you want me to tell you or do you want to read about it in the news.
+
+01:02:49,856 --> 01:02:51,520
+And I said, "I want you to tell me."
+
+01:02:53,504 --> 01:03:03,232
+And he said, "Well I have been arrested for downloading too many academic journal articles and they want to make an example out of me."
+
+01:03:04,640 --> 01:03:08,693
+And I was like, "Thats it! Thats the big fuss! Really?...
+
+01:03:09,589 --> 01:03:11,125
+...It doesn't sound like a very big deal."
+
+01:03:11,317 --> 01:03:17,632
+On  July 14th, 2011, Federal prosecutors indict Swartz on 4 felony counts.
+
+01:03:17,632 --> 01:03:24,117
+He gets indicted. On the same day 2 people in England who are part of LulzSec get arrested.
+
+01:03:24,608 --> 01:03:29,920
+And few other real hackers and Aaron is just someone who kind of looks like a hacker.
+
+01:03:29,920 --> 01:03:35,082
+enough that, they can like, put his head on the stakes and put it on the gates.
+
+01:03:35,317 --> 01:03:38,794
+Aaron went to surrender and they arrested him.
+
+01:03:39,178 --> 01:03:42,336
+They then strip searched him.
+
+01:03:42,805 --> 01:03:47,413
+Took away his shoelac es, took away his belt and left him in solitary confinement.
+
+01:03:50,290 --> 01:03:54,880
+The District of Massachusetts, United States Attorney's Office released a statement saying ...
+
+01:03:55,130 --> 01:04:05,354
+..."Swartz faces upto 35 yrs in prison to be followed by 3 yrs of supervised release, restitution, forefeiture and a fine of upto $1 Million.
+
+01:04:06,592 --> 01:04:09,136
+He was released on a $100,00 bail.
+
+01:04:09,386 --> 01:04:17,898
+The same day, the primary victim in the case JSTOR formally drops all charges against Swartz and declines to pursue the case.
+
+01:04:18,176 --> 01:04:24,874
+JSTOR, they weren't our friends. They weren't helpful or friendly to us but they also were just kind of like "We are not part of this."
+
+01:04:25,280 --> 01:04:30,784
+JSTOR, and their parent company Ithica, sidestepped request to talk for the film.
+
+01:04:30,976 --> 01:04:36,970
+But at the time they released a statement saying it was the goverment's decision weather to prosecute, not JSTORS's.
+
+01:04:38,208 --> 01:04:42,304
+And so it was our belief that with that the case would be over.
+
+01:04:43,093 --> 01:04:45,354
+That we should be able to get Stephen Heymann to drop the case.
+
+01:04:45,461 --> 01:04:48,175
+Or settle in some rational way.
+
+01:04:48,789 --> 01:04:50,133
+And the government refused.
+
+01:04:51,477 --> 01:04:52,053
+Interviewer: Why?
+
+01:04:55,658 --> 01:05:00,586
+Well, because I think, they wanted to make an example out of Aaron and they said the reason..
+
+01:05:00,586 --> 01:05:12,192
+why they wouldnt move on, requiring a felony conviction and jail time was that they wanted to use this case as a case for deterrence.
+
+01:05:12,192 --> 01:05:13,301
+They told us that.
+
+01:05:13,600 --> 01:05:14,112
+Interviewer: They told you that?
+
+01:05:14,362 --> 01:05:15,008
+Yes.
+
+01:05:15,136 --> 01:05:17,440
+Interviewer: This was gonna be an example?
+Aaron's Father: Yes.
+
+01:05:17,440 --> 01:05:21,877
+Interviewer: He was gonna be an example?
+Aaron's Father: Yes. Stephen Heymann said that.
+
+01:05:22,154 --> 01:05:26,336
+deterring who? Like there are other people running around and loggin onto JSTOR ..
+
+01:05:26,336 --> 01:05:29,685
+..and downloading the artcles to make a political statement, I mean, who are they deterring.
+
+01:05:29,728 --> 01:05:37,450
+It would be easier to understand Obama Administration's posture of supposedly being for deterrence...
+
+01:05:37,813 --> 01:05:43,530
+... if this had been Adminsitration that, for instance, prosecuted arguably the biggest economic crime...
+
+01:05:43,530 --> 01:05:49,376
+... this country has seen in the last 100 yrs.The crimes that were committed that led to the financial crisis on Wall St.
+
+01:05:50,421 --> 01:05:58,314
+When you start deploying the non-controversial idea of deterrence only selectively, ...
+
+01:05:58,400 --> 01:06:04,714
+.. you stop making a dispassionate analysis of law breaking and you started deciding to deploy...
+
+01:06:04,714 --> 01:06:10,709
+... law enforcement resources, specifically on the basis of political ideology and ...
+
+01:06:10,959 --> 01:06:15,573
+.. thats not just undemocratic it is supposed to be Un-American.
+
+01:06:19,850 --> 01:06:25,194
+Prosecutor Stephen Heymann later reportedly told MIT's outside counsel that the straw that broke...
+
+01:06:25,194 --> 01:06:31,240
+.. the camel's back was a press release sent out by an organization Swartz founded called "Demand Progress".
+
+01:06:31,240 --> 01:06:36,565
+According to the MIT account Heymann reacted to the short statement of support calling it a...
+
+01:06:36,565 --> 01:06:44,160
+.. a wild internet campaign and a foolish move that moved the case from human one-on-one level to an institutional level.
+
+01:06:44,394 --> 01:06:48,640
+That was a poisnous combination. A prosecutor who didn't want to lose face...
+
+01:06:48,890 --> 01:06:54,101
+.. who had a political carrer in the offing maybe and didn't want to have this to come back and haunt them..
+
+01:06:54,101 --> 01:06:57,898
+... you spent how many tax dollars arresting someone for taking too many books out of the library...
+
+01:06:57,898 --> 01:07:00,970
+.. and got your ass handed to you in court. No way!
+
+01:07:00,970 --> 01:07:05,514
+I then moved to try and put pressure on MIT in various ways to get them..
+
+01:07:05,514 --> 01:07:10,805
+... to go to the government and request the government to stop the prosecution.
+
+01:07:11,573 --> 01:07:13,365
+Interviewer: What was MIT's reaction then?
+
+01:07:14,944 --> 01:07:17,525
+There doesn't seem to be any reaction from MIT at that point.
+
+01:07:23,114 --> 01:07:30,602
+MIT doesn't defend Aaron, which for people inside of MIT community seems outrageous.
+
+01:07:30,730 --> 01:07:35,701
+Because MIT is a place that encourages hacking in the biggest sense of the word.
+
+01:07:35,900 --> 01:07:41,184
+At MIT the idea of going and running around in routes and tunnels that you weren't allowed to be in...
+
+01:07:41,184 --> 01:07:45,877
+.. was not only a rite of passage, it was part of the MIT tour.
+
+01:07:45,877 --> 01:07:49,952
+And lock picking was a winter course at MIT.
+
+01:07:50,990 --> 01:07:56,074
+They had the moral authority to stop it in its tracks.
+
+01:07:56,309 --> 01:08:00,789
+MIT never stood up and took a position of saying to the Feds, ..
+
+01:08:00,981 --> 01:08:07,360
+"Don't do this. We dont want you to do this. You are over reacting, this is too strong." , that I'm aware of.
+
+01:08:08,800 --> 01:08:15,680
+They acted kind of like any corporation would. They helped the government and they didn't help us...
+
+01:08:15,680 --> 01:08:21,418
+... unless they felt that they had to and they never tried to stop it.
+
+01:08:22,442 --> 01:08:25,216
+MIT declined repeated requests to comment.
+
+01:08:25,216 --> 01:08:30,208
+But they later released a report saying that they attempted to maintain a position of neutrality.
+
+01:08:30,208 --> 01:08:35,520
+and believed Heymann and US Attorney's office did not care what MIT thought or said about the case.
+
+01:08:35,861 --> 01:08:41,472
+MIT's behaviour seemed really at odds with the MIT ethos.
+
+01:08:42,069 --> 01:08:47,274
+You could argue that MIT turned a blind eye and that was okay for them to do...
+
+01:08:47,445 --> 01:08:52,757
+.. but taking that stance, taking that neutral stance in itself was taking a pro-prosecutor stance.
+
+01:08:52,757 --> 01:08:58,922
+If you look at Steve Jobs and Steve Wozniack, they started by selling a bluebox...
+
+01:08:58,922 --> 01:09:01,610
+..which was a thing designed to defraud the phone company.
+
+01:09:01,717 --> 01:09:08,949
+If you look at Bill Gates and Paul Allen, they initially started their buisness by using computer time at Harvard...
+
+01:09:08,949 --> 01:09:11,146
+... which was pretty clearly against the rules.
+
+01:09:11,146 --> 01:09:15,264
+Difference between Aaron and people that I just mentioned is that Aaron wanted to make the world a better place...
+
+01:09:15,264 --> 01:09:16,693
+.. he didn't want to just make money.
+
+01:09:19,296 --> 01:09:23,306
+Swartz continues to be outspoken on variety of Internet Issues.
+
+01:09:23,306 --> 01:09:28,597
+You know  the reason Internet works is because of the competitive market place of ideas.
+
+01:09:28,597 --> 01:09:31,925
+And what we need to be focussing on is getting more information about our government...
+
+01:09:31,925 --> 01:09:34,549
+... more accessability, more discussion, more debate.
+
+01:09:34,741 --> 01:09:38,261
+But instead it seems, what Congress is foccussed on is shutting the things down.
+
+01:09:38,688 --> 01:09:44,597
+Aaron thought that he could change the world just by explaining the world very clearly to people.
+
+01:09:44,789 --> 01:09:48,928
+FLAME can literally control your computer and make it spy on you.
+
+01:09:48,928 --> 01:09:52,021
+Welcome Aaron. Good to have you back on the show here.
+
+01:09:52,064 --> 01:09:56,373
+You know, just like spies used to, in olden days, put microphones and tap what people are saying....
+
+01:09:56,373 --> 01:09:58,784
+.... now they are using computers to do the same thing.
+
+01:09:59,253 --> 01:10:01,621
+Swartz's political activity continues.
+
+01:10:01,920 --> 01:10:06,848
+His attention turning to a bill moving through Congress designed to curb online piracy.
+
+01:10:06,848 --> 01:10:08,896
+It was called SOPA.
+
+01:10:09,322 --> 01:10:15,893
+Activists like Peter Eckersley saw it as an enormous over reach threatening the technical integrity of Internet itself.
+
+01:10:15,893 --> 01:10:18,218
+In one of the first things I did was to call Aaron.
+
+01:10:18,218 --> 01:10:21,909
+And I said can we do a big online campaign against this.
+
+01:10:21,909 --> 01:10:24,042
+This isn't a bill about copyright.
+
+01:10:25,109 --> 01:10:25,941
+Its not?
+
+01:10:26,538 --> 01:10:29,930
+No, he said. Its a bill about the freedom to connect.
+
+01:10:30,762 --> 01:10:31,808
+Now I was listening.
+
+01:10:32,426 --> 01:10:38,058
+And he thought about it for a while and then said yes and he went and founded Demand Progress.
+
+01:10:38,400 --> 01:10:44,480
+Demand Progress in an online activism organization. We got around a million and half member now.
+
+01:10:44,480 --> 01:10:47,509
+But started in the fall on 2010.
+
+01:10:47,759 --> 01:10:50,218
+Aaron was one of the most prominent people in a community of people..
+
+01:10:50,218 --> 01:10:55,338
+...who helped lead organizing around social justice issues at the federal level in this country.
+
+01:10:55,765 --> 01:10:59,968
+SOPA was the bill that was intended to curtail online piracy of ...
 
 01:11:00,000 --> 01:11:01,482
 .... music and movies.
