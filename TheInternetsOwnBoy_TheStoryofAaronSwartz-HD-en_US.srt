@@ -4048,3 +4048,11 @@ Very good, Aaron, very good!
 
 01:42:51,113 --> 01:42:56,890
 Okay! Now it's [?] time
+
+01:43:28,000 --> 01:43:34,000
+Subtitles Creative Commons CC0 license:
+http://creativecommons.org/publicdomain/zero/1.0/
+
+01:43:38,000 --> 01:43:45,000
+Contribute and help translating at:
+https://github.com/iliasbartolini/the-internet-s-own-boy--aaron-swartz--subtitles
