@@ -2519,48 +2519,397 @@ lorem ipsum
 01:20:00,000 --> 01:20:59,800
 lorem ipsum
 
+01:20:59,000 --> 01:21:03,594
+The answer is "We are spying on so many people we can't possibly even count them."
 
-01:21:00,000 --> 01:21:59,800
-lorem ipsum
+01:21:03,594 --> 01:21:05,749
+Then thats a awful lot of people.
 
+01:21:06,602 --> 01:21:10,058
+One thing that they said was "Look, we know number of telephones we are spying on,
 
-01:22:00,000 --> 01:22:59,800
-lorem ipsum
+01:21:10,058 --> 01:21:12,868
+..we dont know exactly how many real people that corresponds to."
 
+01:21:13,210 --> 01:21:15,349
+But they came back and said we can't give you a number at all.
 
-01:23:00,000 --> 01:23:59,800
-lorem ipsum
+01:21:15,349 --> 01:21:18,805
+Thats pretty... I mean, that's scary is what it is.
 
+01:21:19,055 --> 01:21:25,738
+And they put incredible pressure on him, took away .. all of the money he had made.
 
-01:24:00,000 --> 01:24:59,800
-lorem ipsum
+01:21:27,500 --> 01:21:29,807
+They threatened to take away his physical freedom.
 
+01:21:30,057 --> 01:21:34,293
+Why did they do it? Why are they going after whistleblowers?
 
-01:25:00,000 --> 01:25:59,800
-lorem ipsum
+01:21:34,543 --> 01:21:39,720
+Why are they going after people who tell the truth about all sorts of things...
 
+01:21:40,288 --> 01:21:46,197
+... from the banks, to the wars, to just government transparency.
 
-01:26:00,000 --> 01:26:59,800
-lorem ipsum
+01:21:46,447 --> 01:21:51,466
+So secrecy serves those who are already in power, and we are living in an era of secrecy..
 
+01:21:51,716 --> 01:21:58,656
+.. that coincides with an era where the government is doing, also, a lot of things that are probably illegal and unconstitutional.
 
-01:27:00,000 --> 01:27:59,800
-lorem ipsum
+01:21:59,722 --> 01:22:01,280
+So those two things are not coincidences.
 
+01:22:01,536 --> 01:22:06,296
+It is very clear that this technology has been developed not for small countries overseas...
 
-01:28:00,000 --> 01:28:59,800
-lorem ipsum
+01:22:06,296 --> 01:22:09,925
+... but right here for the use in United States by the US government.
 
+01:22:09,925 --> 01:22:16,896
+The problem with the spying programme is that its sort of long, slow expansion going back to the Nixon Administration.
 
-01:29:00,000 --> 01:29:59,800
-lorem ipsum
+01:22:16,896 --> 01:22:21,781
+Obviosly it became big after 9/11 under George W. Bush and Obama has continued to expand it.
 
+01:22:22,031 --> 01:22:26,709
+The problems have slowly grown worse and worse but there has been this moment you can point to and say ..
 
-01:30:00,000 --> 01:30:59,800
-lorem ipsum
+01:22:26,959 --> 01:22:30,976
+"Okay we need to galvanize opposition today because today is when it matters."
 
+01:22:32,234 --> 01:22:41,237
+The prosecution, in my estimation, of Aaron Swartz was about sending a particular laser like message to a group of people...
 
-01:31:00,000 --> 01:31:02,954
+01:22:41,237 --> 01:22:45,504
+that the Obama Administration sees as politically threatening.
+
+01:22:47,701 --> 01:22:53,781
+And that is the essentially the hacker, the information, and the democracy activist community.
+
+01:22:54,031 --> 01:23:00,522
+And the message that the Obama Administration wanted to send to that particular community was in my estimation...
+
+01:23:00,772 --> 01:23:06,666
+.." we know you have the ability to make trouble for the establishment and so were going to try to make...
+
+01:23:06,916 --> 01:23:13,600
+... an example out of Aaron Swartz. To scare as many of you as possible into not making that trouble."
+
+01:23:13,600 --> 01:23:20,277
+And the governement said "oh the legal opinions we are using to legalize the spying programme are also classified.
+
+01:23:20,527 --> 01:23:23,498
+.. So we can't even tell you which laws we are using to spy on you."
+
+01:23:23,498 --> 01:23:28,192
+Everytime they can say "Oh this is another instance of cyber war" or "the cyber criminals are attacking us agian" ..
+
+01:23:28,442 --> 01:23:30,368
+.. "we are all in danger, we are all under threat".
+
+01:23:30,618 --> 01:23:33,973
+They use those as an excuse to push through more and more dangerous laws.
+
+01:23:36,874 --> 01:23:41,269
+Interviewer: Personally, how do you feel the fight is going?
+
+01:23:41,519 --> 01:23:42,890
+Its upto you.
+
+01:23:47,404 --> 01:23:52,597
+You know there are sort of these two polarizing prespectives.
+
+01:23:52,847 --> 01:23:57,013
+Everything is great. Internet has created all this freedom and liberty and everythings gonna be fantastic.
+
+01:23:57,263 --> 01:24:03,370
+Or everything is terrible. Internet has created all these tools for cracking down and spying and controlling what we say.
+
+01:24:03,712 --> 01:24:05,312
+And I think these both are true.
+
+01:24:06,293 --> 01:24:10,069
+The internet has done both and both are kind of amazing and astonishing.
+
+01:24:10,319 --> 01:24:12,949
+And which one will win out in the long run is upto us.
+
+01:24:13,199 --> 01:24:15,914
+It doesn't make sense to say "Oh one is doing better than the other."
+
+01:24:16,164 --> 01:24:17,621
+They are both true.
+
+01:24:17,728 --> 01:24:21,461
+And its upto us which one we emphasize and which one we take advantage of.
+
+01:24:21,711 --> 01:24:23,701
+Because they are both there and they are always gonna be there.
+
+01:24:29,184 --> 01:24:34,901
+On Sept 12th, 2012, Federal prosecutors filed a superseeding indictment against Swartz.
+
+01:24:34,965 --> 01:24:40,256
+Adding additional counts of wire fraud, unauthorized access to a computer and Computer Fraud.
+
+01:24:40,506 --> 01:24:45,397
+Now instead of 4 felony counts Swartz was facing 13.
+
+01:24:45,760 --> 01:24:48,576
+The prosecution leverage had dramatically increased.
+
+01:24:48,826 --> 01:24:51,797
+As did Swartz's potential jail time and fines.
+
+01:24:52,047 --> 01:24:55,488
+They filed a seperate indictment to add more charges.
+
+01:24:55,738 --> 01:25:01,589
+And they had a theory about why this conduct constituted a number of federal crimes.
+
+01:25:01,839 --> 01:25:05,749
+And that a very significant sentence could attach to it under the law.
+
+01:25:06,785 --> 01:25:13,984
+That theory and much of the prosecution case agianst Swartz involved a law created originally in 1986.
+
+01:25:14,234 --> 01:25:16,501
+It is called "Computer Fraud and Abuse Act.".
+
+01:25:16,885 --> 01:25:19,914
+The Computer Fraud and Abuse Act was inspired by the movie "War Games",
+
+01:25:20,164 --> 01:25:21,664
+with Mathew Brodrick, which was a great movie.
+
+01:25:23,328 --> 01:25:30,133
+In this movie, a kid get the ability through the magic of computer networks to launch a nuclear attack.
+
+01:25:34,229 --> 01:25:39,840
+Now that's not actually possible and certainly wasn't possible in the 80s but apparently this movie scared
+
+01:25:39,904 --> 01:25:44,960
+Congress enough to pass the original Computer Fraud and Abuse Act.
+
+01:25:45,130 --> 01:25:53,130
+This is a law that is behind the times. For example it penalises a Terms of Services kind of arrangements
+
+01:25:53,130 --> 01:26:01,408
+and something like eHarmony or match.com and somebody sort of inflates their own personal characteristic
+
+01:26:01,408 --> 01:26:05,845
+and all of a sudden depending on the jurisdiction and prosecutor they
+
+01:26:05,952 --> 01:26:08,106
+could be in whole host of troubles.
+
+01:26:08,120 --> 01:26:10,389
+We all know what Terms of Use are.
+
+01:26:10,602 --> 01:26:16,298
+Most people don't read them, but not abiding by their terms could mean you are committing a felony.
+
+01:26:16,426 --> 01:26:20,458
+The website terms of service often say things like "Be nice to each other" or..
+
+01:26:20,708 --> 01:26:22,510
+.."dont do anything thats improper".
+
+01:26:22,760 --> 01:26:27,605
+The idea that criminal law has anything to say about these kinds of violations,
+
+01:26:27,855 --> 01:26:29,845
+..I think strikes most people as crazy.
+
+01:26:30,784 --> 01:26:33,130
+The examples even get even more crazy.
+
+01:26:33,664 --> 01:26:36,202
+Untill it was changed in March, 2013.
+
+01:26:36,202 --> 01:26:42,645
+Terms of Use on the website of Seventeen Magzine said you had to be 18 in order to read it.
+
+01:26:42,880 --> 01:26:48,768
+I would say that the way CFAA has been interpreted by Justice Department, we are all probabaly breaking the law.
+
+01:26:49,600 --> 01:26:55,082
+Vauge and prone to misuse CFAA has become "one size, fits all" hammer ...
+
+01:26:55,082 --> 01:26:57,792
+.. for a wide range of computer related disputes.
+
+01:26:58,005 --> 01:27:05,002
+Though not the only factor in his case, 11 of 13 charges against Swartz involved the Computer Fraud and Abuse Act.
+
+01:27:07,626 --> 01:27:11,765
+The question "Why?" hangs over much of the story of Aaron Swartz.
+
+01:27:12,213 --> 01:27:15,840
+Just what was motivating the goverment and what their case would have been.
+
+01:27:16,501 --> 01:27:19,445
+The Dept. of Justice declined requests for answers.
+
+01:27:19,637 --> 01:27:23,285
+But Prof. Orin Kerr is a former prosecutor who has studied the case.
+
+01:27:23,754 --> 01:27:28,128
+So I think I come about this case from a different direction than other people on a number of reasons.
+
+01:27:28,277 --> 01:27:32,437
+I was a federal prosecutor at Justice Dept. for 3 yrs before I started teaching.
+
+01:27:32,821 --> 01:27:37,920
+The govt. came forward with an indictment based on what crimes they thought were committed...
+
+01:27:37,920 --> 01:27:43,402
+Just as a purely lawyers matter, looking at the precedents, lookings at the statues, looking at history..
+
+01:27:43,652 --> 01:27:48,373
+.. looking at the cases that are out there so far I think it was a fair indictment based on that.
+
+01:27:49,120 --> 01:27:51,573
+You can debate whether they should have charged this case.
+
+01:27:51,573 --> 01:27:52,768
+There is just a lot of disagreement.
+
+01:27:52,874 --> 01:27:56,992
+Some people are on Open Access side, some people are not.
+
+01:27:57,568 --> 01:28:03,264
+I think the govt took Swartz's Guerilla Open Access Manifesto very seriously.
+
+01:28:03,946 --> 01:28:09,813
+And I think they saw him as somebody who was committed, as a moral imperative...
+
+01:28:09,813 --> 01:28:15,488
+.. to breaking the law to overcome the law that Swartz saw as unjust.
+
+01:28:15,488 --> 01:28:20,821
+And in a democracy if you think a law is unjust there are ways of changing that law.
+
+01:28:20,821 --> 01:28:24,725
+There is: going to congress as Swartz did so masterfully with SOPA or...
+
+01:28:24,725 --> 01:28:28,458
+... or you can violate that law in order to nullify that law.
+
+01:28:28,458 --> 01:28:32,512
+And I think what was driving the prosecution was the sense...
+
+01:28:32,762 --> 01:28:39,594
+... that Swartz was committed not just to breaking the law but really making sure that law was nullified.
+
+01:28:40,042 --> 01:28:45,312
+That everyone would have have access to the database in a way that you couldn't put ...
+
+01:28:45,312 --> 01:28:47,381
+... the toothpaste back into the tube.
+
+01:28:47,381 --> 01:28:50,408
+It would be done and Swartz's side would win.
+
+01:28:52,650 --> 01:28:55,893
+There is a big disagreement in society as to whether that is an unjust law.
+
+01:28:55,893 --> 01:29:00,138
+And ultimately thats a decision for American people to make working through Congress.
+
+01:29:00,437 --> 01:29:03,680
+And second problem is I think , we are still trying to figure out...
+
+01:29:03,701 --> 01:29:07,754
+.. whats the line between less serious offenses and more serious offenses.
+
+01:29:07,946 --> 01:29:12,853
+We are now entering that different environment of computers and computer misuse...
+
+01:29:12,853 --> 01:29:18,442
+.. .and we don't yet have a really strong sense of exactly what these lines are, because we are woking that out.
+
+01:29:19,573 --> 01:29:22,065
+This is poor use of prosecutorial discretion.
+
+01:29:22,304 --> 01:29:28,405
+The hammer that the Justice Dept has to scare people with just gets bigger and bigger and bigger.
+
+01:29:28,576 --> 01:29:32,970
+And so most people, you know, can't role dice with your life like that.
+
+01:29:32,970 --> 01:29:35,661
+Should we tap somebody's phone? Should we film them?
+
+01:29:35,670 --> 01:29:39,328
+Should we turn somebody and get them to testify against these other people
+
+01:29:39,754 --> 01:29:42,421
+That's how federal agents and prosecutors think.
+
+01:29:42,421 --> 01:29:45,194
+They build cases, they make cases.
+
+01:29:47,008 --> 01:29:50,208
+Swartz was caught in the gears of brutal criminal justice system...
+
+01:29:50,208 --> 01:29:51,829
+... that could not turn back.
+
+01:29:52,042 --> 01:29:56,885
+A machine that has made America the country with the highest rate of incarceration in the world.
+
+01:29:57,269 --> 01:30:02,773
+We have in this country allowed ourselves to be captured by the politics of fear and anger...
+
+01:30:02,773 --> 01:30:08,021
+and anything we are afraid of, like the future of the internet and access...
+
+01:30:08,746 --> 01:30:11,925
+...and anything we are angry about instinctively creates ..
+
+01:30:12,175 --> 01:30:13,589
+... a criminal justice intervention.
+
+01:30:13,824 --> 01:30:17,453
+And we have used jail, prison and punishment...
+
+01:30:17,703 --> 01:30:20,864
+.. to resolve whole host of problems that historically were never...
+
+01:30:20,864 --> 01:30:22,741
+... seen as criminal justice problem.
+
+01:30:23,210 --> 01:30:27,626
+The impulse to threaten, indict, prosecute which is part of...
+
+01:30:27,818 --> 01:30:32,789
+.. what has created this debate and contorversy over online access and information on the internet.
+
+01:30:33,002 --> 01:30:35,477
+It's very consistent with what we have seen in other areas..
+
+01:30:35,477 --> 01:30:40,981
+..one difference is people are usually targeted and victimized by these kinds of...
+
+01:30:41,472 --> 01:30:45,333
+criminal and carceral responses are typically poor and minority.
+
+01:30:47,530 --> 01:30:50,752
+Swartz's isolation from friends and family increased.
+
+01:30:50,922 --> 01:30:53,354
+He had basically stopped working on anything else.
+
+01:30:53,397 --> 01:30:56,746
+And the case was in fact taking over his whole life.
+
+01:30:57,066 --> 01:31:00,090
+One of Aaron's lawyers apparently told the prosecutors that...
+
+01:31:00,100 --> 01:31:02,954
 he was emotionally vulnerable.
 
 01:31:03,204 --> 01:31:06,837
