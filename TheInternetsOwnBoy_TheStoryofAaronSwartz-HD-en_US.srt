@@ -2480,46 +2480,457 @@ lorem ipsum
 lorem ipsum
 
 
-01:11:00,000 --> 01:11:59,800
-lorem ipsum
+01:11:00,000 --> 01:11:01,482
+.... music and movies.
 
+01:11:01,482 --> 01:11:07,180
+But what it did was basically take a sledge hammer to a problem that needed a scalpel.
 
-01:12:00,000 --> 01:12:59,800
-lorem ipsum
+01:11:07,306 --> 01:11:10,549
+If passed the law would allow a company to cut off finances.
 
+01:11:10,799 --> 01:11:16,650
+... to entire website without due process or even to force Google to exclude their links.
 
-01:13:00,000 --> 01:13:59,800
-lorem ipsum
+01:11:16,949 --> 01:11:20,448
+All they needed was a single claim of copyright infringment.
 
+01:11:20,960 --> 01:11:24,029
+It pitted the titans of traditional media against the new...
 
-01:14:00,000 --> 01:14:59,800
-lorem ipsum
+01:11:24,279 --> 01:11:27,168
+.. and now far more sophisticated remix culture.
 
+01:11:27,168 --> 01:11:31,242
+It makes everyone who runs a website into a policeman and if they dont do...
 
-01:15:00,000 --> 01:15:59,800
-lorem ipsum
+01:11:31,242 --> 01:11:33,888
+.. their job of making sure that nobody on their site uses it for anything...
 
+01:11:34,138 --> 01:11:38,645
+... that even potentially illegal, the entire site could get shutdown without even so much as a trial.
 
-01:16:00,000 --> 01:16:59,800
-lorem ipsum
+01:11:39,050 --> 01:11:43,509
+This was over the top. I mean, this was a catostrophy.
 
+01:11:43,957 --> 01:11:49,312
+This bill poses a serious threat to speech and civil liberties....
 
-01:17:00,000 --> 01:17:59,800
-lorem ipsum
+01:11:49,562 --> 01:11:51,573
+.. for all who use the internet.
 
+01:11:51,957 --> 01:11:58,570
+Only handful of us who said "Look we are not for piracy either but it makes no sense to destory...
 
-01:18:00,000 --> 01:18:59,800
-lorem ipsum
+01:11:58,820 --> 01:12:03,562
+... the architecture of the Internet, the domian name system and so much that makes it free and open..
 
+01:12:03,812 --> 01:12:05,900
+..in the name of fighting piracy..
 
-01:19:00,000 --> 01:19:59,800
-lorem ipsum
+01:12:06,220 --> 01:12:07,330
+And Aaron got that right away.
 
+01:12:07,680 --> 01:12:11,392
+The freedoms guaranteed in our constitution, freedoms our country has been built on...
 
-01:20:00,000 --> 01:20:59,800
-lorem ipsum
+01:12:11,392 --> 01:12:13,845
+.. would be suddenly deleted.
 
-01:20:59,000 --> 01:21:03,594
+01:12:14,314 --> 01:12:17,941
+New technology instead of bringing us greater freedom would have snuffed out...
+
+01:12:18,069 --> 01:12:20,138
+.. fundamental rights we had always taken for granted.
+
+01:12:21,110 --> 01:12:26,858
+And I realized that day talking to Peter, that I couldn't let that happen.
+
+01:12:28,608 --> 01:12:33,365
+When SOPA was introduced in October 2011 it was considered inevitable..
+
+01:12:33,493 --> 01:12:37,354
+Our strategy when it first came out was to hopefully slow the bill down...
+
+01:12:37,461 --> 01:12:44,437
+.. maybe weaken it a little bit, but even we didn't think that we would be able to stop this bill.
+
+01:12:45,329 --> 01:12:51,669
+Having worked in Washington what you learn is that typically in Washington...
+
+01:12:52,053 --> 01:12:57,962
+.. the legislative fights are fights between different sets of corporate moneyed interests.
+
+01:12:58,112 --> 01:13:03,402
+And all duking it out to pass legislations and the fights that are the closest are when you have...
+
+01:13:03,652 --> 01:13:08,138
+.. one set of corporate interest against another set of corporate interests and they are financially...
+
+01:13:08,138 --> 01:13:11,168
+... equally matched in terms of campaign contributions and lobbying.
+
+01:13:11,168 --> 01:13:12,661
+Those are the closest ones.
+
+01:13:12,789 --> 01:13:18,442
+The ones that aren't even fights, typically, are ones where all the money is on one side ...
+
+01:13:18,485 --> 01:13:20,480
+..all the corporations are on one side.
+
+01:13:20,618 --> 01:13:22,858
+and its just millions of people are on the other side.
+
+01:13:25,141 --> 01:13:30,560
+I havent seen anything like PIPA and SOPA in all my time in public service.
+
+01:13:31,413 --> 01:13:36,832
+There were more than 40 United State senators on that bill as co-sponsers.
+
+01:13:37,557 --> 01:13:43,744
+So there were already a long long way to getting 60 votes to clear all the procedural hoops.
+
+01:13:44,682 --> 01:13:48,010
+Even I began to doubt myself. It was a rough period.
+
+01:13:48,010 --> 01:13:53,514
+Swartz and Demand Progress were able to marshall enormous support using traditional outrage...
+
+01:13:53,514 --> 01:13:59,125
+.. combined with commonly used Voice over IP to make it very easy for people to call Congress.
+
+01:13:59,850 --> 01:14:03,050
+I've never met anybody else who was able to operate at..
+
+01:14:03,200 --> 01:14:08,320
+.. his level, both on the technological side and on the campaign strategy side.
+
+01:14:08,554 --> 01:14:12,629
+Millions of people contacted Congress and signed anti-SOPA petitions.
+
+01:14:12,757 --> 01:14:14,976
+Congress was caught off guard.
+
+01:14:15,872 --> 01:14:19,221
+There was just something about watching those clueless member of Congress...
+
+01:14:19,434 --> 01:14:23,786
+... debate the bill, watching them insist they could regulate the Internet and a bunch of nerds...
+
+01:14:23,786 --> 01:14:25,109
+.. couldn't possibly stop them.
+
+01:14:25,152 --> 01:14:26,112
+...I'm not a nerd.
+
+01:14:26,362 --> 01:14:27,648
+because I am not enough of a nerd.
+
+01:14:27,712 --> 01:14:30,869
+... maybe we ought to ask some nerds what this thing really does.
+
+01:14:30,869 --> 01:14:32,896
+Let's have hearing, bring in the nerds.
+
+01:14:35,861 --> 01:14:36,394
+Really?
+
+01:14:40,085 --> 01:14:41,770
+Nerds?
+
+01:14:42,325 --> 01:14:45,802
+You know, I think actually the word you are looking for is "Experts".
+
+01:14:46,698 --> 01:14:53,290
+To enlighten you, so your laws wont backfire, break the Internet.
+
+01:14:53,376 --> 01:14:56,832
+We used the term Geek, but we are allowed to use that because we are geeks.
+
+01:14:56,832 --> 01:15:01,888
+The fact that it got as far as it did without them talking to any technical experts..
+
+01:15:01,888 --> 01:15:04,704
+.. reflects the fact that there is a problem in this town.
+
+01:15:04,900 --> 01:15:10,784
+I'm looking for somebody to come before this body and testify in a hearing and say..
+
+01:15:11,034 --> 01:15:12,085
+.. this is why they are wrong.
+
+01:15:12,490 --> 01:15:15,669
+There used to be an office that provided Science and Technology advice...
+
+01:15:15,669 --> 01:15:19,488
+... and members could go to them and say "Help me understand XYZ".
+
+01:15:19,488 --> 01:15:22,069
+And Gingrich killed it. He said it was waste of money.
+
+01:15:22,069 --> 01:15:25,717
+Ever since then Congress has plunged into the dark ages.
+
+01:15:26,208 --> 01:15:29,856
+I don't think anybody thought that SOPA could be beaten, including Aaron.
+
+01:15:30,304 --> 01:15:34,528
+You think it was worth trying but it doesn't seem winable.
+
+01:15:34,720 --> 01:15:37,130
+And I remember, maybe a few months later, I remember him...
+
+01:15:37,130 --> 01:15:40,032
+... just turning to me and being like "I think we might win this."
+
+01:15:40,394 --> 01:15:42,250
+And I was like "That would be amazing,"
+
+01:15:44,500 --> 01:15:49,013
+Calls to Congress contiune when Domain hosting site GoDaddy becomes...
+
+01:15:49,013 --> 01:15:54,925
+... a supporter of the bill. Tens of thousnad of users transfer their Domain Names in protest.
+
+01:15:55,580 --> 01:15:59,658
+Within a week, a humbled GoDaddy reverses their position on SOPA.
+
+01:15:59,658 --> 01:16:06,976
+About when the Congress people that supported these record and movie industries realize..
+
+01:16:07,226 --> 01:16:10,432
+.. that there was this backlash they kind of scaled the bill back a little bit.
+
+01:16:10,432 --> 01:16:15,893
+You could see the curve happening. You could see that our arguments were starting to resonate.
+
+01:16:16,060 --> 01:16:18,986
+It was like Aaron had been like striking a match and he was being blown out,...
+
+01:16:18,986 --> 01:16:20,864
+.. striking another one and being blown out and finally..
+
+01:16:21,114 --> 01:16:24,789
+.. he managed to catch enough kindling that the flame actually caught and then ...
+
+01:16:24,789 --> 01:16:26,873
+... they turned into this roaring blaze.
+
+01:16:27,029 --> 01:16:32,042
+On January 16th, 2012, the White House issued a statement saying...
+
+01:16:32,042 --> 01:16:33,706
+.. they didn't support the bill.
+
+01:16:34,048 --> 01:16:35,776
+And then this happened.
+
+01:16:36,180 --> 01:16:40,135
+I'm a big believer that we should be dealing with issues of piracy and ...
+
+01:16:40,135 --> 01:16:42,048
+.. we should deal with them in a serious way.
+
+01:16:42,773 --> 01:16:44,480
+But this bill is not the right bill.
+
+01:16:44,501 --> 01:16:48,938
+When Jimmy Whales put his support towards blacking out Wikipedia..
+
+01:16:49,188 --> 01:16:52,864
+... the number 5 most popular website in the world..
+
+01:16:52,864 --> 01:16:58,688
+This is a website 7% of all of the clicks on anywhere on the Internet.
+
+01:16:58,837 --> 01:17:00,117
+Wikipedia went black.
+
+01:17:00,440 --> 01:17:01,589
+Reddit went black.
+
+01:17:01,877 --> 01:17:02,976
+Craigslist went black.
+
+01:17:03,600 --> 01:17:06,112
+Phonelines on Capitol Hill flat out melted.
+
+01:17:06,400 --> 01:17:09,755
+Members of Congress started rushing to issue statements retracting...
+
+01:17:09,781 --> 01:17:12,961
+.. their support for the bill, that they were promoting just a couple of days ago.
+
+01:17:13,920 --> 01:17:19,722
+Within 24 hours the number of oponents of SOPA in Congress went from this...
+
+01:17:19,722 --> 01:17:21,130
+to this.
+
+01:17:22,901 --> 01:17:29,962
+To see Congressmen and Senators slowly flipside throughout the day of blackout...
+
+01:17:29,962 --> 01:17:31,349
+.. was pretty unbeliveable.
+
+01:17:31,349 --> 01:17:34,080
+There was like a hundered representatives swing.
+
+01:17:34,506 --> 01:17:38,581
+And that was when, as hard as it was for me to believe after all this ...
+
+01:17:38,581 --> 01:17:39,925
+... we had won!
+
+01:17:40,693 --> 01:17:43,936
+The thing everyone said was impossible, some of the biggest companies..
+
+01:17:43,936 --> 01:17:48,544
+.. in the world had written of as kind of a pipe dream had happened.
+
+01:17:48,992 --> 01:17:50,037
+We did it!
+
+01:17:51,253 --> 01:17:52,106
+We won!
+
+01:17:55,840 --> 01:17:58,954
+This is a historic week in Internet politics.. maybe in American politics.
+
+01:17:58,954 --> 01:18:02,560
+The thing that we heard from people in Washington D.C,..
+
+01:18:02,560 --> 01:18:06,976
+..from staffers on Capitol Hill was, they recieved more e-mails and more phone calls..
+
+01:18:06,976 --> 01:18:10,581
+...on SOPA blackout day than they ever recieved about anything.
+
+01:18:10,581 --> 01:18:12,928
+I think that was an extremenly exciting moment.
+
+01:18:12,928 --> 01:18:17,770
+This was the moment when the Internet had grown up politically.
+
+01:18:17,770 --> 01:18:21,269
+It was exhilarating because its hard to believe that it actually happened.
+
+01:18:21,482 --> 01:18:25,472
+Its hard to believe, a bill with so much financial power behind it..
+
+01:18:25,941 --> 01:18:29,376
+... didn't simply sail through the Congress.
+
+01:18:29,376 --> 01:18:32,298
+And not only did it not sail through, it didnt pass at all.
+
+01:18:34,069 --> 01:18:39,061
+Its easy sometimes to feel like you are powerless. You come out on the streets and you march and you yell..
+
+01:18:39,061 --> 01:18:42,858
+.. nobody hears you. But I'm here to tell you today: You are powerfull!
+
+01:18:46,208 --> 01:18:48,554
+Maybe sometimes you feel like you not being listened to.
+
+01:18:48,554 --> 01:18:51,861
+But I'm here to tell you that you are.. you are being listened to.
+
+01:18:51,861 --> 01:18:56,405
+You are making a difference. You can stop this bill if you dont stop fighting.
+
+01:18:59,968 --> 01:19:02,404
+Stop PIPA! Stop SOPA!
+
+01:19:04,533 --> 01:19:07,370
+Some of the biggest Internet companies, to put it frankly, would benefit...
+
+01:19:07,776 --> 01:19:11,168
+.. from a world in which the little competitors could get censored.
+
+01:19:12,664 --> 01:19:14,048
+We can't let that happen.
+
+01:19:15,114 --> 01:19:19,125
+For him it was more important to be sure that you made a small change...
+
+01:19:19,125 --> 01:19:22,645
+... than to play a small part in a big change.
+
+01:19:23,477 --> 01:19:26,997
+But SOPA was like playing a major part in a major change.
+
+01:19:27,594 --> 01:19:30,240
+And so for him it was kind of like his proof of concept.
+
+01:19:30,490 --> 01:19:34,549
+Okay, You know what I want to do with my life is to change the world.
+
+01:19:34,826 --> 01:19:40,074
+I think about it in this really scientific way of measuring my impact...
+
+01:19:40,074 --> 01:19:42,314
+.. and this shows that it is possible.
+
+01:19:42,528 --> 01:19:45,472
+Right, the thing that I want to do with my life is possible.
+
+01:19:46,176 --> 01:19:50,869
+I have proved that I can do it.. that I Aaron Swartz could change the world.
+
+01:19:50,869 --> 01:19:56,352
+For a guy who never really thought he had done much...
+
+01:19:56,672 --> 01:19:57,888
+.. which was Aaron.
+
+01:19:59,381 --> 01:20:02,517
+It was one of the few moments where you could really see..
+
+01:20:03,925 --> 01:20:06,848
+... that he had felt like he had done something good.
+
+01:20:06,890 --> 01:20:11,392
+Feeling like here is his maybe one and only victory lap.
+
+01:20:13,717 --> 01:20:16,341
+Everyone said that there was on way could we stop SOPA.
+
+01:20:16,356 --> 01:20:22,025
+We stopped it. This are 3 outrageously good victories and the year isn't over yet.
+
+01:20:22,025 --> 01:20:25,194
+I mean, if there is a time to be positive its now.
+
+01:20:27,200 --> 01:20:29,845
+He wins SOPA a year after he is arrested.
+
+01:20:30,016 --> 01:20:31,978
+Its not an unambigously happy moment.
+
+01:20:31,978 --> 01:20:33,344
+There is a lot going on.
+
+01:20:33,344 --> 01:20:40,149
+He is so atuned towards participating in the political process, you can't stop him.
+
+01:20:40,490 --> 01:20:44,352
+The list of organizations Swartz founded or co-founded is enourmous.
+
+01:20:44,352 --> 01:20:48,256
+And years before Edward Snowden would expose widespread Internet surveillance...
+
+01:20:48,448 --> 01:20:50,858
+.. Swartz was already concerned.
+
+01:20:50,858 --> 01:20:55,296
+It is shocking to think that accountability is so lax that ...
+
+01:20:55,296 --> 01:20:59,106
+..they don't even have basic statistics about how big this spying programme is.
+
+01:20:59,200 --> 01:21:03,594
 The answer is "We are spying on so many people we can't possibly even count them."
 
 01:21:03,594 --> 01:21:05,749
