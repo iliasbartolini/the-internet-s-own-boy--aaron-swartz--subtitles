@@ -1140,60 +1140,69 @@ we just, we were constantly in contact
 00:26:57,500 --> 00:27:02,000
 but we were both really difficult people to deal with
 
-00:27:02,100 --> 00:27:07,100
-lorem ipsum
+00:27:04,720 --> 00:27:07,100
+In a very Ally McBeal discussion
 
 00:27:07,200 --> 00:27:10,700
-He confessed we had a theme song and I made him play it for me.
+he confessed we had a theme song and I made him play it for me.
 
 00:27:12,200 --> 00:27:14,900
-It was an extra-ordinary [?]
+It was "Extraordinary Machine" by Fiona Apple
 
 00:27:16,600 --> 00:27:21,900
-I think it was just that sense of kind of being a little bit embattled[?]
+I think it was just that sense of, kind of, being a little bit embattled
 
 00:27:22,000 --> 00:27:28,400
-that the song has umm... and it also had like this hopefulness[?] too.
+that the song has umm... and it also had like this hopefulness too.
 
 00:27:36,700 --> 00:27:42,800
 In many ways, Aaron was tremendously optimistic about life.
 
-00:27:42,800 --> 00:27:46,800
-Even when he didn't feel it. He took[?] it tremendously optimistic about life.
+00:27:42,450 --> 00:27:44,560
+Even when he didn't feel it.  
 
-00:27:53,400 --> 00:27:56,700
+00:27:44,600 --> 00:27:46,800
+He could be tremendously optimistic about life.
+
+00:27:53,400 --> 00:27:57,700
 Aaron: What are you doing?
-Quinn: [?]
+Quinn: Flickr has video now
 
 00:27:59,000 --> 00:28:04,800
 Swartz threw his energy into a string[?] of new projects involving access to public information
 
-00:28:04,900 --> 00:28:10,800
-including an accountability website called "Watchdog.net" and the project called the "Open Library"
+00:28:04,900 --> 00:28:08,600
+including an accountability website called "Watchdog.net" 
 
-00:28:10,800 --> 00:28:17,800
-So the open library project is a website [?] openlibrary.org and the idea is to be huge wiki
+00:28:08,650 --> 00:28:10,800
+and the project called the "Open Library"
 
-00:28:17,800 --> 00:28:23,600
-kind of[?] website with one page per book. So for every book ever published you wanna have a webpage
+00:28:10,800 --> 00:28:13,400
+So the open library project is a website 
+
+00:28:13,450 --> 00:28:17,300
+You can visit openlibrary.org and the idea is to be huge wiki
+
+00:28:17,350 --> 00:28:23,600
+a kind of website with one page per book. So for every book ever published you wanna have a webpage
 
 00:28:23,600 --> 00:28:28,600
-about it which combines all the informations from publishers, from book sellers, from libraries, from readers
+about it which combines all the information from publishers, from book sellers, from libraries, from readers
 
 00:28:28,700 --> 00:28:34,600
 under one site and then gives you links, so that you can buy it, you can borrow it or you can browse it.
 
 00:28:35,200 --> 00:28:39,600
-I love libraries. I am the kind of person who goes to the new city & immediately sits off the library.
+I love libraries, you know, I'm the kind of person who goes to the new city and immediately seeks out the library.
 
 00:28:39,700 --> 00:28:45,600
 That's the dream of the Open library, building this website where both you can meet from book to book from person
 
 00:28:45,700 --> 00:28:52,600
-to author from subject to idea. You go through this [?] of knowledge embedded[?] and lost in physical library
+to author from subject to idea. You go through this vastity[?] of knowledge that has been embedded and lost in physical library
 
 00:28:52,700 --> 00:28:57,600
-that's hard to find, that's not very well accessible online[?]. It's really imporatant because books are
+that's hard to find, that's not very well accessible online. It's really imporatant because books are
 
 00:28:57,800 --> 00:29:02,200
 our cultural legacy. Books are the place where people write things down.
@@ -1202,16 +1211,16 @@ our cultural legacy. Books are the place where people write things down.
 and to have that all swallowed up by one corporation, it's kind of scary.
 
 00:29:07,000 --> 00:29:13,700
-How can you bring public access to the public domain? [?] me sound obvious, that you would have public
+How can you bring public access to the public domain? To me sound obvious, that you would have public
 
 00:29:13,800 --> 00:29:18,900
 access, public domain, but the fact is not true. So the public domain should be free to all.
 
 00:29:19,000 --> 00:29:25,500
-But it is often locked up. It's often no guard gates, it is just like having national park.
+But it is often locked up. It's often no guard gates, it is just like having national park
 
 00:29:25,600 --> 00:29:31,500
-but with a [?] around it and guntards[?] pointed to out, incase somebody might want actually come
+but with a moat around it and gun turrets pointed to out, in case somebody might want actually come
 
 00:29:31,600 --> 00:29:36,500
 and enjoy the public domain. One of the things Aaron was particularly interested in was
@@ -1220,7 +1229,7 @@ and enjoy the public domain. One of the things Aaron was particularly interested
 bringing public access to the public domain. It's one of the things that got him into so much trouble.
 
 00:29:46,300 --> 00:29:52,500
-I had been trying to get access to federal court records in the united states.
+I had been trying to get access to federal court records in the United States.
 
 00:29:54,400 --> 00:30:00,500
 What I discovered was a puzzling system called "PACER", which stands for "Public Access
@@ -1232,25 +1241,25 @@ to Court Electronic Records. I started googling and that's when I read across "C
 Access to legal materials in the United States is a 10 billion dollar per year business.
 
 00:30:14,600 --> 00:30:24,500
-PACER is just this incredible [?] of government. Services 10 cents a page. It's this most brain dead
+PACER is just this incredible abomination of government services. It's 10 cents a page. It's this most brain dead
 
 00:30:24,600 --> 00:30:29,500
 code you have ever seen, you can't search it, you can't bookmark anything, you got to have a credit card
 
 00:30:29,600 --> 00:30:35,500
-and these are public records, it's you know these records are very imporant, that's where all our
+and these are public records, it's you know US district courts are very imporant, that's where all our
 
 00:30:35,600 --> 00:30:42,500
-seminal litigations starts, civil right cases, patent cases also its a stuff in journalism students,
+seminal litigations starts, civil right cases, patent cases also it's a stuff in journalism students,
 
 00:30:42,600 --> 00:30:48,500
 citizens and lawyers all need access to PACER and it fights in every step in the way.
 
 00:30:48,600 --> 00:30:55,700
-People without means[?] can't see the law as early as people who have gold American express card. It's the
+People without means can't see the law as readily as people who have gold American express card. It's a
 
 00:30:55,800 --> 00:30:57,800
-poll[?] tax access to justice.
+poll[?] tax on access to justice.
 
 00:30:57,800 --> 00:31:04,800
 You know the Law is the Operating system of our democracy and you have to pay to see it?
