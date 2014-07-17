@@ -1,19 +1,4 @@
-00:00:03,220 --> 00:00:05,790
-It's very simple to write a subtitle
-
-00:00:06,220 --> 00:00:10,790
-You just have to specify the time when you want the text to be displayed
-
-00:00:11,220 --> 00:00:14,790
-You can use <i>italic</i> and <b>bold</b>!
-
-00:00:15,220 --> 00:00:18,321
-Make sure you display the sentence long enough to be read :)
-
-00:00:19,220 --> 00:00:23,321
-Keep sentences less than 2 lines, they might become longer when translated in other languages
-
-00:00:24,000 --> 00:00:25,900
+﻿00:00:24,000 --> 00:00:25,900
 Unjust laws exist;
 
 00:00:26,000 --> 00:00:28,600
@@ -942,7 +927,7 @@ And so what you see now is not a question of
 You know you started seeing power centralizing in sites like Google, these sort of gate keepers< that tell you
 
 00:21:29,500 --> 00:21:34,500
-where on the internet where you want to go. The people who provides you, your sources of news information.
+where on the Internet where you want to go. The people who provides you, your sources of news information.
 
 00:21:34,600 --> 00:21:39,500
 So it's not you know, only certain people have a license to speak now everyone has a license to speak
@@ -1179,14 +1164,134 @@ lorem ipsum
 00:33:00,000 --> 00:33:59,800
 lorem ipsum
 
+00:34:59,800 --> 00:35:00,830
+Oh my goodness!
 
-00:34:00,000 --> 00:34:59,800
-lorem ipsum
+00:35:01,503 --> 00:35:03,153
+that was the FBI agent
 
+00:35:04,208 --> 00:35:05,192
+in my driveway
 
-00:35:00,000 --> 00:35:59,800
-lorem ipsum
+00:35:05,418 --> 00:35:08,075
+He was terrified, he was totally terrified
 
+00:35:09,717 --> 00:35:13,623
+he was way more terrified after the FBI actually
+
+00:35:13,896 --> 00:35:16,640
+called him up on the phone, tried to suck an amenda[?]
+
+00:35:16,640 --> 00:35:18,597
+coming down to a coffee shop without a lawyer
+
+00:35:19,040 --> 00:35:21,792
+He said he went home and laid down on the bed
+
+00:35:21,792 --> 00:35:23,790
+and, you know, was shaking
+
+00:35:25,620 --> 00:35:27,750
+The downloading also uncovered massive
+
+00:35:27,792 --> 00:35:30,141
+privacy violations in the court documents
+
+00:35:30,390 --> 00:35:34,094
+ultimately, the courts were forced to change their policies as a result
+
+00:35:35,152 --> 00:35:38,875
+and the FBI closed thier investigation without bringing charges
+
+00:35:39,628 --> 00:35:43,068
+To this day I find it remarkable, that anybody,
+
+00:35:43,260 --> 00:35:47,007
+even at the most remote [?]hog field office of the FBI,
+
+00:35:47,317 --> 00:35:49,661
+thought that a fitting use for taxpayer dollars
+
+00:35:49,802 --> 00:35:53,049
+was investigating people for criminal theft
+
+00:35:53,124 --> 00:35:55,581
+on the grounds that they had made the law public
+
+00:35:55,741 --> 00:35:57,952
+How can you call yourself a lawman
+
+00:35:58,291 --> 00:36:01,703
+and think there can possibly be anything wrong in this whole world
+
+00:36:01,882 --> 00:36:03,487
+with making the law public
+
+00:36:03,736 --> 00:36:06,263
+Aaron was willing to put himself at risk
+
+00:36:06,447 --> 00:36:08,800
+for the causes that he believed in
+
+00:36:09,576 --> 00:36:11,336
+Bothered by wealth disparity
+
+00:36:11,557 --> 00:36:13,440
+Swartz moves beyond technology
+
+00:36:13,468 --> 00:36:15,985
+in into a broader range of political causes
+
+00:36:16,225 --> 00:36:18,738
+I went into congress, and I invited him to
+
+00:36:18,823 --> 00:36:21,425
+come and hangout an intern for us for a while
+
+00:36:21,712 --> 00:36:25,035
+so that he could learn, you know, the political process
+
+00:36:25,303 --> 00:36:27,816
+he was sort of learning about a new community
+
+00:36:27,825 --> 00:36:28,865
+and a new set of skills
+
+00:36:29,200 --> 00:36:31,120
+and kind of learning to hack politics
+
+00:36:31,505 --> 00:36:34,315
+It's seems ridiculous that miners should have to hammer away
+
+00:36:34,315 --> 00:36:36,423
+until they whole bodies are dripping with sweat
+
+00:36:36,701 --> 00:36:38,884
+faced with the knowledge that if they dared to stop
+
+00:36:38,903 --> 00:36:40,880
+they won't be able to put food on the table that night
+
+00:36:41,369 --> 00:36:43,915
+while I get to make larger and larger amounts of money each day
+
+00:36:43,929 --> 00:36:45,463
+just by sitting and watching TV
+
+00:36:46,592 --> 00:36:48,621
+but apparently the world is ridiculous
+
+00:36:49,520 --> 00:36:51,242
+So, I co-founded a group called
+
+00:36:51,261 --> 00:36:53,077
+the "Progressive Change Campaign Committee"
+
+00:36:53,129 --> 00:36:56,145
+and what we're trying to do is organise people over the Internet
+
+00:36:56,145 --> 00:36:58,130
+who care about progressive politics
 
 00:36:58,136 --> 00:37:00,100
 and moving the country in a more progressive direction
@@ -2456,13 +2561,13 @@ Do you think that the Intenet is something that should be considered a human rig
 .. something that the government can not take away from you.
 
 01:01:25,269 --> 01:01:30,624
-Yes. Definately. There is this notion that national security is an excuse to shut down the Internet.
+Yes. Definitely. There is this notion that national security is an excuse to shut down the Internet.
 
 01:01:30,624 --> 01:01:34,016
 That's exactly what we heard in Egypt, Syria and these other countries.
 
 01:01:34,293 --> 01:01:38,346
-And so its true. Its like Wikileaks are going to be putting up some embarassing material...
+And so its true. Its like WikiLeaks are going to be putting up some embarassing material...
 
 01:01:38,346 --> 01:01:39,818
 ..about what what the US govt does.
@@ -2504,7 +2609,7 @@ You know, 4 people in this city should cause a massive global public outcry.
 You know, we need a petition signer.
 
 01:02:22,394 --> 01:02:27,690
-Without telling her specifics, he warned her he was involved in something he called simply " the bad thing".
+Without telling her specifics, he warned her he was involved in something he called simply "the bad thing".
 
 01:02:27,800 --> 01:02:32,341
 And I had, sort of, crazy theories like that he was having an affair with Elizabeth Warren or...
@@ -2516,7 +2621,7 @@ I speculated both Hillary Clinton and Elizabeth Warren.
 So sometime in probably late July Aaron called me and I happen to pick up and he said...
 
 01:02:45,354 --> 01:02:49,856
-..."The bad thing might be in the news tomorrow. Do you want me to tell you or do you want to read about it in the news.
+..."The bad thing might be in the news tomorrow. Do you want me to tell you or do you want to read about it in the news".
 
 01:02:49,856 --> 01:02:51,520
 And I said, "I want you to tell me."
@@ -2525,7 +2630,7 @@ And I said, "I want you to tell me."
 And he said, "Well I have been arrested for downloading too many academic journal articles and they want to make an example out of me."
 
 01:03:04,640 --> 01:03:08,693
-And I was like, "Thats it! Thats the big fuss! Really?...
+And I was like, "That's it! That's the big fuss! Really?...
 
 01:03:09,589 --> 01:03:11,125
 ...It doesn't sound like a very big deal."
@@ -2549,13 +2654,13 @@ Aaron went to surrender and they arrested him.
 They then strip searched him.
 
 01:03:42,805 --> 01:03:47,413
-Took away his shoelac es, took away his belt and left him in solitary confinement.
+Took away his shoelaces, took away his belt and left him in solitary confinement.
 
 01:03:50,290 --> 01:03:54,880
 The District of Massachusetts, United States Attorney's Office released a statement saying ...
 
 01:03:55,130 --> 01:04:05,354
-..."Swartz faces upto 35 yrs in prison to be followed by 3 yrs of supervised release, restitution, forefeiture and a fine of upto $1 Million.
+..."Swartz faces upto 35 yrs in prison to be followed by 3 yrs of supervised release, restitution, forefeiture and a fine of upto $1 million dollars.
 
 01:04:06,592 --> 01:04:09,136
 He was released on a $100,00 bail.
@@ -2570,7 +2675,7 @@ JSTOR, they weren't our friends. They weren't helpful or friendly to us but they
 JSTOR, and their parent company Ithica, sidestepped request to talk for the film.
 
 01:04:30,976 --> 01:04:36,970
-But at the time they released a statement saying it was the goverment's decision weather to prosecute, not JSTORS's.
+But at the time they released a statement saying it was the goverment's decision weather to prosecute, not JSTOR's.
 
 01:04:38,208 --> 01:04:42,304
 And so it was our belief that with that the case would be over.
@@ -2617,13 +2722,13 @@ deterring who? Like there are other people running around and loggin onto JSTOR 
 ..and downloading the artcles to make a political statement, I mean, who are they deterring.
 
 01:05:29,728 --> 01:05:37,450
-It would be easier to understand Obama Administration's posture of supposedly being for deterrence...
+It would be easier to understand the Obama Administration's posture of supposedly being for deterrence...
 
 01:05:37,813 --> 01:05:43,530
 ... if this had been Adminsitration that, for instance, prosecuted arguably the biggest economic crime...
 
 01:05:43,530 --> 01:05:49,376
-... this country has seen in the last 100 yrs.The crimes that were committed that led to the financial crisis on Wall St.
+... this country has seen in the last 100 yrs. The crimes that were committed that led to the financial crisis on Wall St.
 
 01:05:50,421 --> 01:05:58,314
 When you start deploying the non-controversial idea of deterrence only selectively, ...
@@ -2647,7 +2752,7 @@ Prosecutor Stephen Heymann later reportedly told MIT's outside counsel that the 
 According to the MIT account Heymann reacted to the short statement of support calling it a...
 
 01:06:36,565 --> 01:06:44,160
-.. a wild internet campaign and a foolish move that moved the case from human one-on-one level to an institutional level.
+.. a wild Internet campaign and a foolish move that moved the case from human one-on-one level to an institutional level.
 
 01:06:44,394 --> 01:06:48,640
 That was a poisnous combination. A prosecutor who didn't want to lose face...
@@ -2674,7 +2779,7 @@ Interviewer: What was MIT's reaction then?
 There doesn't seem to be any reaction from MIT at that point.
 
 01:07:23,114 --> 01:07:30,602
-MIT doesn't defend Aaron, which for people inside of MIT community seems outrageous.
+MIT doesn't defend Aaron, which to people inside of MIT community seems outrageous.
 
 01:07:30,730 --> 01:07:35,701
 Because MIT is a place that encourages hacking in the biggest sense of the word.
@@ -2743,7 +2848,7 @@ Difference between Aaron and people that I just mentioned is that Aaron wanted t
 Swartz continues to be outspoken on variety of Internet Issues.
 
 01:09:23,306 --> 01:09:28,597
-You know  the reason Internet works is because of the competitive market place of ideas.
+You know  the reason Internet works is because of the competitive marketplace of ideas.
 
 01:09:28,597 --> 01:09:31,925
 And what we need to be focussing on is getting more information about our government...
@@ -2791,10 +2896,10 @@ And I said can we do a big online campaign against this.
 This isn't a bill about copyright.
 
 01:10:25,109 --> 01:10:25,941
-Its not?
+It's not?
 
 01:10:26,538 --> 01:10:29,930
-No, he said. Its a bill about the freedom to connect.
+No, he said. It's a bill about the freedom to connect.
 
 01:10:30,762 --> 01:10:31,808
 Now I was listening.
@@ -2818,7 +2923,7 @@ Aaron was one of the most prominent people in a community of people..
 SOPA was the bill that was intended to curtail online piracy of ...
 
 01:11:00,000 --> 01:11:01,482
-.... music and movies.
+...music and movies.
 
 01:11:01,482 --> 01:11:07,180
 But what it did was basically take a sledge hammer to a problem that needed a scalpel.
@@ -2839,7 +2944,7 @@ It pitted the titans of traditional media against the new...
 .. and now far more sophisticated remix culture.
 
 01:11:27,168 --> 01:11:31,242
-It makes everyone who runs a website into a policeman and if they dont do...
+It makes everyone who runs a website into a policeman and if they don't do...
 
 01:11:31,242 --> 01:11:33,888
 .. their job of making sure that nobody on their site uses it for anything...
@@ -2851,10 +2956,10 @@ It makes everyone who runs a website into a policeman and if they dont do...
 This was over the top. I mean, this was a catostrophy.
 
 01:11:43,957 --> 01:11:49,312
-This bill poses a serious threat to speech and civil liberties....
+This bill poses a serious threat to speech and civil liberties...
 
 01:11:49,562 --> 01:11:51,573
-.. for all who use the internet.
+.. for all who use the Internet.
 
 01:11:51,957 --> 01:11:58,570
 Only handful of us who said "Look we are not for piracy either but it makes no sense to destory...
@@ -2896,7 +3001,7 @@ Our strategy when it first came out was to hopefully slow the bill down...
 Having worked in Washington what you learn is that typically in Washington...
 
 01:12:52,053 --> 01:12:57,962
-.. the legislative fights are fights between different sets of corporate moneyed interests.
+.. the legislative fights are fights between different sets of corporate money interests.
 
 01:12:58,112 --> 01:13:03,402
 And all duking it out to pass legislations and the fights that are the closest are when you have...
@@ -2920,7 +3025,7 @@ The ones that aren't even fights, typically, are ones where all the money is on 
 and its just millions of people are on the other side.
 
 01:13:25,141 --> 01:13:30,560
-I havent seen anything like PIPA and SOPA in all my time in public service.
+I haven't seen anything like PIPA and SOPA in all my time in public service.
 
 01:13:31,413 --> 01:13:36,832
 There were more than 40 United State senators on that bill as co-sponsers.
@@ -2980,7 +3085,7 @@ Nerds?
 You know, I think actually the word you are looking for is "Experts".
 
 01:14:46,698 --> 01:14:53,290
-To enlighten you, so your laws wont backfire, break the Internet.
+To enlighten you, so your laws won't backfire, break the Internet.
 
 01:14:53,376 --> 01:14:56,832
 We used the term Geek, but we are allowed to use that because we are geeks.
@@ -3013,7 +3118,7 @@ Ever since then Congress has plunged into the dark ages.
 I don't think anybody thought that SOPA could be beaten, including Aaron.
 
 01:15:30,304 --> 01:15:34,528
-You think it was worth trying but it doesn't seem winable.
+You think it was worth trying but it doesn't seem winnable.
 
 01:15:34,720 --> 01:15:37,130
 And I remember, maybe a few months later, I remember him...
@@ -3073,7 +3178,7 @@ I'm a big believer that we should be dealing with issues of piracy and ...
 But this bill is not the right bill.
 
 01:16:44,501 --> 01:16:48,938
-When Jimmy Whales put his support towards blacking out Wikipedia..
+When Jimmy Wales put his support towards blacking out Wikipedia..
 
 01:16:49,188 --> 01:16:52,864
 ... the number 5 most popular website in the world..
@@ -3160,7 +3265,7 @@ Its hard to believe, a bill with so much financial power behind it..
 ... didn't simply sail through the Congress.
 
 01:18:29,376 --> 01:18:32,298
-And not only did it not sail through, it didnt pass at all.
+And not only did it not sail through, it didn't pass at all.
 
 01:18:34,069 --> 01:18:39,061
 Its easy sometimes to feel like you are powerless. You come out on the streets and you march and you yell..
@@ -3226,7 +3331,7 @@ For a guy who never really thought he had done much...
 It was one of the few moments where you could really see..
 
 01:20:03,925 --> 01:20:06,848
-... that he had felt like he had done something good.
+... that he felt like he had done something good.
 
 01:20:06,890 --> 01:20:11,392
 Feeling like here is his maybe one and only victory lap.
@@ -3271,7 +3376,7 @@ It is shocking to think that accountability is so lax that ...
 The answer is "We are spying on so many people we can't possibly even count them."
 
 01:21:03,594 --> 01:21:05,749
-Then thats a awful lot of people.
+Then thats an awful lot of people.
 
 01:21:06,602 --> 01:21:10,058
 One thing that they said was "Look, we know number of telephones we are spying on,
@@ -3340,7 +3445,7 @@ And that is the essentially the hacker, the information, and the democracy activ
 And the message that the Obama Administration wanted to send to that particular community was in my estimation...
 
 01:23:00,772 --> 01:23:06,666
-.." we know you have the ability to make trouble for the establishment and so were going to try to make...
+.."we know you have the ability to make trouble for the establishment and so were going to try to make...
 
 01:23:06,916 --> 01:23:13,600
 ... an example out of Aaron Swartz. To scare as many of you as possible into not making that trouble."
@@ -3364,7 +3469,7 @@ They use those as an excuse to push through more and more dangerous laws.
 Interviewer: Personally, how do you feel the fight is going?
 
 01:23:41,519 --> 01:23:42,890
-Its upto you.
+It's up to you.
 
 01:23:47,404 --> 01:23:52,597
 You know there are sort of these two polarizing prespectives.
@@ -3379,10 +3484,10 @@ Or everything is terrible. Internet has created all these tools for cracking dow
 And I think these both are true.
 
 01:24:06,293 --> 01:24:10,069
-The internet has done both and both are kind of amazing and astonishing.
+The Internet has done both and both are kind of amazing and astonishing.
 
 01:24:10,319 --> 01:24:12,949
-And which one will win out in the long run is upto us.
+And which one will win out in the long run is up to us.
 
 01:24:13,199 --> 01:24:15,914
 It doesn't make sense to say "Oh one is doing better than the other."
@@ -3391,13 +3496,13 @@ It doesn't make sense to say "Oh one is doing better than the other."
 They are both true.
 
 01:24:17,728 --> 01:24:21,461
-And its upto us which one we emphasize and which one we take advantage of.
+And its up to us which one we emphasize and which one we take advantage of.
 
 01:24:21,711 --> 01:24:23,701
 Because they are both there and they are always gonna be there.
 
 01:24:29,184 --> 01:24:34,901
-On Sept 12th, 2012, Federal prosecutors filed a superseeding indictment against Swartz.
+On September 12th, 2012, Federal prosecutors filed a superseeding indictment against Swartz.
 
 01:24:34,965 --> 01:24:40,256
 Adding additional counts of wire fraud, unauthorized access to a computer and Computer Fraud.
@@ -3442,7 +3547,7 @@ Now that's not actually possible and certainly wasn't possible in the 80s but ap
 Congress enough to pass the original Computer Fraud and Abuse Act.
 
 01:25:45,130 --> 01:25:53,130
-This is a law that is behind the times. For example it penalises a Terms of Services kind of arrangements
+This is a law that is behind the times. For example it penalises a Terms of Service kind of arrangements
 
 01:25:53,130 --> 01:26:01,408
 and something like eHarmony or match.com and somebody sort of inflates their own personal characteristic
@@ -3463,7 +3568,7 @@ Most people don't read them, but not abiding by their terms could mean you are c
 The website terms of service often say things like "Be nice to each other" or..
 
 01:26:20,708 --> 01:26:22,510
-.."dont do anything thats improper".
+.."dont do anything that's improper".
 
 01:26:22,760 --> 01:26:27,605
 The idea that criminal law has anything to say about these kinds of violations,
@@ -3568,10 +3673,10 @@ There is a big disagreement in society as to whether that is an unjust law.
 And ultimately thats a decision for American people to make working through Congress.
 
 01:29:00,437 --> 01:29:03,680
-And second problem is I think , we are still trying to figure out...
+And second problem is I think, we are still trying to figure out...
 
 01:29:03,701 --> 01:29:07,754
-.. whats the line between less serious offenses and more serious offenses.
+.. what's the line between less serious offenses and more serious offenses.
 
 01:29:07,946 --> 01:29:12,853
 We are now entering that different environment of computers and computer misuse...
@@ -3613,7 +3718,7 @@ A machine that has made America the country with the highest rate of incarcerati
 We have in this country allowed ourselves to be captured by the politics of fear and anger...
 
 01:30:02,773 --> 01:30:08,021
-and anything we are afraid of, like the future of the internet and access...
+and anything we are afraid of, like the future of the Internet and access...
 
 01:30:08,746 --> 01:30:11,925
 ...and anything we are angry about instinctively creates ..
@@ -3634,7 +3739,7 @@ And we have used jail, prison and punishment...
 The impulse to threaten, indict, prosecute which is part of...
 
 01:30:27,818 --> 01:30:32,789
-.. what has created this debate and contorversy over online access and information on the internet.
+.. what has created this debate and contorversy over online access and information on the Internet.
 
 01:30:33,002 --> 01:30:35,477
 It's very consistent with what we have seen in other areas..
@@ -3717,7 +3822,7 @@ With his legal case the answer was simple. He rejects the final plea deal and a 
 Aaron was resolute that he didn't want to knuckle under..
 
 01:32:16,356 --> 01:32:18,816
-... and accept something that he didnt believe was fair.
+... and accept something that he didn't believe was fair.
 
 01:32:19,066 --> 01:32:20,949
 But I also think that he was scared.
@@ -3750,7 +3855,7 @@ And its possible you know he was depressed. People get depressed
 Very early in our relationship, like 3 or 4 weeks in or something..
 
 01:33:24,367 --> 01:33:29,962
-.. I remember him saying to me that "I was a lot stronger than he was.
+.. I remember him saying to me that I was a lot stronger than he was.
 
 01:33:30,517 --> 01:33:36,362
 You know, he was brittle in lot of ways. Things were a lot harder for him than for a lot of people.
@@ -3786,7 +3891,7 @@ I could tell something was wrong and then I called and I realized what had happe
 A cofounder of the social news and entertainment website reddit has been found dead.
 
 01:34:29,141 --> 01:34:34,026
-Police say 26 yr old Aaron Swartz killed himself yesterday in his Brooklyn apartment.
+Police say 26 year old Aaron Swartz killed himself yesterday in his Brooklyn apartment.
 
 01:34:36,876 --> 01:34:46,464
 i just thought we've lost one of the most creative minds of our generation.
@@ -3794,14 +3899,14 @@ i just thought we've lost one of the most creative minds of our generation.
 01:34:46,700 --> 01:34:49,728
 I was like the whole world fell apart at that moment.
 
-01:34:56,960 --> 01:34:59,114
+01:34:56,860 --> 01:34:59,314
 It was one of the hardest nights of my life.
 
 01:35:00,117 --> 01:35:03,914
 It was like I was screaming "I can't hear you.. what did you just say.. I can't hear you."
 
 01:35:07,468 --> 01:35:11,765
-I can't. Thats it.
+I can't. That's it.
 
 01:35:19,978 --> 01:35:23,712
 None of it made any sense. And really still doesn't.
@@ -3832,6 +3937,8 @@ And I just wanted it to not be real.
 
 01:36:23,466 --> 01:36:27,989
 And then I just looked at his Wikipedia page and I saw the end date.
+
+
 
 01:36:32,065 --> 01:36:34,944
 02-02-2013
@@ -4053,4 +4160,19 @@ And, without access the person who might come up with the thing thats got your
 01:42:31,396 --> 01:42:34,901
 number on it may never find that answer.
 
-01:43:00,000 --> 01:44:59,525
+01:42:35,000 --> 01:42:47,525
+[?]
+
+01:42:48,210 --> 01:42:50,534
+Very good, Aaron, very good!
+
+01:42:51,113 --> 01:42:56,890
+Okay! Now it's [?] time
+
+01:43:28,000 --> 01:43:34,000
+Subtitles Creative Commons CC0 license:
+http://creativecommons.org/publicdomain/zero/1.0/
+
+01:43:38,000 --> 01:43:45,000
+Contribute and help translating at:
+https://github.com/iliasbartolini/the-internet-s-own-boy--aaron-swartz--subtitles
