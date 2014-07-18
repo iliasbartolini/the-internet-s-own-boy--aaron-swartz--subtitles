@@ -1247,7 +1247,7 @@ seminal litigations starts, civil right cases, patent cases also its a stuff in 
 citizens and lawyers all need access to PACER and it fights in every step in the way.
 
 00:30:48,600 --> 00:30:55,700
-People without means[?] can't see the law as early as people who have gold American express card. It's the
+People without means[?] can't see the law as early[?] as people who have gold American express card. It's the
 
 00:30:55,800 --> 00:30:57,800
 poll[?] tax access to justice.
@@ -1255,16 +1255,114 @@ poll[?] tax access to justice.
 00:30:57,800 --> 00:31:04,800
 You know the Law is the Operating system of our democracy and you have to pay to see it?
 
-00:31:04,900 --> 00:31:59,800
-lorem ipsum
+00:31:04,900 --> 00:31:10,700
+Ah. You know that's not a much of democracy. They make about a 120 million dollars a year.
+
+00:31:10,800 --> 00:31:16,700
+On the PACER system and it doesn't cost anything near that according to their own records.
+
+00:31:16,800 --> 00:31:24,700
+In-fact, it's illegal. The "E-Government Act" of 2002 states that the court may charge only 
+
+00:31:24,800 --> 00:31:30,700
+to the extent necessary in order to reimburse the cost of running PACER.
+
+00:31:34,800 --> 00:31:40,500
+As the founder of Public.Resource.Org, Malamud wanted to protest the PACER charges.
+
+00:31:40,600 --> 00:31:46,500
+He started a programme called "The PACER recycling Project" where people could upload PACER documents
+
+00:31:46,600 --> 00:31:50,500
+they had already payed for to a free database so that others can use them.
+
+00:31:50,600 --> 00:31:55,500
+The [?] of people were getting a lot of [?] from congress and others about public access and so
+
+00:31:55,600 --> 00:32:01,700
+they put together a system in 17 libraries accross the country that was FreePACER access.
+
+00:32:01,800 --> 00:32:07,700
+You know, that's 1 library every 22,000 square miles I believe. So wasn't that really convinient?
+
+00:32:07,700 --> 00:32:15,700
+I encouraged volunteers to join the so called ThumbDrive Corp and download document from public access libraries & upload them
+
+00:32:15,800 --> 00:32:21,300
+to the PACER recycling site. People think ThumbDrive as one of these libraries and they download a bunch of documents
+
+00:32:21,400 --> 00:32:27,700
+and send them to me. I mean, it's just a joke. When you click on Thumbdrive Corps there is a
+
+00:32:27,800 --> 00:32:31,700
+[?] you know the MunchKin singing, suddenly the video clip came up.
 
 
-00:32:00,000 --> 00:32:59,800
-lorem ipsum
+00:32:35,800 --> 00:32:42,700
+But of-course I get the phone call from steve [?] often and Aaron saying [?] we would like to join the Thumbdrive Corp.
 
+00:32:42,700 --> 00:32:50,700
+Around that time, I ran into Aaron at the conference. They say something that really has to be a collaboration between 
 
-00:33:00,000 --> 00:33:59,800
-lorem ipsum
+00:32:50,800 --> 00:32:58,700
+a lot of different people. So I approached him and said "Hey, I am thinking about an intervention on the PACER of problem."
+
+00:33:00,000 --> 00:33:05,500
+[?] had already developed a program, that could automatically download PACER documents from the trial libraries.
+
+00:33:06,500 --> 00:33:14,500
+Swartz wanted to take a look. So I showed him the code and I did know what would come next. But
+
+00:33:14,600 --> 00:33:20,500
+as it turns out over the course of the next few hours of that conference he was sitting in the corner
+
+00:33:20,600 --> 00:33:28,200
+improving my code, recruiting a friend of his that lived near one of these libraries, to go into the library
+
+00:33:28,300 --> 00:33:36,500
+and to begin to test his improved code at which point the folks at the courts realized something's
+
+00:33:36,600 --> 00:33:43,500
+not going quite according to plan. And data started to come in & come in & come in & soon there was
+
+00:33:43,600 --> 00:33:47,500
+760 GigaBytes of PACER docs. about 20 million pages. 
+
+00:33:48,600 --> 00:33:55,500
+Using informations retrieved from the trial libraries, Swartz was conducting massive automated parallel
+
+00:33:55,600 --> 00:34:01,500
+downloading of the PACER system. He was able to acquire nearly 2.7 million federal court documents
+
+00:34:01,600 --> 00:34:09,500
+almost 20 million pages of text. [?] that 20 million pages had perhaps exceeded the expectations of the people
+
+00:34:09,600 --> 00:34:14,500
+running the [?] access project but surprising a beaurocrat isn't illeagal.
+
+00:34:14,600 --> 00:34:19,500
+Aaron & Carl decided to go talk to the NewYork Times about what happened.
+
+00:34:20,400 --> 00:34:25,500
+They also caught the attention of the FBI, who began to stake[?] at Swartz's parent's house
+
+00:34:25,600 --> 00:34:33,500
+at Illinois. I get a tweet from his mother saying, "Call me". I thought "What the hell is going on here?"
+
+00:34:33,600 --> 00:34:40,500
+and so I found [?] of Aaron & you know, Aaron's mother is like "Oh my god, FBI! FBI! FBI!"
+
+00:34:40,700 --> 00:34:46,500
+An FBI agent drives down our home's driveway trying to see if Aaron is like in this room.
+
+00:34:47,500 --> 00:34:52,500
+And I remember being home that day and wondering why this car was driving down our driveway
+
+00:34:52,600 --> 00:34:55,500
+and just driving back out, that's weird!
+
+00:34:56,500 --> 00:34:59,700
+Like 5 years later, I read this FBI file & I'm like
 
 00:34:59,800 --> 00:35:00,830
 Oh my goodness!
@@ -4039,8 +4137,6 @@ And I just wanted it to not be real.
 
 01:36:23,466 --> 01:36:27,989
 And then I just looked at his Wikipedia page and I saw the end date.
-
-
 
 01:36:32,065 --> 01:36:34,944
 02-02-2013
