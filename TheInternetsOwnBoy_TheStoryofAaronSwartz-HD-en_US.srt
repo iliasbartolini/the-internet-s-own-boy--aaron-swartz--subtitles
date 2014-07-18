@@ -1277,7 +1277,7 @@ In-fact, it's illegal. The "E-Government Act" of 2002 states that the court may 
 to the extent necessary in order to reimburse the cost of running PACER.
 
 00:31:34,800 --> 00:31:40,500
-As the founder of Public.Resource.Org, Malamud wanted to protest the PACER charges.
+As the founder of public.resource.org, Malamud wanted to protest the PACER charges.
 
 00:31:40,600 --> 00:31:46,500
 He started a programme called "The PACER recycling Project" where people could upload PACER documents
@@ -1286,29 +1286,28 @@ He started a programme called "The PACER recycling Project" where people could u
 they had already payed for to a free database so that others can use them.
 
 00:31:50,600 --> 00:31:55,500
-The [?] of people were getting a lot of [?] from congress and others about public access and so
+The PACER people were getting a lot of flak from congress and others about public access and so
 
 00:31:55,600 --> 00:32:01,700
-they put together a system in 17 libraries accross the country that was FreePACER access.
+they put together a system in 17 libraries accross the country that was free PACER access.
 
 00:32:01,800 --> 00:32:07,700
 You know, that's 1 library every 22,000 square miles I believe. So wasn't that really convinient?
 
 00:32:07,700 --> 00:32:15,700
-I encouraged volunteers to join the so called ThumbDrive Corp and download document from public access libraries & upload them
+I encouraged volunteers to join the so called ThumbDrive Corp and download document from public access libraries and upload them
 
 00:32:15,800 --> 00:32:21,300
 to the PACER recycling site. People think ThumbDrive as one of these libraries and they download a bunch of documents
 
 00:32:21,400 --> 00:32:27,700
-and send them to me. I mean, it's just a joke. When you click on Thumbdrive Corps there is a
+and send them to me. I mean, it was just a joke. When you click on Thumbdrive Corps there is a
 
-00:32:27,800 --> 00:32:31,700
-[?] you know the MunchKin singing, suddenly the video clip came up.
-
+00:32:27,800 --> 00:32:31,700 
+"Widard of Oz" you know the Munchkin singing, suddenly the video clip came up.
 
 00:32:35,800 --> 00:32:42,700
-But of-course I get the phone call from steve [?] often and Aaron saying [?] we would like to join the Thumbdrive Corp.
+But of-course I get the phone call from Steve Schultze and Aaron saying [?] we would like to join the Thumbdrive Corp.
 
 00:32:42,700 --> 00:32:50,700
 Around that time, I ran into Aaron at the conference. They say something that really has to be a collaboration between 
@@ -1317,7 +1316,7 @@ Around that time, I ran into Aaron at the conference. They say something that re
 a lot of different people. So I approached him and said "Hey, I am thinking about an intervention on the PACER of problem."
 
 00:33:00,000 --> 00:33:05,500
-[?] had already developed a program, that could automatically download PACER documents from the trial libraries.
+Schultze had already developed a program, that could automatically download PACER documents from the trial libraries.
 
 00:33:06,500 --> 00:33:14,500
 Swartz wanted to take a look. So I showed him the code and I did know what would come next. But
@@ -1332,7 +1331,7 @@ improving my code, recruiting a friend of his that lived near one of these libra
 and to begin to test his improved code at which point the folks at the courts realized something's
 
 00:33:36,600 --> 00:33:43,500
-not going quite according to plan. And data started to come in & come in & come in & soon there was
+not going quite according to plan. And data started to come in... and come in... and come in... and soon there was
 
 00:33:43,600 --> 00:33:47,500
 760 GigaBytes of PACER docs. about 20 million pages. 
@@ -1344,13 +1343,13 @@ Using informations retrieved from the trial libraries, Swartz was conducting mas
 downloading of the PACER system. He was able to acquire nearly 2.7 million federal court documents
 
 00:34:01,600 --> 00:34:09,500
-almost 20 million pages of text. [?] that 20 million pages had perhaps exceeded the expectations of the people
+almost 20 million pages of text. Now, I'll guarantee you that 20 million pages had perhaps exceeded the expectations of the people
 
 00:34:09,600 --> 00:34:14,500
-running the [?] access project but surprising a beaurocrat isn't illeagal.
+running the pilot access project but surprising a beaurocrat isn't illeagal.
 
 00:34:14,600 --> 00:34:19,500
-Aaron & Carl decided to go talk to the NewYork Times about what happened.
+Aaron and Carl decided to go talk to the New York Times about what happened.
 
 00:34:20,400 --> 00:34:25,500
 They also caught the attention of the FBI, who began to stake[?] at Swartz's parent's house
@@ -1359,7 +1358,7 @@ They also caught the attention of the FBI, who began to stake[?] at Swartz's par
 at Illinois. I get a tweet from his mother saying, "Call me". I thought "What the hell is going on here?"
 
 00:34:33,600 --> 00:34:40,500
-and so I found [?] of Aaron & you know, Aaron's mother is like "Oh my god, FBI! FBI! FBI!"
+and so I found [?] of Aaron and you know, Aaron's mother is like "Oh my god, FBI! FBI! FBI!"
 
 00:34:40,700 --> 00:34:46,500
 An FBI agent drives down our home's driveway trying to see if Aaron is like in this room.
@@ -1371,7 +1370,7 @@ And I remember being home that day and wondering why this car was driving down o
 and just driving back out, that's weird!
 
 00:34:56,500 --> 00:34:59,700
-Like 5 years later, I read this FBI file & I'm like
+Like 5 years later, I read this FBI file and I'm like
 
 00:34:59,800 --> 00:35:00,830
 Oh my goodness!
