@@ -234,19 +234,19 @@ Today we're going to read the ABC backwards z, y, x, w, ...
 
 59
 00:04:31,752 --> 00:04:35,032
-I remember he came home from his first algebra class
+Recuerdo cuando el regresó de su clase de Álgebra
 
 60
 00:04:35,090 --> 00:04:38,000
-he was like: "Noah, let me teach you algebra!"
+y el estaba como: "Noah, ¡déjame enseñarte Algebra!"
 
 61
 00:04:38,625 --> 00:04:40,363
-and I'm like: "What is algebra?"
+y yo como: "¿Qué es Álgebra?"
 
 62
 00:04:40,785 --> 00:04:42,305
-and he was always like that
+y el siempre era así.
 
 63
 00:04:42,800 --> 00:04:45,810
@@ -270,7 +270,7 @@ then he just took off like crazy on them
 
 68
 00:05:03,243 --> 00:05:08,247
-We all had computers, but Aaron really talked to them, really talked to the Internet
+Todos teníamos computadoras, pero Aaron realmente les hablaba, realmente le hablaba al Internet
 
 69
 00:05:09,207 --> 00:05:10,500
@@ -282,23 +282,23 @@ No, how [?]
 
 71
 00:05:15,854 --> 00:05:18,101
-He started programming from a really young age.
+El comenzó a programar desde muy temprana edad.
 
 72
 00:05:18,152 --> 00:05:21,585
-I remember the first program that I wrote with him was in basic
+Recuerdo que el primer programa que escribí con el estaba en Basic
 
 73
 00:05:21,781 --> 00:05:24,334
-and  was a Star Wars trivia game
+y era un juego sobre trivia de Star Wars
 
 74
 00:05:25,883 --> 00:05:29,500
-He sat down with me in the basement were the computer was
+El se sentó conmigo en el sótamo donde la computadora estaba
 
 75
 00:05:29,600 --> 00:05:32,500
-for hours programming this game
+durante horas programando este juego
 
 76
 00:05:34,880 --> 00:05:38,196
