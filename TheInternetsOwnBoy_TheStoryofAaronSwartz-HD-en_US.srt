@@ -6090,7 +6090,7 @@ And then I just looked at his Wikipedia page and I saw the end date.
 
 1518
 01:36:32,065 --> 01:36:34,944
-02-02-2013
+to 2013
 
 1519
 01:36:43,697 --> 01:36:44,871
