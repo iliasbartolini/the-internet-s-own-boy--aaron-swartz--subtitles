@@ -19,10 +19,19 @@ The first complete en_US version (51f59434eb) of the subtitles has been uploaded
 https://www.transifex.com/projects/p/the-internets-own-boy-subtitles/
 As soon as a translation is completed I will add it here.
 
-Otherwise feel free to coordinate with others using the tools that you prefer and just send a pull request or patch:
-https://docs.google.com/spreadsheets/d/1gzJzJkCdce_Vdshb1tpH2VGH4bswi5tfbdEAUe71W6k/edit?usp=sharing
-
 All subtitles are published here with CC0 license. 
+
+
+IMPORTANT UPDATE:
+Two days ago I discovered that there is a group that is doing something similar with a different tool:
+http://www.amara.org/en/videos/5Mo4oAj1bxOb/info/the-internets-own-boy-the-story-of-aaron-swartz/
+
+Their EN subtitles quality is a bit better even if sinchro is less precise.
+
+I recommend you to try which tool you prefer.
+
+If you also think that amara.org is better let me know your feedback.
+I'll keep merging requests meanwhile, but if you think the other group is better I'm ok shutting down transifex.com and thinking about moving away from this repository and join forces.
 
 Notes
 -----
