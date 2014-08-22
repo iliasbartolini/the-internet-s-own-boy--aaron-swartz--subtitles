@@ -12,7 +12,7 @@ He was totally unexcited about starting businesses and making money
 
 4
 00:01:09,941 --> 00:01:14,800
-There's a profound sense of loss tonight in Highland Park Aaron Swartz's hometown
+There's a profound sense of loss tonight in Highland Park, Aaron Swartz's hometown
 
 5
 00:01:14,909 --> 00:01:18,800
@@ -428,7 +428,7 @@ and, you know, we had no clue what Aaron was doing
 
 107
 00:07:39,803 --> 00:07:43,156
-it was obvious that the pirze was really important
+it was obvious that the prize was really important
 
 108
 00:07:44,261 --> 00:07:47,700
@@ -657,15 +657,15 @@ He had a very kind of strong personality,
 
 164
 00:11:06,000 --> 00:11:08,661
-that definetly ruffled feathers at times.
+that definitely ruffled feathers at times.
 
 165
 00:11:08,705 --> 00:11:13,500
-It wasn't necessarily the case that he was always confortable in the world
+It wasn't necessarily the case that he was always comfortable in the world
 
 166
 00:11:13,556 --> 00:11:16,000
-and the world wasn't confortable with him.
+and the world wasn't comfortable with him.
 
 167
 00:11:19,287 --> 00:11:23,040
@@ -936,7 +936,7 @@ I was floored
 
 233
 00:15:07,400 --> 00:15:11,800
-just completely flabergasted that these adults regarded him as an adult
+just completely flabbergasted that these adults regarded him as an adult
 
 234
 00:15:12,000 --> 00:15:14,800
@@ -969,7 +969,7 @@ Though critics have said that it does little to ensure artists get payed for the
 
 241
 00:15:37,200 --> 00:15:40,000
-the success of Creative Commons has been enourmous
+the success of Creative Commons has been enormous
 
 242
 00:15:40,200 --> 00:15:46,700
@@ -1487,7 +1487,7 @@ Because you can't follow links from one to the other.
 
 370
 00:25:09,900 --> 00:25:13,500
-Now you had to have the critial masses, this thing was in the entire planet
+Now you had to have the critical masses, this thing was in the entire planet
 
 371
 00:25:13,700 --> 00:25:17,600
@@ -1864,7 +1864,7 @@ and others about public access and so they put together a system
 
 464
 00:31:56,711 --> 00:32:01,700
-in 17 libraries accross the country that was free PACER access.
+in 17 libraries across the country that was free PACER access.
 
 465
 00:32:01,800 --> 00:32:05,875
@@ -1896,7 +1896,7 @@ I mean, it was just a joke
 
 472
 00:32:24,888 --> 00:32:28,551
-In fact when you click on ThumbDrive corps there was a "Widard of Oz"
+In fact when you click on ThumbDrive corps there was a "Wizard of Oz"
 
 473
 00:32:28,604 --> 00:32:31,700
@@ -1996,7 +1996,7 @@ exceeded the expectations of the people running the pilot access project
 
 497
 00:34:11,884 --> 00:34:14,500
-but surprising a beaurocrat isn't illegal.
+but surprising a bureaucrat isn't illegal.
 
 498
 00:34:14,862 --> 00:34:19,500
@@ -2304,7 +2304,7 @@ These scholarly journals and articles
 
 574
 00:37:53,248 --> 00:37:57,240
-are essentlialy the entire wealth of human knowledge online
+are essentially the entire wealth of human knowledge online
 
 575
 00:37:57,288 --> 00:38:00,048
@@ -2328,11 +2328,11 @@ These licensing fees are so substantial that
 
 580
 00:38:11,152 --> 00:38:12,990
-people who are studing in India,
+people who are studying in India,
 
 581
 00:38:12,995 --> 00:38:14,792
-instead of studing in the United States,
+instead of studying in the United States,
 
 582
 00:38:15,104 --> 00:38:16,704
@@ -2616,7 +2616,7 @@ And just left it there with an external hard drive dowloading articles to the co
 
 652
 00:41:56,625 --> 00:42:01,900
-Unkown to Swartz, his laptop and hard drive had been found by authorities.
+Unknown to Swartz, his laptop and hard drive had been found by authorities.
 
 653
 00:42:03,150 --> 00:42:08,325
@@ -2708,7 +2708,7 @@ Well, they execute search warrants at Aaron's house,
 
 675
 00:44:21,320 --> 00:44:24,775
-his apartment in Canbdridge and his office at Harvard.
+his apartment in Canbridge and his office at Harvard.
 
 676
 00:44:27,670 --> 00:44:33,625
@@ -2852,7 +2852,7 @@ Heymann's boss, US attorney for the disctrict of Massachusetts, Carmen Ortiz sai
 
 711
 00:46:50,170 --> 00:46:52,750
-and wether you take documents, data, or dollars."
+and whether you take documents, data, or dollars."
 
 712
 00:46:53,100 --> 00:46:56,100
@@ -2880,7 +2880,7 @@ So the thing about a crowbar is,
 
 718
 00:47:16,548 --> 00:47:18,742
-everytime I brake into a place with a crowbar,
+everytime I break into a place with a crowbar,
 
 719
 00:47:19,497 --> 00:47:20,708
@@ -3064,7 +3064,7 @@ and you're told that your likelihood of prevailing is small.
 
 764
 00:50:13,108 --> 00:50:17,485
-So wether you're guilty or not you're better off taking the deal.
+So whether you're guilty or not you're better off taking the deal.
 
 765
 00:50:18,468 --> 00:50:21,085
@@ -3670,7 +3670,7 @@ I mean, I told them plenty of things about, you know
 
 915
 00:57:59,390 --> 00:58:02,688
-why people would donwload journal articles, and eventually
+why people would download journal articles, and eventually
 
 916
 00:58:03,120 --> 00:58:04,768
@@ -3898,7 +3898,7 @@ In the meantime, Swartz was becoming a goto expert on a series of Internet issue
 
 972
 01:01:17,930 --> 01:01:22,036
-Do you think that the Intenet is something that should be considered a human right
+Do you think that the Internet is something that should be considered a human right
 
 973
 01:01:22,072 --> 01:01:24,580
@@ -4134,11 +4134,11 @@ also sidestepped requests to talk for the film.
 
 1031
 01:04:30,970 --> 01:04:33,324
-aut at the time they released a statement saying
+But at the time they released a statement saying
 
 1032
 01:04:33,351 --> 01:04:36,942
-it was the goverment's decision weather to prosecute, not JSTOR's.
+it was the government's decision whether to prosecute, not JSTOR's.
 
 1033
 01:04:38,208 --> 01:04:42,304
@@ -4352,7 +4352,7 @@ MIT never stood up and took a position of saying to the Feds:
 
 1085
 01:08:00,980 --> 01:08:03,902
-"Don't do this. We dont want you to do this
+"Don't do this. We don't want you to do this
 
 1086
 01:08:03,937 --> 01:08:07,280
@@ -4436,7 +4436,7 @@ and what we need to be focusing on is getting more information about our governm
 
 1106
 01:09:31,848 --> 01:09:34,540
-more accessability, more discussion, more debate.
+more accessibility, more discussion, more debate.
 
 1107
 01:09:34,741 --> 01:09:38,261
@@ -4596,7 +4596,7 @@ the entire site could get shutdown without even so much as a trial.
 
 1146
 01:11:38,622 --> 01:11:43,500
-This was over the top. I mean, this was a catostrophy.
+This was over the top. I mean, this was a catastrophy.
 
 1147
 01:11:43,706 --> 01:11:49,310
@@ -4612,7 +4612,7 @@ Only handful of us who said: "Look we are not for piracy either
 
 1150
 01:11:56,293 --> 01:11:58,906
-but it makes no sense to destory the architecture of the Internet,
+but it makes no sense to destroy the architecture of the Internet,
 
 1151
 01:11:59,084 --> 01:12:03,466
@@ -4984,7 +4984,7 @@ throughout the day of blackout was pretty unbeliveable,
 
 1243
 01:17:31,271 --> 01:17:34,080
-there was like a hundered representatives swing,
+there was like a hundred representatives swing,
 
 1244
 01:17:34,506 --> 01:17:38,581
@@ -5168,7 +5168,7 @@ He wins at SOPA a year after he is arrested.
 
 1289
 01:20:30,016 --> 01:20:31,978
-it's not an unambigously happy moment.
+it's not an unambiguously happy moment.
 
 1290
 01:20:31,978 --> 01:20:33,344
@@ -5216,7 +5216,7 @@ One thing that they said was "Look, we know the number of telephones we are spyi
 
 1301
 01:21:10,058 --> 01:21:12,868
-we dont know exactly how many real people that corresponds to."
+we don't know exactly how many real people that corresponds to."
 
 1302
 01:21:13,210 --> 01:21:15,349
@@ -5544,7 +5544,7 @@ The website terms of service often say things like "Be nice to each other" or
 
 1383
 01:26:20,708 --> 01:26:22,510
-"dont do anything that's improper".
+"don't do anything that's improper".
 
 1384
 01:26:22,604 --> 01:26:27,600
@@ -5596,7 +5596,7 @@ The question "Why?" hangs over much of the story of Aaron Swartz.
 
 1396
 01:27:11,946 --> 01:27:15,626
-just what was motivating the goverment and what would their case have been?
+just what was motivating the government and what would their case have been?
 
 1397
 01:27:16,204 --> 01:27:19,440
@@ -5628,7 +5628,7 @@ just as a purely lawyers matter, looking at the precedents
 
 1404
 01:27:41,164 --> 01:27:43,200
-lookings at the statute, looking at history,
+looking at the statute, looking at history,
 
 1405
 01:27:43,240 --> 01:27:45,484
@@ -5796,7 +5796,7 @@ The impulse to threaten, indict, prosecute
 
 1446
 01:30:26,844 --> 01:30:32,780
-which is part of what has created this debate and contorversy over online access and information on the Internet.
+which is part of what has created this debate and controversy over online access and information on the Internet.
 
 1447
 01:30:33,002 --> 01:30:35,477
@@ -5882,7 +5882,7 @@ Like I have my normal life, and I have this shitty thing I have to deal with.
 
 1467
 01:31:49,582 --> 01:31:52,890
-and I try to keep the two of them as seperate as possible.
+and I try to keep the two of them as separate as possible.
 
 1468
 01:31:53,146 --> 01:31:57,184
@@ -6128,7 +6128,7 @@ but I have never seen people grieve on Twitter before.
 
 1528
 01:37:39,968 --> 01:37:42,549
-People were visibily grieving online.
+People were visibly grieving online.
 
 1529
 01:37:46,465 --> 01:37:51,253
@@ -6188,7 +6188,7 @@ extraordinary revolutionaries that this country has produced
 
 1543
 01:38:55,010 --> 01:38:59,250
-I don't know weather Aaron was defeated or victorious, but
+I don't know whether Aaron was defeated or victorious, but
 
 1544
 01:38:59,280 --> 01:39:04,270
@@ -6224,7 +6224,7 @@ Change does not roll in on the wheels of inevitability
 
 1552
 01:39:25,510 --> 01:39:27,700
-it comes through continous struggle.
+it comes through continuous struggle.
 
 1553
 01:39:30,026 --> 01:39:31,690
@@ -6340,7 +6340,7 @@ And, he sent emails off to the entire Oncology department at Johns Hopkins.
 
 1581
 01:41:28,810 --> 01:41:31,430
-you know hundereds of them.
+you know hundreds of them.
 Interviewer: A 14 year old?
 
 1582
@@ -6357,7 +6357,7 @@ And said, "this is not an entirely stupid idea. Why don't you come on over."
 
 1585
 01:41:38,350 --> 01:41:43,180
-This kid worked evenings and weekends with this researcher and in Feburary, I heard him on the news
+This kid worked evenings and weekends with this researcher and in February, I heard him on the news
 
 1586
 01:41:43,466 --> 01:41:46,794
