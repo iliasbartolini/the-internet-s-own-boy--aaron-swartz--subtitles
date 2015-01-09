@@ -52,7 +52,7 @@ Have you looked into that particular matter and reached any conclusions?
 
 14
 00:01:57,700 --> 00:02:00,600
-Growing up, you know, I slowly had this process of realising
+Growing up, you know, I slowly had this process of realizing
 
 15
 00:02:00,683 --> 00:02:02,807
@@ -72,7 +72,7 @@ and they were thing that more importantly were wrong and should change.
 
 19
 00:02:11,738 --> 00:02:14,516
-And once I realised that, there was really kind of no going back
+And once I realized that, there was really kind of no going back
 
 20
 00:02:24,101 --> 00:02:27,134
@@ -88,7 +88,7 @@ Well, he was born in Highland Park and grew up here
 
 23
 00:02:36,552 --> 00:02:40,000
-Aaron came from a family of three brothers all extraordinarly bright
+Aaron came from a family of three brothers all extraordinarily bright
 
 24
 00:02:40,100 --> 00:02:42,370
@@ -323,11 +323,11 @@ and he thought it would be really really cool if I dressed up
 
 81
 00:06:04,700 --> 00:06:08,800
-like his new favourite computer which at the time was the original iMac
+like his new favorite computer which at the time was the original iMac
 
 82
 00:06:09,025 --> 00:06:11,150
-I mean, he hated dressing up for Hallowen
+I mean, he hated dressing up for Halloween
 
 83
 00:06:11,160 --> 00:06:14,340
@@ -552,7 +552,7 @@ and he saw that was imperfect and looked for ways to help make it better
 
 138
 00:09:35,500 --> 00:09:39,800
-So his mom startd bundling him on planes in Chicago, we pick him up in San Francisco
+So his mom started bundling him on planes in Chicago, we pick him up in San Francisco
 
 139
 00:09:39,900 --> 00:09:42,720
@@ -560,7 +560,7 @@ we introduced him to interesting people to argue with
 
 140
 00:09:42,792 --> 00:09:45,229
-and we marvelled at his horrific eating habits
+and we marveled at his horrific eating habits
 
 141
 00:09:45,265 --> 00:09:48,421
@@ -568,7 +568,7 @@ he only ate white food, only like, you know, steamed rice
 
 142
 00:09:48,494 --> 00:09:51,250
-and not fried rice, beacause that was not sufficiently white,
+and not fried rice, because that was not sufficiently white,
 
 143
 00:09:51,294 --> 00:09:53,800
@@ -908,7 +908,7 @@ When we come to our website here
 
 226
 00:14:49,300 --> 00:14:50,500
-and we've got few licences
+and we've got few licenses
 
 227
 00:14:50,900 --> 00:14:54,600
@@ -993,23 +993,23 @@ I think deeply about things and I want others to do likewise.
 
 247
 00:16:06,500 --> 00:16:10,800
-I work for ideas and learn from people. I don’t like excluding people.
+I work for ideas and learn from people. I don't like excluding people.
 
 248
 00:16:11,000 --> 00:16:14,800
-I’m a perfectionist, but I won’t let that get in the way of publication.
+I'm a perfectionist, but I won't let that get in the way of publication.
 
 249
 00:16:15,200 --> 00:16:21,300
-Except for education and entertainment, I’m not going to waste my time on things that won’t have an impact.
+Except for education and entertainment, I'm not going to waste my time on things that won't have an impact.
 
 250
 00:16:21,400 --> 00:16:25,800
-I try to be friends with everyone, but I hate it when you don’t take me seriously.
+I try to be friends with everyone, but I hate it when you don't take me seriously.
 
 251
 00:16:26,500 --> 00:16:31,800
-I don’t hold grudges (it’s not productive) but I learn from my experience.
+I don't hold grudges (it's not productive) but I learn from my experience.
 
 252
 00:16:32,200 --> 00:16:36,000
@@ -1255,7 +1255,7 @@ so I'm not gonna spend a lot of money on a new place to live, I'm not gonna buy 
 
 312
 00:20:48,138 --> 00:20:49,825
-... and I like wearning jeans and t-shirts,
+... and I like wearing jeans and t-shirts,
 
 313
 00:20:49,840 --> 00:20:54,500
@@ -1279,7 +1279,7 @@ or even with cables you have 500 channels. On the Internet everybody can have a 
 
 318
 00:21:13,300 --> 00:21:17,800
-Everyone can get a blog or a myspace page. Everyone has a way of expressing themselves.
+Everyone can get a blog or a Myspace page. Everyone has a way of expressing themselves.
 
 319
 00:21:17,900 --> 00:21:19,800
@@ -1307,7 +1307,7 @@ It's a question of "who gets heard?"
 
 325
 00:21:44,400 --> 00:21:49,700
-After he started working, in San Fransico at Condé Nast, he comes into the office
+After he started working, in San Francisco at Condé Nast, he comes into the office
 
 326
 00:21:49,800 --> 00:21:55,500
@@ -1319,7 +1319,7 @@ install any new things on this computer, which to a developer is outrageous, rig
 
 328
 00:21:59,500 --> 00:22:01,800
-From the first day he was complaining about all this sutff.
+From the first day he was complaining about all this stuff.
 
 329
 00:22:05,600 --> 00:22:10,800
@@ -1403,7 +1403,7 @@ He got to where he was supposed to be going,
 
 349
 00:23:34,100 --> 00:23:39,500
-and had the self-awareness and honorariness to realise
+and had the self-awareness and honorariness to realize
 
 350
 00:23:39,700 --> 00:23:43,600
@@ -1463,7 +1463,7 @@ Aaron is certainly deeply influenced by Tim.
 
 364
 00:24:44,700 --> 00:24:51,400
-Tim is certainly a very prominent early Internet genious who doesn't, in any sense, cash out.
+Tim is certainly a very prominent early Internet genius who doesn't, in any sense, cash out.
 
 365
 00:24:51,600 --> 00:24:55,800
@@ -1491,7 +1491,7 @@ Now you had to have the critical masses, this thing was in the entire planet
 
 371
 00:25:13,700 --> 00:25:17,600
-so is not gonna work unless the whole planet can get onboard.
+so is not gonna work unless the whole planet can get on-board.
 
 372
 00:25:22,200 --> 00:25:28,500
@@ -1523,7 +1523,7 @@ And I think the same applies to society
 
 379
 00:25:49,600 --> 00:25:52,200
-Once I realised that there where real serious problems,
+Once I realized that there where real serious problems,
 
 380
 00:25:52,400 --> 00:25:54,900
@@ -1644,7 +1644,7 @@ a kind of a website with one page per book.
 
 409
 00:28:20,062 --> 00:28:23,600
-So for every book ever published you wanna have a webpage about it
+So for every book ever published you wanna have a web page about it
 
 410
 00:28:23,600 --> 00:28:25,831
@@ -1688,7 +1688,7 @@ that has been embedded and lost in big physical libraries,
 
 420
 00:28:52,700 --> 00:28:55,644
-that's hard to find, that's not very well accessible online,
+that's hard to find, that's not very well accessible on-line,
 
 421
 00:28:55,680 --> 00:28:58,586
@@ -2212,7 +2212,7 @@ the "Progressive Change Campaign Committee"
 
 551
 00:36:53,129 --> 00:36:56,145
-and what we're trying to do is we try to organise people over the Internet
+and what we're trying to do is we try to organize people over the Internet
 
 552
 00:36:56,145 --> 00:36:58,130
@@ -2272,7 +2272,7 @@ at institutions that publish academic journal articles.
 
 566
 00:37:31,248 --> 00:37:33,944
-A virtue of being a student at a major US univerity
+A virtue of being a student at a major US university
 
 567
 00:37:33,952 --> 00:37:37,920
@@ -2284,7 +2284,7 @@ Pretty much every major university in the United States
 
 569
 00:37:41,200 --> 00:37:42,808
-pays these sort of licencing fees
+pays these sort of licensing fees
 
 570
 00:37:42,832 --> 00:37:46,072
@@ -2304,7 +2304,7 @@ These scholarly journals and articles
 
 574
 00:37:53,248 --> 00:37:57,240
-are essentially the entire wealth of human knowledge online
+are essentially the entire wealth of human knowledge on-line
 
 575
 00:37:57,288 --> 00:38:00,048
@@ -2352,7 +2352,7 @@ I mean, a lot of those journal articles go back to the enlightenment.
 
 586
 00:38:26,800 --> 00:38:29,600
-Everytime someone has written down a scientific paper,
+Every time someone has written down a scientific paper,
 
 587
 00:38:29,610 --> 00:38:32,200
@@ -2376,7 +2376,7 @@ it's a legacy that should belong to us as a commons, as a people
 
 592
 00:38:43,392 --> 00:38:45,904
-but instead it's been locked down and put online
+but instead it's been locked down and put on-line
 
 593
 00:38:45,910 --> 00:38:48,448
@@ -2472,7 +2472,7 @@ something that Aaron thought was totally ridiculous.
 
 616
 00:40:00,968 --> 00:40:02,888
-Working at a fellowship at Harward
+Working at a fellowship at Harvard
 
 617
 00:40:02,960 --> 00:40:07,392
@@ -2520,7 +2520,7 @@ He doesn't hack JSTOR in the traditional sense of hacking.
 
 628
 00:40:38,720 --> 00:40:40,456
-the JSTOR database was organised, so
+the JSTOR database was organized, so
 
 629
 00:40:40,464 --> 00:40:42,088
@@ -2612,7 +2612,7 @@ he went down there and he just plugged his computer directly into the network.
 
 651
 00:41:51,020 --> 00:41:55,875
-And just left it there with an external hard drive dowloading articles to the computer
+And just left it there with an external hard drive downloading articles to the computer
 
 652
 00:41:56,625 --> 00:42:01,900
@@ -2668,7 +2668,7 @@ leans out of frame for about 5 minutes, and then leaves.
 
 665
 00:43:37,025 --> 00:43:42,150
-And then they, like, organise like a stake-out where as he was biking home from MIT
+And then they, like, organize like a stake-out where as he was biking home from MIT
 
 666
 00:43:42,325 --> 00:43:46,400
@@ -2700,7 +2700,7 @@ The notion of any kind of criminal prosecution for anyone in our family
 
 673
 00:44:14,800 --> 00:44:18,175
-was so foreign and uncomprensible, I didn't know what to do.
+was so foreign and uncomprehensible, I didn't know what to do.
 
 674
 00:44:18,250 --> 00:44:21,315
@@ -2708,7 +2708,7 @@ Well, they execute search warrants at Aaron's house,
 
 675
 00:44:21,320 --> 00:44:24,775
-his apartment in Canbridge and his office at Harvard.
+his apartment in Cambridge and his office at Harvard.
 
 676
 00:44:27,670 --> 00:44:33,625
@@ -2780,7 +2780,7 @@ and that's Steve Heymann.
 
 693
 00:45:37,020 --> 00:45:41,650
-Prosecutor Stephen Heymann has been largerly out of public view since the arrest of Aaron Swartz,
+Prosecutor Stephen Heymann has been largely out of public view since the arrest of Aaron Swartz,
 
 694
 00:45:42,000 --> 00:45:46,565
@@ -2808,7 +2808,7 @@ the largest such fraud in history.
 
 700
 00:46:04,475 --> 00:46:09,675
-Here Heymann, decribing Gonzalez, gives his view on the hacker mindset.
+Here Heymann, describing Gonzalez, gives his view on the hacker mindset.
 
 701
 00:46:10,200 --> 00:46:16,125
@@ -2844,7 +2844,7 @@ In an early press release describing the government's position in the case of Aa
 
 709
 00:46:41,250 --> 00:46:46,275
-Heymann's boss, US attorney for the disctrict of Massachusetts, Carmen Ortiz said this:
+Heymann's boss, US attorney for the district of Massachusetts, Carmen Ortiz said this:
 
 710
 00:46:46,375 --> 00:46:50,165
@@ -2864,7 +2864,7 @@ I'm not saying it's harmless
 
 714
 00:46:58,800 --> 00:47:05,475
-and I'm not saying that we shouldn't criminalise stealing of information,
+and I'm not saying that we shouldn't criminalize stealing of information,
 
 715
 00:47:06,100 --> 00:47:09,575
@@ -2880,7 +2880,7 @@ So the thing about a crowbar is,
 
 718
 00:47:16,548 --> 00:47:18,742
-everytime I break into a place with a crowbar,
+every time I break into a place with a crowbar,
 
 719
 00:47:19,497 --> 00:47:20,708
@@ -3368,7 +3368,7 @@ and charge money for it,
 
 840
 00:54:39,104 --> 00:54:42,024
-then, you know, ok, now it seems like criminal violation
+then, you know, OK, now it seems like criminal violation
 
 841
 00:54:42,040 --> 00:54:44,810
@@ -3496,7 +3496,7 @@ I didn't like it
 
 872
 00:56:07,630 --> 00:56:10,608
-I told my lawyers repeadetly that I didn't,
+I told my lawyers repeatedly that I didn't,
 
 873
 00:56:10,920 --> 00:56:12,712
@@ -3516,7 +3516,7 @@ But they were really really stringent
 
 877
 00:56:18,032 --> 00:56:21,696
-thay did not want me meeting the prosecutor without immunity.
+they did not want me meeting the prosecutor without immunity.
 
 878
 00:56:21,800 --> 00:56:24,928
@@ -3754,7 +3754,7 @@ plundering a ship and murdering its crew.
 
 936
 00:58:54,728 --> 00:58:57,592
-But sharing isn't immoral — it's a moral imperative.
+But sharing isn't immoral - it's a moral imperative.
 
 937
 00:58:57,680 --> 00:58:59,088
@@ -3922,7 +3922,7 @@ and so its true, sites like WikiLeaks are going to be putting up
 
 978
 01:01:37,178 --> 01:01:39,810
-some embarassing material about what what the US government does
+some embarrassing material about what what the US government does
 
 979
 01:01:40,032 --> 01:01:42,506
@@ -4102,7 +4102,7 @@ to be followed by 3 years of supervised release
 
 1023
 01:04:00,666 --> 01:04:05,350
-restitution, forefeiture and a fine of upto $1 million dollars."
+restitution, forfeiture and a fine of up to $1 million dollars."
 
 1024
 01:04:06,248 --> 01:04:09,130
@@ -4166,7 +4166,7 @@ Well, because I think, they wanted to make an example out of Aaron
 
 1039
 01:04:58,150 --> 01:05:03,200
-and they said the reason why they wouldnt move on
+and they said the reason why they wouldn't move on
 
 1040
 01:05:03,235 --> 01:05:05,413
@@ -4204,7 +4204,7 @@ Deterring who?
 
 1048
 01:05:23,466 --> 01:05:26,497
-There is a lot of people running around and loggin onto JSTOR
+There is a lot of people running around and logging onto JSTOR
 
 1049
 01:05:26,515 --> 01:05:29,680
@@ -4384,7 +4384,7 @@ and believed Heymann and the US Attorney's office did not care what MIT thought 
 
 1093
 01:08:35,861 --> 01:08:41,472
-MIT's behaviour seemed really at odds with the MIT ethos.
+MIT's behavior seemed really at odds with the MIT ethos.
 
 1094
 01:08:42,069 --> 01:08:47,274
@@ -4476,7 +4476,7 @@ Swartz's political activity continues,
 
 1116
 01:10:01,777 --> 01:10:06,840
-his attention turning to a bill moving through Congress designed to curb online piracy.
+his attention turning to a bill moving through Congress designed to curb on-line piracy.
 
 1117
 01:10:06,848 --> 01:10:08,896
@@ -4496,7 +4496,7 @@ In one of the first things I did was to call Aaron,
 
 1121
 01:10:18,240 --> 01:10:21,900
-and I said can we do a big online campaign against this,
+and I said can we do a big on-line campaign against this,
 
 1122
 01:10:21,955 --> 01:10:24,040
@@ -4524,7 +4524,7 @@ and he went and founded Demand Progress.
 
 1128
 01:10:38,400 --> 01:10:40,693
-Demand Progress in an online activism organization.
+Demand Progress in an on-line activism organization.
 
 1129
 01:10:40,720 --> 01:10:44,240
@@ -4548,7 +4548,7 @@ around social justice issues at the federal level in this country.
 
 1134
 01:10:55,760 --> 01:11:01,440
-SOPA was the bill that was intended to curtail online piracy of music and movies,
+SOPA was the bill that was intended to curtail on-line piracy of music and movies,
 
 1135
 01:11:01,480 --> 01:11:04,897
@@ -4596,7 +4596,7 @@ the entire site could get shutdown without even so much as a trial.
 
 1146
 01:11:38,622 --> 01:11:43,500
-This was over the top. I mean, this was a catastrophy.
+This was over the top. I mean, this was a catastrophe.
 
 1147
 01:11:43,706 --> 01:11:49,310
@@ -4728,7 +4728,7 @@ Even I began to doubt myself. It was a rough period.
 
 1179
 01:13:48,010 --> 01:13:51,697
-Swartz and Demand Progress were able to marshall enormous support
+Swartz and Demand Progress were able to marshal enormous support
 
 1180
 01:13:52,106 --> 01:13:56,168
@@ -4952,7 +4952,7 @@ Craigslist went black,
 
 1235
 01:17:03,306 --> 01:17:06,110
-phonelines on Capitol Hill flat out melted,
+phone lines on Capitol Hill flat out melted,
 
 1236
 01:17:06,280 --> 01:17:09,395
@@ -4964,7 +4964,7 @@ retracting their support for the bill, that they were promoting just a couple of
 
 1238
 01:17:13,600 --> 01:17:17,973
-Within 24 hours the number of oponents of SOPA in Congress
+Within 24 hours the number of opponents of SOPA in Congress
 
 1239
 01:17:18,017 --> 01:17:19,475
@@ -4980,7 +4980,7 @@ To see Congressmen and Senators slowly flip sides
 
 1242
 01:17:27,733 --> 01:17:31,244
-throughout the day of blackout was pretty unbeliveable,
+throughout the day of blackout was pretty unbelievable,
 
 1243
 01:17:31,271 --> 01:17:34,080
@@ -5020,11 +5020,11 @@ The thing that we heard from people in Washington D.C.
 
 1252
 01:18:02,533 --> 01:18:06,970
-from staffers on Capitol Hill was, they recieved more emails and more phone calls
+from staffers on Capitol Hill was, they received more emails and more phone calls
 
 1253
 01:18:06,970 --> 01:18:10,462
-on SOPA blackout day than they'd ever recieved about anything.
+on SOPA blackout day than they'd ever received about anything.
 
 1254
 01:18:10,581 --> 01:18:12,928
@@ -5344,7 +5344,7 @@ to scare as many of you as possible into not making that trouble."
 
 1333
 01:23:13,706 --> 01:23:14,817
-And the governement said
+And the government said
 
 1334
 01:23:14,888 --> 01:23:20,270
@@ -5356,7 +5356,7 @@ so we can't even tell you which laws we are using to spy on you."
 
 1336
 01:23:23,490 --> 01:23:26,533
-Everytime they can say "Oh this is another instance of cyber war"
+Every time they can say "Oh this is another instance of cyber war"
 
 1337
 01:23:26,560 --> 01:23:28,440
@@ -5380,7 +5380,7 @@ It's up to you.
 
 1342
 01:23:47,635 --> 01:23:52,195
-You know, there are sort of these two polarizing prespectives
+You know, there are sort of these two polarizing perspectives
 
 1343
 01:23:52,320 --> 01:23:55,457
@@ -5388,7 +5388,7 @@ Everything is great, Internet has created all this freedom and liberty,
 
 1344
 01:23:55,457 --> 01:23:57,040
-and everything's gonna be fantastic.
+and every thing's gonna be fantastic.
 
 1345
 01:23:57,084 --> 01:23:58,506
@@ -5452,7 +5452,7 @@ as did Swartz's potential jail time and fines.
 
 1360
 01:24:52,047 --> 01:24:55,488
-They filed a seperate indictment to add more charges
+They filed a separate indictment to add more charges
 
 1361
 01:24:55,738 --> 01:25:01,589
@@ -5508,7 +5508,7 @@ This is a law that is behind the times
 
 1374
 01:25:47,120 --> 01:25:53,130
-for example it penalises a Terms of Service kinds of arrangements
+for example it penalizes a Terms of Service kinds of arrangements
 
 1375
 01:25:53,130 --> 01:25:56,906
@@ -5564,7 +5564,7 @@ Until it was changed in March, 2013.
 
 1388
 01:26:36,202 --> 01:26:42,645
-the Terms of Use on the website of Seventeen magzine said you had to be 18 in order to read it.
+the Terms of Use on the website of Seventeen magazine said you had to be 18 in order to read it.
 
 1389
 01:26:42,880 --> 01:26:46,720
@@ -5796,7 +5796,7 @@ The impulse to threaten, indict, prosecute
 
 1446
 01:30:26,844 --> 01:30:32,780
-which is part of what has created this debate and controversy over online access and information on the Internet.
+which is part of what has created this debate and controversy over on-line access and information on the Internet.
 
 1447
 01:30:33,002 --> 01:30:35,477
@@ -5864,7 +5864,7 @@ So, you know, it was in the millions of dollars.
 
 1463
 01:31:36,378 --> 01:31:38,197
-Interviewer: The legal defence?
+Interviewer: The legal defense?
 Aaron's Father: Yes.
 
 1464
@@ -5970,7 +5970,7 @@ It was part of his brilliance too.
 
 1489
 01:33:40,770 --> 01:33:46,666
-I think, he probably had something like clinical depression in his early 20s.
+I think, he probably had something like clinical depression in his early '20.
 
 1490
 01:33:47,484 --> 01:33:49,370
@@ -6002,7 +6002,7 @@ I could tell something was wrong and then I called and I realized what had happe
 
 1497
 01:34:23,688 --> 01:34:28,970
-The cofounder of the social news and entertainment website reddit has been found dead.
+The co-founder of the social news and entertainment website reddit has been found dead.
 
 1498
 01:34:29,075 --> 01:34:34,020
@@ -6128,7 +6128,7 @@ but I have never seen people grieve on Twitter before.
 
 1528
 01:37:39,968 --> 01:37:42,549
-People were visibly grieving online.
+People were visibly grieving on-line.
 
 1529
 01:37:46,465 --> 01:37:51,253
@@ -6312,7 +6312,7 @@ And access to knowledge becomes a human right.
 
 1574
 01:40:54,520 --> 01:40:59,010
-So there was a kid, back in feburary from Baltimore.
+So there was a kid, back in February from Baltimore.
 
 1575
 01:40:59,140 --> 01:41:01,500
@@ -6405,7 +6405,7 @@ number on it may never find that answer.
 
 1597
 01:42:35,856 --> 01:42:47,520
-He sleeped so well, he didn't fall out of [?] not even when he dreamed he was back on the spacecraft. 
+He slept so well, he didn't fall out of [?] not even when he dreamed he was back on the spacecraft. 
 
 1598
 01:42:48,210 --> 01:42:50,534
