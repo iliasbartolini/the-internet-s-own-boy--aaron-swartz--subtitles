@@ -1,9 +1,9 @@
 1
-00:00:50,222 --> 00:00:55,000
+00:00:50,222 --> 00:00:55,382
 A co-founder of the social news and entertainment website "reddit" has been found dead
 
 2
-00:00:57,537 --> 00:01:01,542
+00:00:57,537 --> 00:01:01,601
 He certainly was a prodigy although he never kind of thought of himself like that
 
 3
@@ -11,23 +11,23 @@ He certainly was a prodigy although he never kind of thought of himself like tha
 He was totally unexcited about starting businesses and making money
 
 4
-00:01:09,941 --> 00:01:14,800
+00:01:09,941 --> 00:01:14,861
 There's a profound sense of loss tonight in Highland Park, Aaron Swartz's hometown
 
 5
-00:01:14,909 --> 00:01:18,800
+00:01:14,909 --> 00:01:18,929
 as loved ones say goodbye to one of the Internet's brightest lights
 
 6
-00:01:19,000 --> 00:01:22,247
+00:01:19,000 --> 00:01:22,270
 ...Open Access and computer activists are mourning his loss
 
 7
-00:01:22,280 --> 00:01:25,163
+00:01:22,280 --> 00:01:25,204
 ...an astonishing intellect. You talk to people who knew him
 
 8
-00:01:25,214 --> 00:01:29,500
+00:01:25,214 --> 00:01:29,590
 ...he was killed by the government and MIT betrayed all of its basic principles
 
 9
@@ -39,7 +39,7 @@ as loved ones say goodbye to one of the Internet's brightest lights
 Governments have an insatiable desire to control
 
 11
-00:01:39,100 --> 00:01:43,360
+00:01:39,100 --> 00:01:43,400
 ...he was potentially facing 35 years in prison and a 1 million dollar fine
 
 12
@@ -51,27 +51,27 @@ Raising questions of prosecutorial zeal and I would say even misconduct.
 Have you looked into that particular matter and reached any conclusions?
 
 14
-00:01:57,700 --> 00:02:00,600
+00:01:57,700 --> 00:02:00,673
 Growing up, you know, I slowly had this process of realizing
 
 15
-00:02:00,683 --> 00:02:02,807
+00:02:00,683 --> 00:02:02,840
 that all the things around me, that people had told me
 
 16
-00:02:02,850 --> 00:02:06,189
+00:02:02,850 --> 00:02:06,215
 were just the natural way things were, the way things always would be.
 
 17
-00:02:06,225 --> 00:02:08,545
+00:02:06,225 --> 00:02:08,579
 They weren't natural at all. They were things that could be changed
 
 18
-00:02:08,589 --> 00:02:11,687
+00:02:08,589 --> 00:02:11,728
 and they were thing that more importantly were wrong and should change.
 
 19
-00:02:11,738 --> 00:02:14,516
+00:02:11,738 --> 00:02:15,578
 And once I realized that, there was really kind of no going back
 
 20
@@ -87,7 +87,7 @@ The name of the book is 'Paddington at the Fair'
 Well, he was born in Highland Park and grew up here
 
 23
-00:02:36,552 --> 00:02:40,000
+00:02:36,552 --> 00:02:40,090
 Aaron came from a family of three brothers, all extraordinarily bright
 
 24
@@ -95,11 +95,11 @@ Aaron came from a family of three brothers, all extraordinarily bright
 The box is flipping over!
 
 25
-00:02:44,574 --> 00:02:47,767
+00:02:44,574 --> 00:02:47,800
 So, we were all, you know, not the best behaved children
 
 26
-00:02:47,810 --> 00:02:51,100
+00:02:47,810 --> 00:02:51,590
 you know, three boys running around all the time, causing trouble
 
 27
@@ -136,11 +136,11 @@ Aaron who?
 Aaron funny man!
 
 35
-00:03:12,640 --> 00:03:14,858
+00:03:12,640 --> 00:03:14,862
 He knew what he wanted, he always wanted to do it.
 
 36
-00:03:14,872 --> 00:03:16,850
+00:03:14,872 --> 00:03:17,152
 He always accomplished what he wanted.
 
 37
@@ -161,15 +161,15 @@ Mercury's symbol, Venus' symbol, Earth's symbol,
 Mars' symbol, Jupiter's symbol.
 
 41
-00:03:33,000 --> 00:03:34,494
+00:03:33,000 --> 00:03:34,500
 One day he said to Susan:
 
 42
-00:03:34,523 --> 00:03:37,240
+00:03:34,523 --> 00:03:37,371
 "What's this free family entertainment downtown Highland Park?"
 
 43
-00:03:37,381 --> 00:03:40,000
+00:03:37,381 --> 00:03:40,261
 Free family entertainment downtown Highland Park
 
 44
@@ -177,15 +177,15 @@ Free family entertainment downtown Highland Park
 He was three at the time
 
 45
-00:03:42,500 --> 00:03:44,200
+00:03:42,500 --> 00:03:44,290
 She said: "What are you talking about?"
 
 46
-00:03:44,300 --> 00:03:47,000
+00:03:44,300 --> 00:03:47,044
 He said: "Look it says here on on the refrigerator"
 
 47
-00:03:47,054 --> 00:03:49,178
+00:03:47,054 --> 00:03:49,190
 "Free family entertainment downtown Highland Park"
 
 48
@@ -201,7 +201,7 @@ It's called: "My Family Seder"
 The Seder night is different from all other nights
 
 51
-00:04:04,858 --> 00:04:08,472
+00:04:04,858 --> 00:04:08,518
 I remember once we were are the University of Chicago library
 
 52
@@ -209,7 +209,7 @@ I remember once we were are the University of Chicago library
 I pulled a book off the shelf that was from, like, 1900
 
 53
-00:04:12,589 --> 00:04:16,050
+00:04:12,589 --> 00:04:16,090
 and showed to him, I said: "You know this is really just an extraordinary place"
 
 54
@@ -218,7 +218,7 @@ We all were curious children but Aaron really liked learning and really liked te
 
 55
 00:04:22,225 --> 00:04:30,000
-Today we're going to learn the ABCs backwards z, y, x, w, ...
+Today we're going to learn the ABCs backwards z, y, x, w,...
 
 56
 00:04:31,752 --> 00:04:35,032
@@ -229,11 +229,11 @@ I remember he came home from his first algebra class
 he was like: "Noah, let me teach you algebra!"
 
 58
-00:04:38,625 --> 00:04:40,363
+00:04:38,625 --> 00:04:40,545
 and I'm like: "What is algebra?"
 
 59
-00:04:40,785 --> 00:04:42,305
+00:04:40,785 --> 00:04:42,405
 and he was always like that
 
 60
@@ -245,7 +245,7 @@ Now I press button, click button
 there, now it's got that, now it's a pink
 
 62
-00:04:52,109 --> 00:04:56,000
+00:04:52,109 --> 00:04:56,048
 When he was at 2 or 3 three years old and Bob introduced him to computers
 
 63
@@ -261,19 +261,19 @@ Go press that one, go to ABC
 We all had computers, but Aaron really took to them, really took to the Internet
 
 66
-00:05:09,207 --> 00:05:10,500
+00:05:09,207 --> 00:05:10,535
 Looking at the computer?
 
 67
-00:05:10,545 --> 00:05:12,900
+00:05:10,545 --> 00:05:13,545
 Nah... How could... Mommy, why is nothing working?
 
 68
-00:05:15,854 --> 00:05:18,101
+00:05:15,854 --> 00:05:18,142
 He started programming from a really young age.
 
 69
-00:05:18,152 --> 00:05:21,585
+00:05:18,152 --> 00:05:21,771
 I remember the first program that I wrote with him was in basic
 
 70
@@ -289,7 +289,7 @@ He sat down with me in the basement where the computer was
 for hours programming this game
 
 73
-00:05:34,880 --> 00:05:38,196
+00:05:34,880 --> 00:05:38,237
 The problem that I kept having with him is that
 there was nothing that I wanted done
 
@@ -298,15 +298,15 @@ there was nothing that I wanted done
 and to him there was always something to do
 
 75
-00:05:41,600 --> 00:05:44,181
+00:05:41,600 --> 00:05:44,300
 always something that programming could solve
 
 76
-00:05:47,185 --> 00:05:50,603
+00:05:47,185 --> 00:05:50,833
 The way Aaron always thought is that programming is magic, right,
 
 77
-00:05:50,843 --> 00:05:53,963
+00:05:50,843 --> 00:05:54,019
 you can accomplish these things that normal humans can't
 
 78
@@ -318,11 +318,11 @@ Aaron made an ATM using like a Macintosh and like a cardboard box
 One year for Halloween I didn't know what I wanted to be
 
 80
-00:06:01,800 --> 00:06:04,600
+00:06:01,800 --> 00:06:04,690
 and he thought it would be really really cool if I dressed up
 
 81
-00:06:04,700 --> 00:06:08,800
+00:06:04,700 --> 00:06:08,900
 like his new favorite computer which at the time was the original iMac
 
 82
@@ -330,7 +330,7 @@ like his new favorite computer which at the time was the original iMac
 I mean, he hated dressing up for Halloween
 
 83
-00:06:11,160 --> 00:06:14,340
+00:06:11,160 --> 00:06:16,020
 but he loved convincing other people to dress up as other things he wanted to see
 
 84
@@ -343,27 +343,27 @@ Guys, come on, look at the camera
 He made this website called "The Info"
 
 86
-00:06:28,247 --> 00:06:30,560
+00:06:28,247 --> 00:06:30,827
 where people could just fill in information
 
 87
-00:06:31,716 --> 00:06:34,734
+00:06:31,716 --> 00:06:34,775
 Like, I'm sure someone out there knows all about gold, gold leafing...
 
 88
-00:06:34,785 --> 00:06:36,661
+00:06:34,785 --> 00:06:36,724
 Why don't they write about that on this website?
 
 89
-00:06:36,734 --> 00:06:39,912
+00:06:36,734 --> 00:06:39,939
 And then other people could come at a later point and read that information
 
 90
-00:06:39,949 --> 00:06:43,301
+00:06:39,949 --> 00:06:43,309
 and edit the information if they thought that it was bad
 
 91
-00:06:43,650 --> 00:06:46,000
+00:06:43,650 --> 00:06:46,128
 Not too dissimilar from Wikipedia, all right?
 
 92
@@ -371,7 +371,7 @@ Not too dissimilar from Wikipedia, all right?
 This was before Wikipedia had begun
 
 93
-00:06:49,687 --> 00:06:51,985
+00:06:49,687 --> 00:06:52,011
 and this was developed by a 12 year old
 
 94
@@ -391,19 +391,19 @@ One of the teachers responds like:
 "This is a terrible idea, you can't just let anyone
 
 98
-00:07:04,756 --> 00:07:07,090
+00:07:04,756 --> 00:07:07,139
 author the dictionary, like, author the encyclopedia"
 
 99
-00:07:07,149 --> 00:07:10,269
+00:07:07,149 --> 00:07:10,290
 "The whole reason we have scholars is to write these books for us"
 
 100
-00:07:10,300 --> 00:07:12,414
+00:07:10,300 --> 00:07:12,586
 "How could you ever have such a terrible idea?"
 
 101
-00:07:12,596 --> 00:07:14,800
+00:07:12,596 --> 00:07:14,840
 Me and my other brother would be like: "Oh, you know"
 
 102
@@ -423,7 +423,7 @@ hosted by the Cambridge based web design firm ArsDigita
 We all went to Cambridge when he won the ArsDigita Prize
 
 106
-00:07:37,774 --> 00:07:39,687
+00:07:37,774 --> 00:07:39,793
 and, you know, we had no clue what Aaron was doing
 
 107
@@ -431,15 +431,15 @@ and, you know, we had no clue what Aaron was doing
 it was obvious that the prize was really important
 
 108
-00:07:44,261 --> 00:07:47,700
+00:07:44,261 --> 00:07:47,742
 Aaron soon became involved with on-line programming communities
 
 109
-00:07:47,752 --> 00:07:50,894
+00:07:47,752 --> 00:07:50,932
 then in the process of shaping a new tool for the Web
 
 110
-00:07:51,460 --> 00:07:55,723
+00:07:51,460 --> 00:07:55,757
 He...comes up to me, it's like: "Ben, there's a really awesome thing that I'm working on"
 
 111
@@ -447,15 +447,15 @@ He...comes up to me, it's like: "Ben, there's a really awesome thing that I'm wo
 "you need to hear about it!"
 
 112
-00:07:57,760 --> 00:07:58,800
+00:07:57,760 --> 00:07:58,855
 I'm like: "Yeah, what is it?"
 
 113
-00:07:58,865 --> 00:08:01,010
+00:07:58,865 --> 00:08:01,145
 He says: "It's this thing called RSS!"
 
 114
-00:08:02,510 --> 00:08:04,007
+00:08:02,510 --> 00:08:04,011
 And he explains to me what RSS is
 
 115
@@ -463,7 +463,7 @@ And he explains to me what RSS is
 and I'm like: "Why is that useful, Aaron? Is any site using it? Why would I want to use it?"
 
 116
-00:08:11,672 --> 00:08:15,127
+00:08:11,672 --> 00:08:15,150
 There was this mailing list for people who were working on RSS
 
 117
@@ -479,7 +479,7 @@ who was combative but very smart and who had lots of good ideas
 and he didn't ever come to the face to face meetings and they said:
 
 120
-00:08:28,349 --> 00:08:32,021
+00:08:28,349 --> 00:08:32,084
 "You know, when are you gonna come out to one of those face to face meetings?"
 
 121
@@ -487,11 +487,11 @@ and he didn't ever come to the face to face meetings and they said:
 He said: "You know, I don't think my mom would let me, you know I just turned 14"
 
 122
-00:08:37,400 --> 00:08:39,636
+00:08:37,400 --> 00:08:39,655
 So their first reaction was, well you know,
 
 123
-00:08:39,665 --> 00:08:42,501
+00:08:39,665 --> 00:08:42,542
 "This person, this colleague we've been working with all year
 
 124
@@ -499,15 +499,15 @@ So their first reaction was, well you know,
 was 13 years old when we were working with him and is only 14 now!"
 
 125
-00:08:46,683 --> 00:08:49,425
+00:08:46,683 --> 00:08:49,459
 and their second reaction was: "Christ, we really want to meet him!"
 
 126
-00:08:49,469 --> 00:08:50,800
+00:08:49,469 --> 00:08:50,920
 you know, "That's extraordinary!"
 
 127
-00:08:50,930 --> 00:08:53,432
+00:08:50,930 --> 00:08:53,466
 He was part of the committee that drafted RSS
 
 128
@@ -523,19 +523,19 @@ and the piece that he was working on, RSS
 was a tool that you can use to get summaries
 
 131
-00:09:05,854 --> 00:09:08,269
+00:09:05,854 --> 00:09:08,317
 of things that are going on on other web pages
 
 132
-00:09:08,327 --> 00:09:10,700
+00:09:08,327 --> 00:09:10,855
 Most commonly, you would use this for a blog
 
 133
-00:09:10,865 --> 00:09:13,883
+00:09:10,865 --> 00:09:13,924
 You might have 10 or 20 people's blogs you wanna read
 
 134
-00:09:13,934 --> 00:09:18,610
+00:09:13,934 --> 00:09:18,644
 you use their RSS feeds, these summaries of what's going on on those other pages
 
 135
@@ -547,27 +547,27 @@ to create a unified list of all the stuff that's going on
 Aaron was really young but he understood the technology
 
 137
-00:09:26,050 --> 00:09:29,700
+00:09:26,050 --> 00:09:30,550
 and he saw that it was imperfect and looked for ways to help make it better
 
 138
-00:09:35,500 --> 00:09:39,800
+00:09:35,500 --> 00:09:39,890
 So his mom started bundling him on planes in Chicago, we'd pick him up in San Francisco
 
 139
-00:09:39,900 --> 00:09:42,720
+00:09:39,900 --> 00:09:42,782
 we introduced him to interesting people to argue with
 
 140
-00:09:42,792 --> 00:09:45,229
+00:09:42,792 --> 00:09:45,255
 and we marveled at his horrific eating habits
 
 141
-00:09:45,265 --> 00:09:48,421
+00:09:45,265 --> 00:09:48,484
 he only ate white food, only like, you know, steamed rice
 
 142
-00:09:48,494 --> 00:09:51,250
+00:09:48,494 --> 00:09:51,284
 and not fried rice, because that wasn't sufficiently white,
 
 143
@@ -579,11 +579,11 @@ and white bread, and so on
 and you kind of marvel at the quality of the debate
 
 145
-00:09:57,949 --> 00:10:01,000
+00:09:57,949 --> 00:10:01,051
 emerging from what appeared to be a small boy's mouth
 
 146
-00:10:01,061 --> 00:10:04,600
+00:10:01,061 --> 00:10:04,710
 and you think, you know, this is a kid who is really going to go somewhere if he doesn't die of scurvy
 
 147
@@ -591,35 +591,35 @@ and you think, you know, this is a kid who is really going to go somewhere if he
 Aaron you're up
 
 148
-00:10:06,887 --> 00:10:10,087
+00:10:06,887 --> 00:10:10,130
 I think the difference is that now you can't make companies like that per-se
 
 149
-00:10:10,140 --> 00:10:12,181
+00:10:10,140 --> 00:10:12,208
 you can't have companies that just like
 
 150
-00:10:12,218 --> 00:10:15,600
+00:10:12,218 --> 00:10:15,720
 "let's sell dog food over the Internet, dog food over the cellphones"
 
 151
-00:10:15,730 --> 00:10:18,080
+00:10:15,730 --> 00:10:18,106
 but there is still a lot of innovation going on,
 
 152
-00:10:18,116 --> 00:10:21,214
+00:10:18,116 --> 00:10:21,546
 I think, if you don't see the innovation maybe your head is in the sand
 
 153
-00:10:21,556 --> 00:10:25,389
+00:10:21,556 --> 00:10:25,400
 He takes on this "Alpha Nerd" personality where he's sort of like
 
 154
-00:10:25,410 --> 00:10:27,701
+00:10:25,410 --> 00:10:27,713
 "I'm smarter than you, and because I'm smarter than you
 
 155
-00:10:27,723 --> 00:10:29,700
+00:10:27,723 --> 00:10:29,997
 I'm better than you, and I can tell you what to do"
 
 156
@@ -627,7 +627,7 @@ I'm better than you, and I can tell you what to do"
 It's an extension of him being kind of like a twerp. [Chuckles].
 
 157
-00:10:35,100 --> 00:10:38,596
+00:10:35,100 --> 00:10:38,615
 So you aggregate all these computers together and now they're solving big problems
 
 158
@@ -643,7 +643,7 @@ First met him on IRC, on Internet Relay Chat, he didn't just write code
 he also got people excited about solving problems, he was a connector
 
 161
-00:10:55,658 --> 00:10:58,300
+00:10:55,658 --> 00:10:58,346
 the free culture movement, which had lot of his energy
 
 162
@@ -652,7 +652,7 @@ I think Aaron was trying to make the world work.
 He was trying to fix it
 
 163
-00:11:03,800 --> 00:11:05,970
+00:11:03,800 --> 00:11:05,990
 He had a very kind of strong personality,
 
 164
@@ -664,7 +664,7 @@ that definitely ruffled feathers at times.
 It wasn't necessarily the case that he was always comfortable in the world
 
 166
-00:11:13,556 --> 00:11:16,000
+00:11:13,556 --> 00:11:16,496
 and the world wasn't always comfortable with him.
 
 167
@@ -672,7 +672,7 @@ and the world wasn't always comfortable with him.
 Aaron got into high school, and was really just sick of school
 
 168
-00:11:23,100 --> 00:11:25,800
+00:11:23,100 --> 00:11:25,844
 he didn't like it, he didn't like any of the classes he had been taught
 
 169
@@ -680,11 +680,11 @@ he didn't like it, he didn't like any of the classes he had been taught
 he didn't like the teachers
 
 170
-00:11:28,167 --> 00:11:30,465
+00:11:28,167 --> 00:11:30,491
 Aaron really knew how to get information
 
 171
-00:11:30,501 --> 00:11:34,200
+00:11:30,501 --> 00:11:34,310
 He was like, I don't need to go to this teacher to learn how to do geometry
 
 172
@@ -692,7 +692,7 @@ He was like, I don't need to go to this teacher to learn how to do geometry
 I can just read the geometry book
 
 173
-00:11:36,683 --> 00:11:41,134
+00:11:36,683 --> 00:11:41,444
 and I don't need to go to this teacher to learn their version of American history
 
 174
@@ -700,25 +700,23 @@ and I don't need to go to this teacher to learn their version of American histor
 I have like three historical compilations here like I can just read them
 
 175
-00:11:45,840 --> 00:11:48,800
+00:11:45,840 --> 00:11:48,990
 and I'm not interested in that, I'm interested in the Web
 
 176
-00:11:49,000 --> 00:11:50,600
+00:11:49,000 --> 00:11:50,630
 I was very frustrated with school
 
 177
-00:11:50,640 --> 00:11:53,300
+00:11:50,640 --> 00:11:53,390
 I thought, you know, the teachers didn't know what they were talking about
 
-[position]
-
 178
-00:11:53,400 --> 00:11:56,700
+00:11:53,400 --> 00:11:56,804
 and they were very domineering and controlling, and that homework was kind of a sham.
 
 179
-00:11:56,814 --> 00:11:59,585
+00:11:56,814 --> 00:11:59,597
 I was just like, you know, all the way it pens them[?] together
 
 180
@@ -726,7 +724,7 @@ I was just like, you know, all the way it pens them[?] together
 and force them to do busy work
 
 181
-00:12:01,701 --> 00:12:05,563
+00:12:01,701 --> 00:12:05,590
 and, you know, I started reading books about the history of education
 
 182
@@ -734,35 +732,35 @@ and, you know, I started reading books about the history of education
 and how this educational system was developed
 
 183
-00:12:08,378 --> 00:12:12,225
+00:12:08,378 --> 00:12:12,266
 and, you know, alternatives to it, and ways that people could actually learn things
 
 184
-00:12:12,276 --> 00:12:14,700
+00:12:12,276 --> 00:12:14,890
 as opposed to just regurgitating facts that the teachers told them
 
 185
-00:12:14,900 --> 00:12:17,556
+00:12:14,900 --> 00:12:17,640
 and that kind of led me down this path of questioning things
 
 186
-00:12:17,650 --> 00:12:21,527
+00:12:17,650 --> 00:12:21,553
 you know, once I questioned the school I was in, I questioned the society that built the school
 
 187
-00:12:21,563 --> 00:12:24,749
+00:12:21,563 --> 00:12:24,782
 I questioned the businesses that the schools were training people for
 
 188
-00:12:24,792 --> 00:12:27,818
+00:12:24,792 --> 00:12:28,011
 I questioned the government that, you know, setup this whole structure
 
 189
-00:12:28,021 --> 00:12:30,465
+00:12:28,021 --> 00:12:30,484
 One of the things he was more passionate about was copyright,
 
 190
-00:12:30,494 --> 00:12:31,760
+00:12:30,494 --> 00:12:31,830
 especially in those early days
 
 191
@@ -787,7 +785,7 @@ What Aaron's generation experienced was the collision
 between this antique copyright system
 
 196
-00:12:52,930 --> 00:12:56,560
+00:12:52,930 --> 00:12:56,622
 and this amazing new thing we were trying to build, the Internet and the Web
 
 197
@@ -795,39 +793,39 @@ and this amazing new thing we were trying to build, the Internet and the Web
 These things collided and what we got was chaos
 
 198
-00:13:02,494 --> 00:13:05,400
+00:13:02,494 --> 00:13:05,434
 He then met Harvard Law professor Lawrence Lessig
 
 199
-00:13:05,476 --> 00:13:08,700
+00:13:05,476 --> 00:13:08,890
 who was then challenging copyright law in the supreme court
 
 200
-00:13:08,900 --> 00:13:13,200
+00:13:08,900 --> 00:13:13,277
 A young Aaron Swartz flew to Washington to listen to the supreme court hearings
 
 201
-00:13:13,287 --> 00:13:17,700
-I'm Aaron Swartz and I'm here to listen to the Eldred ...to see the Eldred argument
+00:13:13,287 --> 00:13:18,090
+I'm Aaron Swartz and I'm here to listen to the Eldred...to see the Eldred argument
 
 202
-00:13:18,100 --> 00:13:23,000
+00:13:18,100 --> 00:13:23,190
 Why did you fly out here from Chicago and come all this way to see the Eldred argument?
 
 203
-00:13:23,200 --> 00:13:25,000
+00:13:23,200 --> 00:13:25,120
 That's a more difficult question
 
 204
-00:13:30,000 --> 00:13:33,700
+00:13:30,000 --> 00:13:33,790
 Cause, I don't know, it's very exciting to see the supreme court
 
 205
-00:13:33,800 --> 00:13:36,400
+00:13:33,800 --> 00:13:36,740
 especially in such a prestigious case as this one
 
 206
-00:13:42,000 --> 00:13:46,600
+00:13:42,000 --> 00:13:46,860
 Lessig was also moving forward with a new way to define copyright on the Internet
 
 207
@@ -835,7 +833,7 @@ Lessig was also moving forward with a new way to define copyright on the Interne
 it was called Creative Commons
 
 208
-00:13:49,200 --> 00:13:51,800
+00:13:49,200 --> 00:13:52,990
 So the simple idea of Creative Commons is to give people, creators
 
 209
@@ -847,19 +845,19 @@ a simple way to mark their creativity
 with the freedoms they intend it to carry
 
 211
-00:13:59,000 --> 00:14:01,700
+00:13:59,000 --> 00:14:01,890
 So if copyright is all about "all rights reserved"
 
 212
-00:14:01,900 --> 00:14:04,900
+00:14:01,900 --> 00:14:04,960
 then this is a kind of "some rights reserved" model
 
 213
-00:14:05,100 --> 00:14:08,400
+00:14:05,100 --> 00:14:08,690
 It's I want a simple way to say to you "here's what you can do with my work"
 
 214
-00:14:08,700 --> 00:14:12,800
+00:14:08,700 --> 00:14:13,290
 even if there are other things which you need to get my permission before you could do
 
 215
@@ -867,27 +865,27 @@ even if there are other things which you need to get my permission before you co
 And Aaron's role was the computer part
 
 216
-00:14:16,600 --> 00:14:18,600
+00:14:16,600 --> 00:14:18,790
 like how do you architect the licenses
 
 217
-00:14:18,800 --> 00:14:23,300
+00:14:18,800 --> 00:14:23,590
 so they would be simple and understandable and expressed in way that machines could process it
 
 218
-00:14:23,600 --> 00:14:26,800
+00:14:23,600 --> 00:14:26,890
 And people are like, why do you have this fifteen year old kid
 
 219
-00:14:26,900 --> 00:14:29,000
+00:14:26,900 --> 00:14:29,390
 writing the specifications for the creative commons?
 
 220
-00:14:29,400 --> 00:14:31,100
+00:14:29,400 --> 00:14:31,190
 like, don't you think that's a huge mistake?
 
 221
-00:14:31,200 --> 00:14:34,600
+00:14:31,200 --> 00:14:35,520
 and Larry is like: "the biggest mistake we would have is not listening to this kid"
 
 222
@@ -895,11 +893,11 @@ and Larry is like: "the biggest mistake we would have is not listening to this k
 And he barely he's not even tall enough to get over the podium
 
 223
-00:14:39,400 --> 00:14:41,300
+00:14:39,400 --> 00:14:41,490
 and it wasn't these movable podiums
 
 224
-00:14:41,500 --> 00:14:45,600
+00:14:41,500 --> 00:14:45,890
 so there's this embarrassing thing where, once he puts his screen up, nobody could see his face
 
 225
@@ -907,7 +905,7 @@ so there's this embarrassing thing where, once he puts his screen up, nobody cou
 When we come to our website here
 
 226
-00:14:49,300 --> 00:14:50,500
+00:14:49,300 --> 00:14:50,890
 and you go to "choose liscense"
 
 227
@@ -915,7 +913,7 @@ and you go to "choose liscense"
 it gives you this list of options, explains what it means
 
 228
-00:14:54,900 --> 00:14:57,200
+00:14:54,900 --> 00:14:57,240
 and you fill out three simple questions
 
 229
@@ -923,11 +921,11 @@ and you fill out three simple questions
 Do you want to require attribution?
 
 230
-00:14:59,900 --> 00:15:02,600
+00:14:59,900 --> 00:15:02,890
 Do you want to allow commercial uses of your work?
 
 231
-00:15:02,900 --> 00:15:05,700
+00:15:02,900 --> 00:15:05,780
 Do you want to allow modifications of your work?
 
 232
@@ -939,7 +937,7 @@ I was floored
 just completely flabbergasted that these adults regarded him as an adult
 
 234
-00:15:12,000 --> 00:15:14,800
+00:15:12,000 --> 00:15:14,990
 and Aaron stood up there in front a whole audience full of people
 
 235
@@ -960,15 +958,15 @@ I was sitting at the back thinking:
 but they did
 
 239
-00:15:29,900 --> 00:15:32,400
+00:15:29,900 --> 00:15:32,420
 well I don't think I comprehended it fully
 
 240
-00:15:32,600 --> 00:15:37,000
+00:15:32,600 --> 00:15:37,190
 Though critics have said that it does little to ensure artists get payed for their work
 
 241
-00:15:37,200 --> 00:15:40,000
+00:15:37,200 --> 00:15:40,140
 the success of Creative Commons has been enormous
 
 242
@@ -996,15 +994,15 @@ I think deeply about things and I want others to do likewise.
 I work for ideas and learn from people. I don't like excluding people.
 
 248
-00:16:11,000 --> 00:16:14,800
+00:16:11,000 --> 00:16:15,190
 I'm a perfectionist, but I won't let that get in the way of publication.
 
 249
-00:16:15,200 --> 00:16:21,300
+00:16:15,200 --> 00:16:21,390
 Except for education and entertainment, I'm not going to waste my time on things that won't have an impact.
 
 250
-00:16:21,400 --> 00:16:25,800
+00:16:21,400 --> 00:16:26,320
 I try to be friends with everyone, but I hate it when you don't take me seriously.
 
 251
@@ -1024,23 +1022,23 @@ In 2004 Swartz, leaves Highland Park and enrolls in Stanford University
 He had had ulcerative colitis, which was very troubling
 
 255
-00:16:50,000 --> 00:16:51,900
+00:16:50,000 --> 00:16:52,990
 and we were concerned about him taking his medication.
 
 256
-00:16:53,000 --> 00:16:56,200
+00:16:53,000 --> 00:16:56,390
 He got hospitalized and he would take this cocktail of pills every day
 
 257
-00:16:56,400 --> 00:17:00,200
+00:16:56,400 --> 00:17:00,300
 and one of those pills was a steroid which stunted his growth and
 
 258
-00:17:00,700 --> 00:17:03,600
+00:17:00,700 --> 00:17:03,940
 made him feel different from any of the other students
 
 259
-00:17:04,000 --> 00:17:06,800
+00:17:04,000 --> 00:17:06,990
 Aaron, I think, shows up at Stanford ready to do scholarship
 
 260
@@ -1060,7 +1058,7 @@ and I think it just made him bananas
 In 2005 after only one year of college
 
 264
-00:17:28,923 --> 00:17:32,210
+00:17:28,923 --> 00:17:32,302
 Swartz was offered a spot at a new startup incubation firm
 
 265
@@ -1068,7 +1066,7 @@ Swartz was offered a spot at a new startup incubation firm
 called Y Combinator, led by Paul Graham
 
 266
-00:17:36,283 --> 00:17:39,192
+00:17:36,283 --> 00:17:39,223
 He's like, "Hey, I have this idea for a website!"
 
 267
@@ -1080,7 +1078,7 @@ and Paul Graham likes him enough and says
 "Yeah, sure!", so Aaron drops out of school, moves to this apartment
 
 269
-00:17:46,247 --> 00:17:48,900
+00:17:46,247 --> 00:17:48,942
 So this used to be Aaron's apartment when he lived here
 
 270
@@ -1088,15 +1086,15 @@ So this used to be Aaron's apartment when he lived here
 I have big memories of my father telling me how difficult it was to get a lease
 
 271
-00:17:55,701 --> 00:17:58,400
+00:17:55,701 --> 00:17:58,491
 cause Aaron had no credit and he dropped out of college
 
 272
-00:17:58,501 --> 00:18:00,600
+00:17:58,501 --> 00:18:00,644
 Aaron lived in what's now the living room
 
 273
-00:18:00,654 --> 00:18:04,000
+00:18:00,654 --> 00:18:04,346
 and some of the posters are left over from when Aaron lived here
 
 274
@@ -1112,11 +1110,11 @@ Aaron's Y Combinator site was called "infogami", a tool to build websites
 but infogami struggles to find users
 
 277
-00:18:19,800 --> 00:18:21,978
+00:18:19,800 --> 00:18:22,019
 and Swartz eventually merges his company
 
 278
-00:18:22,029 --> 00:18:24,581
+00:18:22,029 --> 00:18:24,790
 with another Y Combinator project in need of help
 
 279
@@ -1124,23 +1122,23 @@ with another Y Combinator project in need of help
 it was a project headed by Steve Huffman and Alexis Ohanian called "reddit"
 
 280
-00:18:29,774 --> 00:18:33,680
+00:18:29,774 --> 00:18:33,735
 There we were starting from almost nothing, no users, no money, no code
 
 281
-00:18:33,745 --> 00:18:36,800
+00:18:33,745 --> 00:18:36,865
 and growing day by day into a hugely popular website
 
 282
-00:18:37,200 --> 00:18:38,800
+00:18:37,200 --> 00:18:38,840
 and it showed no signs of letting up
 
 283
-00:18:38,850 --> 00:18:43,600
+00:18:38,850 --> 00:18:44,310
 first we had a thousand users, than 10,000, then 20,000 and on and on, it's just incredible
 
 284
-00:18:49,025 --> 00:18:49,207
+00:18:49,025 --> 00:18:51,690
 reddit becomes huge and it's a real sort of geeky corner of the Internet
 
 285
@@ -1176,24 +1174,24 @@ and so in that sense, reddit has been home to controversy as well
 It kind of sits on that edge of chaos.
 
 293
-00:19:36,900 --> 00:19:40,700
+00:19:36,900 --> 00:19:40,690
 reddit catches the attention of the corporate magazine giant "Condé Nast"
 
 294
-00:19:40,700 --> 00:19:40,800
+00:19:40,700 --> 00:19:40,790
 ...who makes an offer to buy the company.
 reddit catches the attention of the corporate magazine giant "Condé Nast"
 
 295
-00:19:40,800 --> 00:19:42,400
+00:19:40,800 --> 00:19:42,590
 ...who makes an offer to buy the company.
 
 296
-00:19:42,600 --> 00:19:43,700
+00:19:42,600 --> 00:19:43,890
 Some large amount of money,
 
 297
-00:19:43,900 --> 00:19:46,800
+00:19:43,900 --> 00:19:46,990
 large enough that my dad was getting bugged with questions about like
 
 298
@@ -1201,7 +1199,7 @@ large enough that my dad was getting bugged with questions about like
 "How do I... store this money?"
 
 299
-00:19:51,400 --> 00:19:53,800
+00:19:51,400 --> 00:19:53,890
 Interviewer: Like a lot of money
 Noah: Like a lot of money
 
@@ -1210,7 +1208,7 @@ Noah: Like a lot of money
 Like... probably more than a million dollars. But I don't actually know.
 
 301
-00:20:00,200 --> 00:20:01,800
+00:20:00,200 --> 00:20:02,000
 And he is how old at the time?
 
 302
@@ -1222,23 +1220,23 @@ Nineteen? Twenty?
 So he was in this apartment, they are like sat around on what predated these couches, hacking on reddit and...
 
 304
-00:20:13,600 --> 00:20:18,300
+00:20:13,600 --> 00:20:18,390
 when they sold reddit they threw a giant party and then all flew out to California
 
 305
-00:20:18,400 --> 00:20:20,300
+00:20:18,400 --> 00:20:20,740
 the next day and left the keys with me.
 
 306
-00:20:23,700 --> 00:20:28,800
+00:20:23,700 --> 00:20:28,890
 It was funny you know, he just sold a startup so we all kind of presumed he was the richest person around...
 
 307
-00:20:28,900 --> 00:20:34,100
+00:20:28,900 --> 00:20:34,120
 but he said "Oh, no. I'll take this tiny little shoe box sized room, that's all I need"
 
 308
-00:20:34,200 --> 00:20:36,203
+00:20:34,200 --> 00:20:36,193
 ...like it was barely larger than a closet.
 
 309
@@ -1246,19 +1244,19 @@ but he said "Oh, no. I'll take this tiny little shoe box sized room, that's all 
 The idea of him spending his money on fancy objects just seems so implausible.
 
 310
-00:20:42,700 --> 00:20:44,807
+00:20:42,700 --> 00:20:44,833
 He explains, it's like "I like living in apartments,
 
 311
-00:20:44,843 --> 00:20:47,900
+00:20:44,843 --> 00:20:48,128
 so I'm not gonna spend a lot of money on a new place to live, I'm not gonna buy a mansion
 
 312
-00:20:48,138 --> 00:20:49,825
+00:20:48,138 --> 00:20:49,830
 ... and I like wearing jeans and a t-shirt,
 
 313
-00:20:49,840 --> 00:20:54,500
+00:20:49,840 --> 00:20:54,590
 so I am not gonna spend any more money on clothes. So like, it's really no big deal."
 
 314
@@ -1266,43 +1264,43 @@ so I am not gonna spend any more money on clothes. So like, it's really no big d
 What is a big deal to Swartz is how traffic flows on the Internet and what commands our attention.
 
 315
-00:21:00,600 --> 00:21:04,800
+00:21:00,600 --> 00:21:04,890
 In the old system of broadcasting you're fundamentally limited by the amount of space in the airwaves.
 
 316
-00:21:04,900 --> 00:21:09,500
+00:21:04,900 --> 00:21:09,590
 You know, you could only send out 10 channels over the airwaves for television,
 
 317
-00:21:09,600 --> 00:21:13,200
+00:21:09,600 --> 00:21:13,290
 or even with cables you have 500 channels. On the Internet everybody can have a channel.
 
 318
-00:21:13,300 --> 00:21:17,800
+00:21:13,300 --> 00:21:17,890
 Everyone can get a blog or a Myspace page. Everyone has a way of expressing themselves.
 
 319
-00:21:17,900 --> 00:21:19,800
+00:21:17,900 --> 00:21:19,890
 And so what you see now is not a question of
 
 320
-00:21:19,900 --> 00:21:24,800
+00:21:19,900 --> 00:21:24,890
 "who gets access to the airwaves?". It's the question of "who gets control over the ways you find people?"
 
 321
-00:21:24,900 --> 00:21:29,500
+00:21:24,900 --> 00:21:29,490
 You know you start seeing power centralizing in sites like Google, these sort of gatekeepers that tell you
 
 322
-00:21:29,500 --> 00:21:34,500
+00:21:29,500 --> 00:21:34,590
 where on the Internet you want to go. The people who provide you your sources of news and information.
 
 323
-00:21:34,600 --> 00:21:39,500
+00:21:34,600 --> 00:21:39,490
 So it's not, you know, "only certain people have a license to speak", now everyone has a license to speak.
 
 324
-00:21:39,500 --> 00:21:41,300
+00:21:39,500 --> 00:21:41,660
 It's a question of "who gets heard?"
 
 325
@@ -1314,39 +1312,39 @@ After he started working in San Francisco at Condé Nast, he comes into the offi
 and they want to give him a computer with all this crap installed on it and say that he can't
 
 327
-00:21:55,600 --> 00:21:59,400
+00:21:55,600 --> 00:21:59,490
 install any new things on this computer, which to a developer is outrageous, right?
 
 328
-00:21:59,500 --> 00:22:01,800
+00:21:59,500 --> 00:22:03,040
 From the first day he was complaining about all this stuff.
 
 329
-00:22:05,600 --> 00:22:10,800
+00:22:05,600 --> 00:22:10,890
 Gray walls, gray desks, gray noise. The first day I showed up here, I simply couldn't take it.
 
 330
-00:22:10,900 --> 00:22:14,800
+00:22:10,900 --> 00:22:14,890
 By lunch time I had literally locked myself in a bathroom stall and started crying.
 
 331
-00:22:14,900 --> 00:22:18,310
+00:22:14,900 --> 00:22:18,420
 I can't imagine staying sane with someone buzzing in my ear all day
 
 332
-00:22:18,430 --> 00:22:20,680
+00:22:18,430 --> 00:22:20,770
 let alone getting any actual work done.
 
 333
-00:22:21,400 --> 00:22:23,740
+00:22:21,400 --> 00:22:23,890
 Nobody else seems to get work done here either.
 
 334
-00:22:23,900 --> 00:22:26,700
+00:22:23,900 --> 00:22:26,740
 Everybody's always coming into our room to hang out and chat
 
 335
-00:22:26,750 --> 00:22:30,130
+00:22:26,750 --> 00:22:30,890
 or invite us to play the new video game system that Wired is testing.
 
 336
@@ -1358,11 +1356,11 @@ He really had different aspirations, that were politically oriented. And Silicon
 just doesn't really quite have that culture that orients technical activity for the purposes
 
 338
-00:22:46,700 --> 00:22:50,200
+00:22:46,700 --> 00:22:50,290
 of political goals. Aaron hated working for a corporation. They all hate
 
 339
-00:22:50,300 --> 00:22:53,100
+00:22:50,300 --> 00:22:53,290
 working for Condé Nast but Aaron is like the only one who is not going to take it.
 
 340
@@ -1374,7 +1372,7 @@ And then basically he gets himself fired by not showing up to work, ever.
 It was said to be a messy breakup.
 
 342
-00:23:03,500 --> 00:23:07,600
+00:23:03,500 --> 00:23:08,240
 Both Alexis Ohanian and Steve Huffman declined to be interviewed for this film.
 
 343
@@ -1386,7 +1384,7 @@ He rejected the business world.
 One of the really important things to remember about
 
 345
-00:23:16,300 --> 00:23:19,800
+00:23:16,300 --> 00:23:19,890
 that choice when Aaron decided to kind of leave startup culture,
 
 346
@@ -1398,7 +1396,7 @@ is that he was also leaving behind the things that had made him famous
 and well loved and, you know, he was at risk of letting down fans.
 
 348
-00:23:31,600 --> 00:23:33,900
+00:23:31,600 --> 00:23:34,090
 He got to where he was supposed to be going,
 
 349
@@ -1410,7 +1408,7 @@ and had the self-awareness and orneriness to realize
 that he had climbed the mountain of shit to pluck the single rose
 
 351
-00:23:43,700 --> 00:23:45,500
+00:23:43,700 --> 00:23:45,690
 and discovered that he'd lost his sense of smell.
 
 352
@@ -1426,7 +1424,7 @@ and he did get the rose in any event, he climbed back down again, which is prett
 The way Aaron always thought is that programming is magic.
 
 355
-00:24:01,800 --> 00:24:06,400
+00:24:01,800 --> 00:24:06,690
 You can accomplish these things that normal humans can't, by being able to program.
 
 356
@@ -1434,11 +1432,11 @@ You can accomplish these things that normal humans can't, by being able to progr
 So, if you had magical powers, would you use them for good, or to make you mountains of cash?
 
 357
-00:24:15,200 --> 00:24:18,500
+00:24:15,200 --> 00:24:18,690
 Swartz was inspired by one of the visionaries he had met as a child,
 
 358
-00:24:18,700 --> 00:24:22,000
+00:24:18,700 --> 00:24:22,360
 the man who had invented the World Wide Web: Tim Berners-Lee.
 
 359
@@ -1446,7 +1444,7 @@ the man who had invented the World Wide Web: Tim Berners-Lee.
 In the 1990s Berners-Lee was arguably sitting on one of the most lucrative inventions of the 20th century
 
 360
-00:24:29,200 --> 00:24:32,600
+00:24:29,200 --> 00:24:32,790
 but instead of profiting from the invention of the World Wide Web,
 
 361
@@ -1466,15 +1464,15 @@ Aaron is certainly deeply influenced by Tim.
 Tim is certainly a very prominent early Internet genius who doesn't, in any sense, cash out.
 
 365
-00:24:51,600 --> 00:24:55,800
+00:24:51,600 --> 00:24:55,890
 He's not at all interested in how he's going figure out how to make a billion dollars.
 
 366
-00:24:55,900 --> 00:24:57,600
+00:24:55,900 --> 00:24:57,790
 People would have seen "Oh, there's money to be made there!"
 
 367
-00:24:57,800 --> 00:25:01,000
+00:24:57,800 --> 00:25:01,190
 so there would have been lots of little webs, instead of one big one.
 
 368
@@ -1482,11 +1480,11 @@ so there would have been lots of little webs, instead of one big one.
 And one little web and also which doesn't work.
 
 369
-00:25:04,600 --> 00:25:06,800
+00:25:04,600 --> 00:25:07,780
 Because you can't follow links from one to the other.
 
 370
-00:25:09,900 --> 00:25:13,500
+00:25:09,900 --> 00:25:13,690
 Now you had to have the critical masses, this thing was in the entire planet
 
 371
@@ -1498,23 +1496,23 @@ so is not gonna work unless the whole planet can get on-board.
 I mean I, you know, feel very strongly that it's not enough to just live in the world as it is
 
 373
-00:25:28,700 --> 00:25:33,400
+00:25:28,700 --> 00:25:33,590
 to just, kind of, take what you're given and, you know, follow the things that adults told you to do
 
 374
-00:25:33,600 --> 00:25:37,300
+00:25:33,600 --> 00:25:37,490
 and, you know, your parents told you to do and that society tells you to do.
 
 375
-00:25:37,500 --> 00:25:41,100
+00:25:37,500 --> 00:25:41,290
 I think you should always be questioning, you know, I take this very scientific attitude
 
 376
-00:25:41,300 --> 00:25:42,800
+00:25:41,300 --> 00:25:42,890
 that everything you've learned is just provisional
 
 377
-00:25:42,900 --> 00:25:46,700
+00:25:42,900 --> 00:25:46,890
 that, you know, is always open to recantation or refutation or questioning.
 
 378
@@ -1522,15 +1520,15 @@ that, you know, is always open to recantation or refutation or questioning.
 And I think the same applies to society
 
 379
-00:25:49,600 --> 00:25:52,200
+00:25:49,600 --> 00:25:52,390
 Once I realized that there where real serious problems,
 
 380
-00:25:52,400 --> 00:25:54,900
+00:25:52,400 --> 00:25:55,090
 fundamental problems that I could do something to address
 
 381
-00:25:55,100 --> 00:25:58,400
+00:25:55,100 --> 00:25:58,760
 I didn't see a way to forget that, I didn't see a way not to.
 
 382
@@ -1538,23 +1536,23 @@ I didn't see a way to forget that, I didn't see a way not to.
 We just started spending a lot of time, just kind of as friends,
 
 383
-00:26:08,800 --> 00:26:11,300
+00:26:08,800 --> 00:26:11,380
 We would just talk for hours into the night
 
 384
-00:26:14,300 --> 00:26:17,200
+00:26:14,300 --> 00:26:17,390
 I definitely should have understood that he was flirting with me.
 
 385
-00:26:17,400 --> 00:26:19,300
+00:26:17,400 --> 00:26:19,380
 I think to some degree I was like
 
 386
-00:26:19,400 --> 00:26:24,300
+00:26:19,400 --> 00:26:24,800
 "This is a terrible idea and impossible and therefore I will pretend it is not happening".
 
 387
-00:26:25,200 --> 00:26:29,200
+00:26:25,200 --> 00:26:29,390
 As my marriage was breaking down and I was really stuck without anywhere to go
 
 388
@@ -1562,11 +1560,11 @@ As my marriage was breaking down and I was really stuck without anywhere to go
 we became roommates and I brought my daughter over.
 
 389
-00:26:34,200 --> 00:26:39,200
+00:26:34,200 --> 00:26:39,290
 We moved in and furnished the house, and it was really peaceful, like, my life had not been peaceful for a while
 
 390
-00:26:39,300 --> 00:26:40,800
+00:26:39,300 --> 00:26:41,040
 and, really, neither had his.
 
 391
@@ -1586,11 +1584,11 @@ But we're both really difficult people to deal with.
 In a very Ally McBeal discussion,
 
 395
-00:27:07,200 --> 00:27:10,700
+00:27:07,200 --> 00:27:10,980
 he confessed he had a theme song and I made him play it for me.
 
 396
-00:27:12,200 --> 00:27:14,900
+00:27:12,200 --> 00:27:14,960
 It was "Extraordinary Machine" by Fiona Apple.
 
 397
@@ -1610,7 +1608,7 @@ In many ways, Aaron was tremendously optimistic about life.
 Even when he didn't feel it.
 
 401
-00:27:44,500 --> 00:27:46,890
+00:27:44,500 --> 00:27:47,320
 He could be tremendously optimistic about life.
 
 402
@@ -1627,7 +1625,7 @@ Swartz threw his energy into a string of new projects involving access to public
 including an accountability website called "Watchdog.net"
 
 405
-00:28:08,650 --> 00:28:10,800
+00:28:08,650 --> 00:28:10,790
 and a project called the "Open Library".
 
 406
@@ -1635,19 +1633,19 @@ and a project called the "Open Library".
 So the Open Library project is a website,
 
 407
-00:28:13,450 --> 00:28:17,300
+00:28:13,450 --> 00:28:17,340
 that you can visit at openlibrary.org and the idea is to be huge wiki,
 
 408
-00:28:17,350 --> 00:28:19,920
+00:28:17,350 --> 00:28:19,930
 an editable website with one page per book.
 
 409
-00:28:20,062 --> 00:28:23,600
+00:28:20,062 --> 00:28:23,590
 So for every book ever published you wanna have a web page about it
 
 410
-00:28:23,600 --> 00:28:25,831
+00:28:23,600 --> 00:28:25,856
 that combines all the information from publishers,
 
 411
@@ -1655,27 +1653,27 @@ that combines all the information from publishers,
 from book sellers, from libraries, from readers
 
 412
-00:28:29,310 --> 00:28:31,155
+00:28:29,310 --> 00:28:31,181
 under one site and then gives you links
 
 413
-00:28:31,191 --> 00:28:34,600
+00:28:31,191 --> 00:28:34,630
 where you can buy it, you can borrow it, or you can browse it.
 
 414
-00:28:34,640 --> 00:28:37,173
+00:28:34,640 --> 00:28:37,190
 I love libraries, you know, I'm the kind of person who goes
 
 415
-00:28:37,200 --> 00:28:39,600
+00:28:37,200 --> 00:28:39,690
 to a new city and immediately seeks out the library.
 
 416
-00:28:39,700 --> 00:28:42,622
+00:28:39,700 --> 00:28:42,638
 That's the dream of Open library, is building this website
 
 417
-00:28:42,648 --> 00:28:45,991
+00:28:42,648 --> 00:28:46,010
 where both you can leap from book to book, from person to author
 
 418
@@ -1683,23 +1681,23 @@ where both you can leap from book to book, from person to author
 from subject to idea. You go through this vast tree of knowledge
 
 419
-00:28:50,195 --> 00:28:52,600
+00:28:50,195 --> 00:28:52,690
 that has been embedded and lost in big physical libraries,
 
 420
-00:28:52,700 --> 00:28:55,644
+00:28:52,700 --> 00:28:55,670
 that's hard to find, that's not very well accessible on-line,
 
 421
-00:28:55,680 --> 00:28:58,586
+00:28:55,680 --> 00:28:58,976
 it's really important because books are our cultural legacy,
 
 422
-00:28:58,986 --> 00:29:01,226
+00:28:58,986 --> 00:29:02,290
 you know, books are the place people go to write things down,
 
 423
-00:29:02,300 --> 00:29:04,088
+00:29:02,300 --> 00:29:04,683
 and to have that all swallowed up by one corporation,
 
 424
@@ -1711,7 +1709,7 @@ is kind of scary.
 How can you bring public access to the public domain?
 
 426
-00:29:10,780 --> 00:29:14,773
+00:29:10,780 --> 00:29:14,816
 It may sound obvious, that you'd have public access to public domain,
 
 427
@@ -1719,7 +1717,7 @@ It may sound obvious, that you'd have public access to public domain,
 but in fact it's not true. So the public domain should be free to all,
 
 428
-00:29:19,670 --> 00:29:21,120
+00:29:19,670 --> 00:29:21,170
 but it's often locked up.
 
 429
@@ -1731,11 +1729,11 @@ There's often guard gates, it is just like having national park
 but with a moat around it and gun turrets pointed out
 
 431
-00:29:29,120 --> 00:29:32,933
+00:29:29,120 --> 00:29:33,012
 in case somebody might want to actually come and enjoy the public domain.
 
 432
-00:29:33,022 --> 00:29:36,328
+00:29:33,022 --> 00:29:36,562
 One of the things Aaron was particularly interested in, was
 
 433
@@ -1743,7 +1741,7 @@ One of the things Aaron was particularly interested in, was
 bringing public access to the public domain.
 
 434
-00:29:39,368 --> 00:29:42,500
+00:29:39,368 --> 00:29:42,968
 This is one of the things that got him into so much trouble.
 
 435
@@ -1775,15 +1773,15 @@ PACER is just this incredible abomination of government service.
 It's 10 cents a page, it's this most brain dead code you've ever seen.
 
 442
-00:30:25,377 --> 00:30:29,500
+00:30:25,377 --> 00:30:29,590
 You can't search it, you can't bookmark anything, you got to have a credit card.
 
 443
-00:30:29,600 --> 00:30:33,848
+00:30:29,600 --> 00:30:34,640
 and these are public records, it's, you know, US district courts are very important,
 
 444
-00:30:35,600 --> 00:30:38,400
+00:30:35,600 --> 00:30:38,425
 it's where a lot of our seminal litigations starts, civil right cases,
 
 445
@@ -1799,7 +1797,7 @@ and citizens and lawyers all need access to PACER and it fights them every step 
 People without means can't see the law
 
 448
-00:30:51,893 --> 00:30:55,040
+00:30:51,893 --> 00:30:55,083
 as readily as people that have that gold American express card.
 
 449
@@ -1811,7 +1809,7 @@ It's a poll tax on access to justice.
 You know the law is the operating system of our democracy and you have to pay to see it?
 
 451
-00:31:04,900 --> 00:31:07,164
+00:31:04,900 --> 00:31:07,180
 You know, that's not a much of democracy.
 
 452
@@ -1843,23 +1841,23 @@ As the founder of public.resource.org,
 Malamud wanted to protest the PACER charges.
 
 459
-00:31:40,530 --> 00:31:43,786
+00:31:40,530 --> 00:31:44,016
 He started a programme called "The PACER recycling Project",
 
 460
-00:31:44,026 --> 00:31:47,440
+00:31:44,026 --> 00:31:47,625
 where people could upload PACER documents they had already paid for
 
 461
-00:31:47,635 --> 00:31:49,920
+00:31:47,635 --> 00:31:50,043
 to a free database so others can use them.
 
 462
-00:31:50,053 --> 00:31:53,120
+00:31:50,053 --> 00:31:53,150
 The PACER people were getting a lot of flak from congress
 
 463
-00:31:53,160 --> 00:31:56,693
+00:31:53,160 --> 00:31:56,701
 and others about public access and so they put together this system
 
 464
@@ -1871,23 +1869,23 @@ in 17 libraries across the country that was free PACER access.
 You know, that's 1 library every 22,000 square miles I believe.
 
 466
-00:32:05,902 --> 00:32:07,700
+00:32:05,902 --> 00:32:07,882
 So wasn't like really convenient.
 
 467
-00:32:08,035 --> 00:32:11,591
+00:32:08,035 --> 00:32:11,755
 I encouraged volunteers to join the so called ThumbDrive corp.
 
 468
-00:32:12,080 --> 00:32:16,782
+00:32:12,080 --> 00:32:17,030
 and download docs from the public access libraries and upload them to the PACER recycling site.
 
 469
-00:32:17,040 --> 00:32:19,271
+00:32:17,040 --> 00:32:19,270
 People take a ThumbDrive into one of these libraries
 
 470
-00:32:19,280 --> 00:32:22,026
+00:32:19,280 --> 00:32:23,012
 and they download a bunch of documents and they send them to me.
 
 471
@@ -1895,7 +1893,7 @@ and they download a bunch of documents and they send them to me.
 I mean, it was just a joke
 
 472
-00:32:24,888 --> 00:32:28,551
+00:32:24,888 --> 00:32:28,594
 In fact when you click on ThumbDrive corps there was a "Wizard of Oz"
 
 473
@@ -1903,7 +1901,7 @@ In fact when you click on ThumbDrive corps there was a "Wizard of Oz"
 you know the Munchkin singing video clip came up.
 
 474
-00:32:35,288 --> 00:32:38,640
+00:32:35,288 --> 00:32:38,630
 But of course I get this phone call from Steve Schultze and Aaron
 
 475
@@ -1915,7 +1913,7 @@ saying "Gee! We would like to join the Thumbdrive corp!"
 Around that time, I ran into Aaron at a conference.
 
 477
-00:32:47,490 --> 00:32:51,546
+00:32:47,490 --> 00:32:51,590
 This is something that really has to be a collaboration between a lot of different people.
 
 478
@@ -1927,11 +1925,11 @@ So I approached him and said
 "Hey, I am thinking about an intervention on the PACER problem."
 
 480
-00:33:00,000 --> 00:33:02,080
+00:33:00,000 --> 00:33:02,114
 Schultze had already developed a program
 
 481
-00:33:02,124 --> 00:33:05,911
+00:33:02,124 --> 00:33:06,490
 that could automatically download PACER documents from the trial libraries.
 
 482
@@ -1987,11 +1985,11 @@ He was able to acquire nearly 2.7 million federal court documents,
 almost 20 million pages of text.
 
 495
-00:34:04,320 --> 00:34:07,484
+00:34:04,320 --> 00:34:07,500
 Now, I'll grant you that 20 million pages had perhaps
 
 496
-00:34:07,530 --> 00:34:11,804
+00:34:07,530 --> 00:34:11,850
 exceeded the expectations of the people running the pilot access project
 
 497
@@ -2007,7 +2005,7 @@ Aaron and Carl decided to go talk to the New York Times about what happened.
 They also caught the attention of the FBI.
 
 500
-00:34:22,950 --> 00:34:26,311
+00:34:22,950 --> 00:34:26,490
 who began to stake-out Swartz's parent's house in Illinois.
 
 501
@@ -2015,15 +2013,15 @@ who began to stake-out Swartz's parent's house in Illinois.
 I get a tweet from his mother saying: "Call me!!"
 
 502
-00:34:31,102 --> 00:34:33,520
+00:34:31,102 --> 00:34:33,560
 I thought "What the hell is going on here?"
 
 503
-00:34:33,570 --> 00:34:36,560
+00:34:33,570 --> 00:34:36,570
 and so I finally got a hold of Aaron and, you know
 
 504
-00:34:36,640 --> 00:34:39,564
+00:34:36,640 --> 00:34:39,700
 Aaron's mother was like "Oh my god, FBI! FBI! FBI!"
 
 505
@@ -2031,11 +2029,11 @@ Aaron's mother was like "Oh my god, FBI! FBI! FBI!"
 An FBI agent drives down our home's driveway trying to see if Aaron is in his room.
 
 506
-00:34:47,500 --> 00:34:50,266
+00:34:47,500 --> 00:34:50,283
 and I remember being home that day and wondering why
 
 507
-00:34:50,293 --> 00:34:53,244
+00:34:50,293 --> 00:34:53,714
 this car was driving down our driveway and just driving back out,
 
 508
@@ -2043,7 +2041,7 @@ this car was driving down our driveway and just driving back out,
 That's weird!
 
 509
-00:34:56,500 --> 00:34:59,537
+00:34:56,500 --> 00:34:59,581
 Like 5 years later, I read this FBI file and I'm like
 
 510
@@ -2067,11 +2065,11 @@ He was terrified, he was totally terrified.
 He was way more terrified after the FBI actually
 
 515
-00:35:13,896 --> 00:35:16,640
+00:35:13,896 --> 00:35:16,630
 called him up on the phone, tried to sucker him into
 
 516
-00:35:16,640 --> 00:35:18,597
+00:35:16,640 --> 00:35:19,030
 coming down to a coffee shop without a lawyer.
 
 517
@@ -2083,19 +2081,19 @@ He said he went home and laid down on the bed
 and, you know, was shaking.
 
 519
-00:35:25,620 --> 00:35:27,750
+00:35:25,620 --> 00:35:27,782
 The downloading also uncovered massive
 
 520
-00:35:27,792 --> 00:35:30,141
+00:35:27,792 --> 00:35:30,312
 privacy violations in the court documents.
 
 521
-00:35:30,390 --> 00:35:34,094
+00:35:30,390 --> 00:35:34,650
 Ultimately, the courts were forced to change their policies as a result
 
 522
-00:35:35,152 --> 00:35:38,875
+00:35:35,152 --> 00:35:38,992
 and the FBI closed their investigation without bringing charges.
 
 523
@@ -2107,7 +2105,7 @@ To this day I find it remarkable that anybody,
 even at the most remote Podunk field office of the FBI,
 
 525
-00:35:47,317 --> 00:35:49,661
+00:35:47,317 --> 00:35:49,792
 thought that a fitting use for taxpayer dollars
 
 526
@@ -2115,7 +2113,7 @@ thought that a fitting use for taxpayer dollars
 was investigating people for criminal theft
 
 527
-00:35:53,124 --> 00:35:55,581
+00:35:53,124 --> 00:35:55,731
 on the grounds that they had made the law public.
 
 528
@@ -2123,11 +2121,11 @@ on the grounds that they had made the law public.
 How can you call yourself a lawman,
 
 529
-00:35:58,291 --> 00:36:01,703
+00:35:58,291 --> 00:36:01,872
 and think that there can possibly be anything wrong in this whole world
 
 530
-00:36:01,882 --> 00:36:03,487
+00:36:01,882 --> 00:36:03,502
 with making the law public?
 
 531
@@ -2151,139 +2149,139 @@ Swartz moves beyond technology
 into a broader range of political causes.
 
 536
-00:36:16,225 --> 00:36:18,738
+00:36:16,225 --> 00:36:18,745
 I went into congress, and I invited him to
 
 537
-00:36:18,823 --> 00:36:21,425
+00:36:18,823 --> 00:36:21,583
 come and hangout and intern for us for a while
 
 538
-00:36:21,712 --> 00:36:25,035
+00:36:21,712 --> 00:36:25,072
 so that he could learn, you know, the political process.
 
 539
-00:36:25,303 --> 00:36:27,816
+00:36:25,303 --> 00:36:27,815
 He was sort of learning about a new community
 
 540
-00:36:27,825 --> 00:36:28,865
+00:36:27,825 --> 00:36:29,190
 and a new set of skills
 
 541
-00:36:29,200 --> 00:36:31,120
+00:36:29,200 --> 00:36:31,480
 and kind of learning to hack politics.
 
 542
-00:36:31,505 --> 00:36:34,315
+00:36:31,505 --> 00:36:34,305
 It seems ridiculous that miners should have to hammer away
 
 543
-00:36:34,315 --> 00:36:36,423
+00:36:34,315 --> 00:36:36,691
 until they whole bodies are dripping with sweat,
 
 544
-00:36:36,701 --> 00:36:38,884
+00:36:36,701 --> 00:36:38,893
 faced with the knowledge that if they dare to stop
 
 545
-00:36:38,903 --> 00:36:40,880
+00:36:38,903 --> 00:36:41,359
 they won't be able to put food on the table that night,
 
 546
-00:36:41,369 --> 00:36:43,915
+00:36:41,369 --> 00:36:43,919
 while I get to make larger and larger amounts of money each day
 
 547
-00:36:43,929 --> 00:36:45,463
+00:36:43,929 --> 00:36:45,849
 just by sitting and watching TV.
 
 548
-00:36:46,592 --> 00:36:48,621
+00:36:46,592 --> 00:36:48,932
 But apparently the world is ridiculous.
 
 549
-00:36:49,520 --> 00:36:51,242
+00:36:49,520 --> 00:36:51,251
 So, I co-founded a group called
 
 550
-00:36:51,261 --> 00:36:53,077
+00:36:51,261 --> 00:36:53,119
 the "Progressive Change Campaign Committee"
 
 551
-00:36:53,129 --> 00:36:56,145
+00:36:53,129 --> 00:36:56,135
 and what we try and do is we try and organize people over the Internet
 
 552
-00:36:56,145 --> 00:36:58,130
+00:36:56,145 --> 00:36:58,126
 who care about progressive politics
 
 553
-00:36:58,136 --> 00:37:00,100
+00:36:58,136 --> 00:37:00,286
 and moving the country in a more progressive direction,
 
 554
-00:37:00,296 --> 00:37:01,624
+00:37:00,296 --> 00:37:01,736
 to kind of come together
 
 555
-00:37:01,800 --> 00:37:03,368
+00:37:01,800 --> 00:37:03,360
 join our e-mail list, join our campaigns,
 
 556
-00:37:03,370 --> 00:37:06,128
+00:37:03,370 --> 00:37:06,262
 help get progressive candidates elected all across the country.
 
 557
-00:37:06,272 --> 00:37:09,264
+00:37:06,272 --> 00:37:09,260
 The group is responsible for igniting the grassroots efforts
 
 558
-00:37:09,270 --> 00:37:12,616
+00:37:09,270 --> 00:37:12,870
 behind the campaign to elect Elizabeth Warren to the Senate.
 
 559
-00:37:13,032 --> 00:37:15,160
+00:37:13,032 --> 00:37:15,342
 He might have thought it was a dumb system, but
 
 560
-00:37:15,352 --> 00:37:17,512
+00:37:15,352 --> 00:37:17,678
 he came in and he said I need to learn this system,
 
 561
-00:37:17,688 --> 00:37:20,992
+00:37:17,688 --> 00:37:21,478
 cause it can be manipulated, like any, you know, like any social system.
 
 562
-00:37:21,488 --> 00:37:23,848
+00:37:21,488 --> 00:37:23,894
 But his passion for knowledge and libraries
 
 563
-00:37:23,904 --> 00:37:25,272
+00:37:23,904 --> 00:37:25,344
 didn't take a back seat.
 
 564
-00:37:25,744 --> 00:37:27,270
+00:37:25,744 --> 00:37:27,286
 Aaron began to take a closer look
 
 565
-00:37:27,296 --> 00:37:30,488
+00:37:27,296 --> 00:37:30,596
 at institutions that publish academic journal articles.
 
 566
-00:37:31,248 --> 00:37:33,944
+00:37:31,248 --> 00:37:33,942
 By virtue of being students at a major US university
 
 567
-00:37:33,952 --> 00:37:37,920
+00:37:33,952 --> 00:37:38,152
 I assume that you have access to a wide variety of scholarly journals.
 
 568
-00:37:38,384 --> 00:37:41,160
+00:37:38,384 --> 00:37:41,190
 Pretty much every major university in the United States
 
 569
-00:37:41,200 --> 00:37:42,808
+00:37:41,200 --> 00:37:42,822
 pays these sort of licensing fees
 
 570
@@ -2295,11 +2293,11 @@ to organizations like JSTOR and Thompson ISI
 to get access to scholarly journals that
 
 572
-00:37:49,096 --> 00:37:50,640
+00:37:49,096 --> 00:37:50,950
 the rest of the world can't read.
 
 573
-00:37:50,960 --> 00:37:53,064
+00:37:50,960 --> 00:37:53,180
 These scholarly journals and articles
 
 574
@@ -2307,7 +2305,7 @@ These scholarly journals and articles
 are essentially the entire wealth of human knowledge on-line
 
 575
-00:37:57,288 --> 00:38:00,048
+00:37:57,288 --> 00:38:00,168
 and many have been payed for with taxpayer money
 
 576
@@ -2315,31 +2313,31 @@ and many have been payed for with taxpayer money
 or with government grants.
 
 577
-00:38:02,480 --> 00:38:04,952
+00:38:02,480 --> 00:38:05,120
 But to read them you often have to pay again
 
 578
-00:38:05,130 --> 00:38:08,480
+00:38:05,130 --> 00:38:08,550
 handing over steep fees to publishers like Reed Elsevier.
 
 579
-00:38:08,830 --> 00:38:11,048
+00:38:08,830 --> 00:38:11,142
 These licensing fees are so substantial that
 
 580
-00:38:11,152 --> 00:38:12,990
+00:38:11,152 --> 00:38:12,985
 people who are studying in India,
 
 581
-00:38:12,995 --> 00:38:14,792
+00:38:12,995 --> 00:38:15,094
 instead of studying in the United States,
 
 582
-00:38:15,104 --> 00:38:16,704
+00:38:15,104 --> 00:38:16,870
 don't have this kind of access.
 
 583
-00:38:16,880 --> 00:38:19,096
+00:38:16,880 --> 00:38:19,462
 They're locked out from all of these journals.
 
 584
@@ -2347,7 +2345,7 @@ They're locked out from all of these journals.
 They're locked out from our entire scientific legacy.
 
 585
-00:38:22,992 --> 00:38:26,248
+00:38:22,992 --> 00:38:26,790
 I mean, a lot of those journal articles, they go back to the enlightenment.
 
 586
@@ -2355,7 +2353,7 @@ I mean, a lot of those journal articles, they go back to the enlightenment.
 Every time someone has written down a scientific paper,
 
 587
-00:38:29,610 --> 00:38:32,200
+00:38:29,610 --> 00:38:32,838
 it has been scanned, digitized and put in these collections.
 
 588
@@ -2363,19 +2361,19 @@ it has been scanned, digitized and put in these collections.
 That is a legacy that has been brought to us
 
 589
-00:38:35,768 --> 00:38:38,432
+00:38:35,768 --> 00:38:38,454
 by the history of people doing interesting work,
 
 590
-00:38:38,464 --> 00:38:39,672
+00:38:38,464 --> 00:38:39,758
 the history of scientists,
 
 591
-00:38:39,768 --> 00:38:43,136
+00:38:39,768 --> 00:38:43,382
 it's a legacy that should belong to us as a commons, as a people
 
 592
-00:38:43,392 --> 00:38:45,904
+00:38:43,392 --> 00:38:45,900
 but instead it's been locked down and put on-line
 
 593
@@ -2383,7 +2381,7 @@ but instead it's been locked down and put on-line
 by handful of for-profit corporations,
 
 594
-00:38:48,616 --> 00:38:51,336
+00:38:48,616 --> 00:38:52,156
 who then try and get the maximum profit they can out of it.
 
 595
@@ -2391,7 +2389,7 @@ who then try and get the maximum profit they can out of it.
 So, a researcher paid by the University, or the people
 
 596
-00:38:57,688 --> 00:39:01,016
+00:38:57,688 --> 00:39:01,030
 publishes a paper and in the very, very last step of that process,
 
 597
@@ -2399,19 +2397,19 @@ publishes a paper and in the very, very last step of that process,
 after all the work is done, after all the original research is done,
 
 598
-00:39:03,490 --> 00:39:05,856
+00:39:03,490 --> 00:39:05,854
 the thinking, the lab work, the analysis,
 
 599
-00:39:05,864 --> 00:39:08,232
+00:39:05,864 --> 00:39:08,478
 after everything is done, at that last stage,
 
 600
-00:39:08,488 --> 00:39:11,744
+00:39:08,488 --> 00:39:11,750
 then the researcher has to hand over his or her copyright
 
 601
-00:39:11,760 --> 00:39:13,740
+00:39:11,760 --> 00:39:13,980
 to this multi-billion dollar company.
 
 602
@@ -2419,11 +2417,11 @@ to this multi-billion dollar company.
 And it's sick.
 
 603
-00:39:15,400 --> 00:39:17,864
+00:39:15,400 --> 00:39:18,206
 It's an entire economy built on volunteer labour,
 
 604
-00:39:18,216 --> 00:39:21,008
+00:39:18,216 --> 00:39:21,734
 and then the publishers sit at the very top and scrape off the cream.
 
 605
@@ -2435,7 +2433,7 @@ Talk about a scam!
 One publisher in Britain made a profit of 3 billion dollars last year.
 
 607
-00:39:28,976 --> 00:39:30,184
+00:39:28,976 --> 00:39:30,296
 I mean, what a racket!
 
 608
@@ -2447,19 +2445,19 @@ JSTOR is just a very, very small player in that story,
 but for some reason JSTOR is the player that Aaron decided to confront.
 
 610
-00:39:41,616 --> 00:39:43,720
+00:39:41,616 --> 00:39:44,374
 He'd gone to some conference around Open Access and Open Publishing,
 
 611
-00:39:44,384 --> 00:39:46,352
+00:39:44,384 --> 00:39:46,366
 and I don't know who the person from JSTOR was,
 
 612
-00:39:46,376 --> 00:39:49,520
+00:39:46,376 --> 00:39:49,916
 but I think they... at some point Aaron asked the question:
 
 613
-00:39:50,096 --> 00:39:53,048
+00:39:50,096 --> 00:39:53,456
 "How much would it cost to open up JSTOR in perpetuity?"
 
 614
@@ -2467,11 +2465,11 @@ but I think they... at some point Aaron asked the question:
 and they gave some... I think is 200 billion dollars
 
 615
-00:39:58,070 --> 00:40:00,060
+00:39:58,070 --> 00:40:00,958
 something that Aaron thought was totally ridiculous.
 
 616
-00:40:00,968 --> 00:40:02,888
+00:40:00,968 --> 00:40:02,950
 Working on a fellowship at Harvard
 
 617
@@ -2495,7 +2493,7 @@ You have a key to those gates,
 and, with a little bit of shell script magic
 
 622
-00:40:17,888 --> 00:40:19,864
+00:40:17,888 --> 00:40:19,988
 you can get those journal articles.
 
 623
@@ -2515,27 +2513,27 @@ on the MIT network, under the name Gary Host.
 The client name was registered as "GHost_laptop"
 
 627
-00:40:35,544 --> 00:40:38,656
+00:40:35,544 --> 00:40:38,710
 He doesn't hack JSTOR in the traditional sense of hacking.
 
 628
-00:40:38,720 --> 00:40:40,456
+00:40:38,720 --> 00:40:40,454
 the JSTOR database was organized, so
 
 629
-00:40:40,464 --> 00:40:42,088
+00:40:40,464 --> 00:40:42,080
 it was completely trivial to figure out
 
 630
-00:40:42,090 --> 00:40:44,440
+00:40:42,090 --> 00:40:44,454
 how you could download all the articles in JSTOR
 
 631
-00:40:44,464 --> 00:40:45,560
+00:40:44,464 --> 00:40:45,580
 because it was basically numbered
 
 632
-00:40:45,590 --> 00:40:48,360
+00:40:45,590 --> 00:40:48,398
 it was basically "/"  "/"  "/"  number article...
 
 633
@@ -2543,11 +2541,11 @@ it was basically "/"  "/"  "/"  number article...
 ...444024, and ...25 ...26
 
 634
-00:40:52,640 --> 00:40:55,392
+00:40:52,640 --> 00:40:55,406
 He wrote a python script called “keepgrabbing.py”
 
 635
-00:40:55,416 --> 00:40:58,072
+00:40:55,416 --> 00:40:58,416
 which, was keep grabbing one article after another
 
 636
@@ -2575,11 +2573,11 @@ and keeps downloading.
 Well, JSTOR and MIT take a number of steps to try interfere with this
 
 642
-00:41:17,630 --> 00:41:19,525
+00:41:17,630 --> 00:41:19,520
 when they noticed that this is happening.
 
 643
-00:41:19,530 --> 00:41:22,925
+00:41:19,530 --> 00:41:22,920
 And when the more modest steps don't work, at a certain stage they,
 
 644
@@ -2599,19 +2597,19 @@ Aaron ultimately, obviously is the cat
 because he has more technical capabilities than the JSTOR database people do defending them
 
 648
-00:41:42,675 --> 00:41:46,765
+00:41:42,675 --> 00:41:46,760
 Eventually, there was an unlocked supply closet in the basement of one of the buildings.
 
 649
-00:41:46,770 --> 00:41:48,515
+00:41:46,770 --> 00:41:48,510
 He went, instead of going through WiFi,
 
 650
-00:41:48,520 --> 00:41:51,015
+00:41:48,520 --> 00:41:51,010
 he went down there and he just plugged his computer directly into the network.
 
 651
-00:41:51,020 --> 00:41:55,875
+00:41:51,020 --> 00:41:56,615
 And just left it there with an external hard drive downloading these  articles to the computer
 
 652
@@ -2643,11 +2641,11 @@ and they could have done all that kind of stuff, but they didn't.
 What they wanted to do was film it to gather evidences to make a case
 
 659
-00:42:29,920 --> 00:42:32,825
+00:42:29,920 --> 00:42:33,040
 That's the only reason you film something like that.
 
 660
-00:42:38,100 --> 00:42:41,575
+00:42:38,100 --> 00:42:41,640
 At first, the only person caught on the glitchy surveillance camera
 
 661
@@ -2671,7 +2669,7 @@ leans out of frame for about 5 minutes, and then leaves.
 And then they, like, organize like a stake-out where as he was biking home from MIT
 
 666
-00:43:42,325 --> 00:43:46,400
+00:43:42,325 --> 00:43:48,805
 these cops came out from, like, either side of the road, or something like that, and started going after him
 
 667
@@ -2699,11 +2697,11 @@ I was just devastated.
 The notion of any kind of criminal prosecution for anyone in our family
 
 673
-00:44:14,800 --> 00:44:18,175
+00:44:14,800 --> 00:44:18,240
 was so foreign and uncomprehensible, I didn't know what to do.
 
 674
-00:44:18,250 --> 00:44:21,315
+00:44:18,250 --> 00:44:21,310
 Well, they execute search warrants at Aaron's house,
 
 675
@@ -2715,7 +2713,7 @@ his apartment in Cambridge and his office at Harvard.
 Two days before the arrest, the investigation had gone beyond JSTOR and the local Cambridge police,
 
 677
-00:44:33,775 --> 00:44:37,150
+00:44:33,775 --> 00:44:37,435
 they had been taken over by the United States secret service.
 
 678
@@ -2727,19 +2725,19 @@ The secret service began investigating computer and credit card fraud in 1984,
 but 6 weeks after the attack on 9/11, their role expanded.
 
 680
-00:44:48,875 --> 00:44:50,925
+00:44:48,875 --> 00:44:51,065
 President Bush used the "Patriot Act"
 
 681
-00:44:51,075 --> 00:44:55,350
+00:44:51,075 --> 00:44:55,575
 to establish a network of what they called "Electronic Crimes Task Forces".
 
 682
-00:44:56,575 --> 00:45:01,500
+00:44:56,575 --> 00:45:01,590
 The bill before me takes account of the new realities and dangers posed by modern terrorists.
 
 683
-00:45:01,600 --> 00:45:06,865
+00:45:01,600 --> 00:45:06,860
 According to the secret service, they are primarily engaged in activity with economic impact,
 
 684
@@ -2747,15 +2745,15 @@ According to the secret service, they are primarily engaged in activity with eco
 organized criminal groups or use of schemes involving new technology.
 
 685
-00:45:11,700 --> 00:45:16,200
+00:45:11,700 --> 00:45:16,190
 The secret service turns Swartz's case over to the Boston US attorney's office.
 
 686
-00:45:16,200 --> 00:45:17,915
+00:45:16,200 --> 00:45:17,910
 There was a guy in the US attorney's office
 
 687
-00:45:17,920 --> 00:45:22,175
+00:45:17,920 --> 00:45:22,240
 who had the title "Head of the computer crimes division" or "task force"
 
 688
@@ -2771,7 +2769,7 @@ but you're certainly not much of a computer crimes prosecutor
 without a computer crime to prosecute, so he jumped on it
 
 691
-00:45:31,370 --> 00:45:35,145
+00:45:31,370 --> 00:45:35,140
 kept it for himself, didn't assign it to someone else within the office or the unit
 
 692
@@ -2779,11 +2777,11 @@ kept it for himself, didn't assign it to someone else within the office or the u
 and that's Steve Heymann.
 
 693
-00:45:37,020 --> 00:45:41,650
+00:45:37,020 --> 00:45:41,990
 Prosecutor Stephen Heymann has been largely out of public view since the arrest of Aaron Swartz,
 
 694
-00:45:42,000 --> 00:45:46,565
+00:45:42,000 --> 00:45:46,560
 but he can be seen here in an episode of the television show "American Greed"
 
 695
@@ -2791,7 +2789,7 @@ but he can be seen here in an episode of the television show "American Greed"
 filmed around the time of Aaron's arrest.
 
 696
-00:45:48,650 --> 00:45:53,425
+00:45:48,650 --> 00:45:53,510
 He is describing his previous case against the notorious hacker Alberto Gonzalez,
 
 697
@@ -2799,7 +2797,7 @@ He is describing his previous case against the notorious hacker Alberto Gonzalez
 a case that garnered Heymann enormous press attention and accolades.
 
 698
-00:45:57,050 --> 00:46:02,025
+00:45:57,050 --> 00:46:02,065
 Gonzalez masterminded the theft of over a hundred million credit card and ATM numbers
 
 699
@@ -2823,7 +2821,7 @@ They have an ego, they like challenge and of course they like money
 and everything you can get from money.
 
 704
-00:46:25,075 --> 00:46:27,665
+00:46:25,075 --> 00:46:27,660
 One of the suspects implicated in the Gonzalez case
 
 705
@@ -2835,23 +2833,23 @@ was a young hacker named Jonathan James.
 Believing Gonzalez's crimes would be pinned on him
 
 707
-00:46:33,120 --> 00:46:36,025
+00:46:33,120 --> 00:46:36,060
 James committed suicide during the investigation.
 
 708
-00:46:36,725 --> 00:46:41,100
+00:46:36,725 --> 00:46:41,240
 In an early press release describing the government's position in the case of Aaron Swartz,
 
 709
-00:46:41,250 --> 00:46:46,275
+00:46:41,250 --> 00:46:46,365
 Heymann's boss, US attorney for the district of Massachusetts, Carmen Ortiz said this:
 
 710
-00:46:46,375 --> 00:46:50,165
+00:46:46,375 --> 00:46:50,160
 "Stealing is stealing, whether you use a computer command or a crowbar,
 
 711
-00:46:50,170 --> 00:46:52,750
+00:46:50,170 --> 00:46:53,090
 and whether you take documents, data, or dollars."
 
 712
@@ -2867,7 +2865,7 @@ I'm not saying it's harmless
 and I'm not saying that we shouldn't criminalize stealing of information,
 
 715
-00:47:06,100 --> 00:47:09,575
+00:47:06,100 --> 00:47:09,565
 but you've gotta be much more subtle in trying to figure out
 
 716
@@ -2875,39 +2873,39 @@ but you've gotta be much more subtle in trying to figure out
 exactly which kind of harms are harmful here.
 
 717
-00:47:14,950 --> 00:47:16,525
+00:47:14,950 --> 00:47:16,538
 So the thing about a crowbar is,
 
 718
-00:47:16,548 --> 00:47:18,742
+00:47:16,548 --> 00:47:19,368
 every time I break into a place with a crowbar,
 
 719
-00:47:19,497 --> 00:47:20,708
+00:47:19,497 --> 00:47:21,837
 I do damage. There's no doubt about it.
 
 720
-00:47:21,988 --> 00:47:23,371
+00:47:21,988 --> 00:47:23,370
 But when Aaron writes a script
 
 721
-00:47:23,380 --> 00:47:27,051
+00:47:23,380 --> 00:47:27,640
 that says: "download, download, download", a hundred times in a second,
 
 722
-00:47:28,160 --> 00:47:30,342
+00:47:28,160 --> 00:47:30,440
 there's no obvious damage, to anybody.
 
 723
-00:47:30,948 --> 00:47:33,462
+00:47:30,948 --> 00:47:33,567
 If he does that for the purpose of gathering
 
 724
-00:47:33,577 --> 00:47:35,965
+00:47:33,577 --> 00:47:35,960
 an archive to do academic research on it
 
 725
-00:47:35,970 --> 00:47:38,057
+00:47:35,970 --> 00:47:38,130
 there's never any damage to anybody.
 
 726
@@ -2915,7 +2913,7 @@ there's never any damage to anybody.
 He wasn't stealing, he wasn't selling what he got or giving it away
 
 727
-00:47:43,074 --> 00:47:45,634
+00:47:43,074 --> 00:47:45,654
 he was making a point as far as I can tell.
 
 728
@@ -2923,19 +2921,19 @@ he was making a point as far as I can tell.
 The arrest took its toll on Swartz.
 
 729
-00:47:48,308 --> 00:47:51,314
+00:47:48,308 --> 00:47:51,310
 He just wouldn't talk about it, and he's like very stressed
 
 730
-00:47:51,320 --> 00:47:55,245
+00:47:51,320 --> 00:47:55,270
 if you thought like the FBI was like, going to come to your doorstep
 
 731
-00:47:55,280 --> 00:47:58,982
+00:47:55,280 --> 00:47:59,030
 any day, any time you went down the hall, even to do your laundry
 
 732
-00:47:59,040 --> 00:48:02,388
+00:47:59,040 --> 00:48:02,675
 and they would break in to your apartment, because you left the door unlocked
 
 733
@@ -2951,11 +2949,11 @@ And so Aaron was always sort of, in a dour mood.
 He wouldn't give off any sensitive information
 
 736
-00:48:22,110 --> 00:48:23,874
+00:48:22,110 --> 00:48:23,870
 about his whereabouts during this time,
 
 737
-00:48:23,880 --> 00:48:27,382
+00:48:23,880 --> 00:48:27,660
 because he was so afraid that the FBI would be waiting for him.
 
 738
@@ -2983,7 +2981,7 @@ WikiLeaks had released a trove of diplomatic cables
 Manning had been under arrest at the time,
 
 744
-00:48:57,074 --> 00:48:59,657
+00:48:57,074 --> 00:48:59,898
 it was unknown whether she was the source of the leak.
 
 745
@@ -3003,7 +3001,7 @@ were going on various sprees of sorts.
 If you compare that to what he did
 
 749
-00:49:14,342 --> 00:49:18,091
+00:49:14,342 --> 00:49:18,218
 his stuff should have been left behind for MIT and JSTOR to deal with,
 
 750
@@ -3019,11 +3017,11 @@ It should have never gotten the attention of the criminal system,
 It just didn't belong there.
 
 753
-00:49:36,628 --> 00:49:39,874
+00:49:36,628 --> 00:49:39,910
 Before he was indicted, Swartz was offered a plea deal,
 
 754
-00:49:39,920 --> 00:49:43,451
+00:49:39,920 --> 00:49:43,440
 that involved three months in prison, time in a halfway house,
 
 755
@@ -3043,7 +3041,7 @@ It was on the condition that Swartz plead guilty to a felony.
 Here we are, we have no discovery, no evidence whatsoever
 
 759
-00:49:56,560 --> 00:49:58,251
+00:49:56,560 --> 00:49:58,240
 about what the government's case is,
 
 760
@@ -3059,7 +3057,7 @@ where the lawyer is pushing you do this,
 the government is giving you a non-negotiable demand,
 
 763
-00:50:09,817 --> 00:50:13,028
+00:50:09,817 --> 00:50:13,098
 and you're told that your likelihood of prevailing is small.
 
 764
@@ -3067,7 +3065,7 @@ and you're told that your likelihood of prevailing is small.
 So whether you're guilty or not you're better off taking the deal.
 
 765
-00:50:18,468 --> 00:50:21,085
+00:50:18,468 --> 00:50:21,108
 Boston has its own computer crimes division.
 
 766
@@ -3079,7 +3077,7 @@ Lots of lawyers. Probably more lawyers than they need.
 So, you know, you can imagine all sorts of cases
 
 768
-00:50:28,674 --> 00:50:30,160
+00:50:28,674 --> 00:50:30,172
 where it would be really hard to prosecute
 
 769
@@ -3095,7 +3093,7 @@ or you've got some people inside a corporation that are gonna have $500 lawyers
 or $700 a hour lawyers sitting down against you
 
 772
-00:50:41,290 --> 00:50:43,097
+00:50:41,290 --> 00:50:43,750
 and then you got this case with this kid,
 
 773
@@ -3111,11 +3109,11 @@ and he has already marked himself as a troublemaker with the FBI,
 so why not go as tough as you can in here[?] against that guy?
 
 776
-00:50:56,510 --> 00:50:57,805
+00:50:56,510 --> 00:50:57,818
 It's good for you the prosecutor,
 
 777
-00:50:57,828 --> 00:51:02,194
+00:50:57,828 --> 00:51:02,190
 it's good for the republic 'cause you're fighting all those terrorist types
 
 778
@@ -3123,11 +3121,11 @@ it's good for the republic 'cause you're fighting all those terrorist types
 I was so scared,
 
 779
-00:51:03,577 --> 00:51:05,400
+00:51:03,577 --> 00:51:05,390
 I was so scared of having my computer seized,
 
 780
-00:51:05,400 --> 00:51:07,200
+00:51:05,400 --> 00:51:07,327
 I was so scared of going to jail,
 
 781
@@ -3139,7 +3137,7 @@ because of my computer being seized.
 I had confidential material from sources
 
 783
-00:51:13,302 --> 00:51:15,260
+00:51:13,302 --> 00:51:15,402
 from my previous work on my laptop.
 
 784
@@ -3155,7 +3153,7 @@ is to keep my sources safe.
 I was so scared of what was gonna happen to Ada
 
 787
-00:51:25,508 --> 00:51:27,862
+00:51:25,508 --> 00:51:28,208
 Aaron told me that they'd offered him a deal,
 
 788
@@ -3171,7 +3169,7 @@ and I came real close to saying "take it".
 He had these... he had developed, like, serious political aspirations
 
 791
-00:51:42,868 --> 00:51:46,297
+00:51:42,868 --> 00:51:46,408
 in the intervening time between when, you know, that moment
 
 792
@@ -3187,7 +3185,7 @@ and begun this new life that had come to this political activism,
 and he just didn't believe that he could continue in his life
 
 795
-00:52:02,982 --> 00:52:05,702
+00:52:02,982 --> 00:52:05,742
 with a felony, you know, he said to me one day
 
 796
@@ -3195,11 +3193,11 @@ with a felony, you know, he said to me one day
 we were walking by the white house and he said to me
 
 797
-00:52:07,920 --> 00:52:09,800
+00:52:07,920 --> 00:52:09,960
 "they don't let felons work there"
 
 798
-00:52:17,752 --> 00:52:20,696
+00:52:17,752 --> 00:52:21,052
 I mean, you know, he really wanted that to be his life.
 
 799
@@ -3211,7 +3209,7 @@ He hadn't killed anybody, he hadn't hurt anybody,
 he hadn't like stolen money,
 
 801
-00:52:28,208 --> 00:52:30,830
+00:52:28,208 --> 00:52:31,628
 he hadn't done anything that seemed felony worthy, right?
 
 802
@@ -3219,7 +3217,7 @@ he hadn't done anything that seemed felony worthy, right?
 And, there is this idea that, like,
 
 803
-00:52:36,960 --> 00:52:38,960
+00:52:36,960 --> 00:52:38,990
 there's no reason that he should be labeled a felon
 
 804
@@ -3227,7 +3225,7 @@ there's no reason that he should be labeled a felon
 and taken away his right to vote in many states
 
 805
-00:52:43,320 --> 00:52:44,784
+00:52:43,320 --> 00:52:44,798
 for doing what he did, like,
 
 806
@@ -3259,15 +3257,15 @@ Heymann redoubled his efforts,
 Heymann continued to press us, at all levels.
 
 813
-00:53:12,710 --> 00:53:14,512
+00:53:12,710 --> 00:53:14,510
 Even with the physical evidence
 
 814
-00:53:14,520 --> 00:53:18,100
+00:53:14,520 --> 00:53:18,180
 seized from Aaron's Acer computer, hard drive, and usb drive,
 
 815
-00:53:18,448 --> 00:53:21,232
+00:53:18,448 --> 00:53:21,268
 the prosecutors needed evidence of his motives.
 
 816
@@ -3275,11 +3273,11 @@ the prosecutors needed evidence of his motives.
 Why was Aaron Swartz downloading articles from JSTOR?
 
 817
-00:53:24,824 --> 00:53:27,160
+00:53:24,824 --> 00:53:27,344
 and just what did he plan to do with them?
 
 818
-00:53:29,160 --> 00:53:32,096
+00:53:29,160 --> 00:53:32,454
 The government claim is that he was planning to publish these.
 
 819
@@ -3287,7 +3285,7 @@ The government claim is that he was planning to publish these.
 We don't really know whether that was his real intention,
 
 820
-00:53:36,016 --> 00:53:37,832
+00:53:36,016 --> 00:53:38,116
 because Aaron also had a history of
 
 821
@@ -3295,11 +3293,11 @@ because Aaron also had a history of
 doing projects where he'd analyze giant datasets of articles
 
 822
-00:53:42,920 --> 00:53:45,048
+00:53:42,920 --> 00:53:45,238
 in order to learn interesting things about them.
 
 823
-00:53:45,248 --> 00:53:48,136
+00:53:45,248 --> 00:53:48,640
 The best evidence for that was that when he was at Stanford
 
 824
@@ -3307,15 +3305,15 @@ The best evidence for that was that when he was at Stanford
 he also downloaded the whole Westlaw legal database.
 
 825
-00:53:53,616 --> 00:53:55,824
+00:53:53,616 --> 00:53:55,854
 In a project with Stanford law students,
 
 826
-00:53:55,864 --> 00:53:58,664
+00:53:55,864 --> 00:53:58,702
 Swartz had downloaded the Westlaw legal database.
 
 827
-00:53:58,712 --> 00:54:00,904
+00:53:58,712 --> 00:54:00,910
 He uncovered troubling connections between
 
 828
@@ -3327,7 +3325,7 @@ funders of legal research and favorable results.
 He did this amazing analysis of for-profit companies
 
 830
-00:54:07,700 --> 00:54:11,040
+00:54:07,700 --> 00:54:11,054
 giving money to law professors who wrote law review articles,
 
 831
@@ -3343,15 +3341,15 @@ So it was a very corrupt system of funding, you know, vanity research.
 Swartz had never released the Westlaw documents.
 
 834
-00:54:22,808 --> 00:54:25,544
+00:54:22,808 --> 00:54:25,646
 In theory he could have been doing the same thing about the JSTOR database.
 
 835
-00:54:25,656 --> 00:54:27,540
+00:54:25,656 --> 00:54:27,558
 That would have been completely OK.
 
 836
-00:54:27,568 --> 00:54:29,976
+00:54:27,568 --> 00:54:29,982
 If he were on the other hand intending to
 
 837
@@ -3359,7 +3357,7 @@ If he were on the other hand intending to
 create a competitive service to JSTOR,
 
 838
-00:54:33,184 --> 00:54:37,064
+00:54:33,184 --> 00:54:37,054
 like we're gonna set up our own, you know, access to the Harvard Law Review,
 
 839
@@ -3367,7 +3365,7 @@ like we're gonna set up our own, you know, access to the Harvard Law Review,
 and charge money for it,
 
 840
-00:54:39,104 --> 00:54:42,024
+00:54:39,104 --> 00:54:42,030
 then, you know, OK, now it seems like a criminal violation
 
 841
@@ -3375,39 +3373,39 @@ then, you know, OK, now it seems like a criminal violation
 because you're commercially trying to exploit this material
 
 842
-00:54:44,820 --> 00:54:47,272
+00:54:44,820 --> 00:54:48,254
 but that's kind of crazy to imagine that's what he was doing.
 
 843
-00:54:48,264 --> 00:54:49,624
+00:54:48,264 --> 00:54:49,638
 So, but than there's a middle case
 
 844
-00:54:49,648 --> 00:54:52,720
+00:54:49,648 --> 00:54:53,726
 what if he was just trying to liberate it for all of the developing world?
 
 845
-00:54:53,736 --> 00:54:55,360
+00:54:53,736 --> 00:54:55,350
 But depending on what he was doing,
 
 846
-00:54:55,360 --> 00:54:58,648
+00:54:55,360 --> 00:54:59,174
 it creates a very different character to how the law should be thinking about it.
 
 847
-00:54:59,184 --> 00:55:00,744
+00:54:59,184 --> 00:55:00,740
 The government was prosecuting him
 
 848
-00:55:00,750 --> 00:55:03,536
+00:55:00,750 --> 00:55:03,550
 as if this was like a commercial criminal violation
 
 849
-00:55:03,560 --> 00:55:05,608
+00:55:03,560 --> 00:55:05,590
 like stealing a whole bunch of credit card records
 
 850
-00:55:05,600 --> 00:55:06,840
+00:55:05,600 --> 00:55:07,000
 like it was that kind of crime.
 
 851
@@ -3415,15 +3413,15 @@ like it was that kind of crime.
 I don't know what he was gonna do with that database
 
 852
-00:55:10,430 --> 00:55:12,248
+00:55:10,430 --> 00:55:12,350
 but I heard from a friend of his
 
 853
-00:55:12,360 --> 00:55:14,944
+00:55:12,360 --> 00:55:14,940
 that Aaron had told him he was going to analyze the data
 
 854
-00:55:14,950 --> 00:55:18,376
+00:55:14,950 --> 00:55:18,390
 for evidence of corporate funding of climate change research
 
 855
@@ -3435,7 +3433,7 @@ that led to biased results.
 And I totally believe that.
 
 857
-00:55:25,216 --> 00:55:27,848
+00:55:25,216 --> 00:55:28,096
 I was just told that Steve wanted to talk to me.
 
 858
@@ -3447,11 +3445,11 @@ and I thought maybe this is a way I could get out of this.
 just exit the situation.
 
 860
-00:55:35,224 --> 00:55:37,824
+00:55:35,224 --> 00:55:38,662
 And I didn't want to leave in fear of having my computer seized
 
 861
-00:55:38,672 --> 00:55:41,032
+00:55:38,672 --> 00:55:41,038
 I didn't want to leave in fear of having to go to jail
 
 862
@@ -3463,7 +3461,7 @@ on a contempt of court charge if
 they tried to compel me to decrypt my computer
 
 864
-00:55:46,616 --> 00:55:49,456
+00:55:46,616 --> 00:55:50,156
 when they came to me and said: "Steve wants to talk to you"
 
 865
@@ -3479,15 +3477,15 @@ They offered Norton what is known as
 a "Queen for a day" letter or a proffer
 
 868
-00:55:57,576 --> 00:56:00,728
+00:55:57,576 --> 00:56:00,734
 it allowed prosecutors to ask questions about Aaron's case.
 
 869
-00:56:00,744 --> 00:56:03,848
+00:56:00,744 --> 00:56:03,870
 Norton would be given immunity from prosecution herself,
 
 870
-00:56:03,880 --> 00:56:06,240
+00:56:03,880 --> 00:56:06,342
 for any information she revealed during the meeting.
 
 871
@@ -3499,11 +3497,11 @@ I didn't like it
 I told my lawyers repeatedly that I didn't,
 
 873
-00:56:10,920 --> 00:56:12,712
+00:56:10,920 --> 00:56:12,718
 this seemed fishy, I didn't like this
 
 874
-00:56:12,728 --> 00:56:14,616
+00:56:12,728 --> 00:56:14,622
 I didn't want immunity, I didn't need immunity
 
 875
@@ -3511,7 +3509,7 @@ I didn't want immunity, I didn't need immunity
 I hadn't done anything.
 
 876
-00:56:16,248 --> 00:56:18,000
+00:56:16,248 --> 00:56:18,022
 But they were really, really stringent
 
 877
@@ -3519,19 +3517,19 @@ But they were really, really stringent
 they did not want me meeting the prosecutor without immunity.
 
 878
-00:56:21,800 --> 00:56:24,928
+00:56:21,800 --> 00:56:24,950
 Interviewer: just to be clear, this is a "Queen For A Day" deal proffer
 
 879
-00:56:24,960 --> 00:56:25,920
+00:56:24,960 --> 00:56:25,910
 Right, a proffer letter
 
 880
-00:56:25,920 --> 00:56:28,224
+00:56:25,920 --> 00:56:28,230
 Interviewer: In which you basically handed information over
 
 881
-00:56:28,240 --> 00:56:30,312
+00:56:28,240 --> 00:56:30,350
 in exchange for protection from prosecution.
 
 882
@@ -3539,25 +3537,25 @@ in exchange for protection from prosecution.
 So, it wasn't handing information over,
 
 883
-00:56:33,624 --> 00:56:36,304
+00:56:33,624 --> 00:56:36,334
 it was, at least that's not how I saw it, it was just
 
 884
-00:56:36,344 --> 00:56:38,232
+00:56:36,344 --> 00:56:38,246
 having a discussion, having an interview with them
 
 885
-00:56:38,256 --> 00:56:41,040
+00:56:38,256 --> 00:56:41,062
 Interviewer: Well, they're asking you questions
 Quinn: They're asking me questions
 
 886
-00:56:41,072 --> 00:56:42,144
+00:56:41,072 --> 00:56:42,400
 Interviewer: And they can ask about whatever they want
 Quinn: Right
 
 887
-00:56:42,410 --> 00:56:44,288
+00:56:42,410 --> 00:56:44,334
 Interviewer: and whatever they learn they can go and prosecute for that
 
 888
@@ -3569,7 +3567,7 @@ Right, I really... right, and I repeatedly tried to go in naked.
 I repeatedly tried to turn down the proffer letter.
 
 890
-00:56:53,800 --> 00:56:56,520
+00:56:53,800 --> 00:56:56,550
 I was ill, I was being pressured by my lawyers,
 
 891
@@ -3581,11 +3579,11 @@ I was confused.
 I was not doing well by this point.
 
 893
-00:57:01,216 --> 00:57:02,992
+00:57:01,216 --> 00:57:03,006
 I was depressed, and I was scared,
 
 894
-00:57:03,016 --> 00:57:05,648
+00:57:03,016 --> 00:57:05,710
 and I didn't understand the situation I was in.
 
 895
@@ -3597,23 +3595,23 @@ I had no idea why I was in this situation.
 I hadn't done anything interesting, much less wrong.
 
 897
-00:57:13,584 --> 00:57:14,800
+00:57:13,584 --> 00:57:15,084
 We were out of our minds.
 
 898
-00:57:15,096 --> 00:57:17,024
+00:57:15,096 --> 00:57:17,220
 Aaron was clearly very destroyed about it,
 
 899
-00:57:17,230 --> 00:57:18,624
+00:57:17,230 --> 00:57:19,014
 we were very destroyed about it.
 
 900
-00:57:19,024 --> 00:57:20,952
+00:57:19,024 --> 00:57:21,166
 Aaron's attorneys were very destroyed about it.
 
 901
-00:57:21,176 --> 00:57:23,432
+00:57:21,176 --> 00:57:23,696
 We tried to get Quinn to change attorneys.
 
 902
@@ -3621,15 +3619,15 @@ We tried to get Quinn to change attorneys.
 I was very unused to being in a room with large men, well armed,
 
 903
-00:57:28,672 --> 00:57:30,600
+00:57:28,672 --> 00:57:30,814
 that are continually telling me I'm lying
 
 904
-00:57:30,824 --> 00:57:32,360
+00:57:30,824 --> 00:57:32,984
 and that I must have done something.
 
 905
-00:57:33,736 --> 00:57:36,504
+00:57:33,736 --> 00:57:36,976
 I told them that this thing that they were prosecuting
 
 906
@@ -3637,23 +3635,23 @@ I told them that this thing that they were prosecuting
 wasn't a crime,
 
 907
-00:57:40,960 --> 00:57:43,224
+00:57:40,960 --> 00:57:43,222
 I told them that they were on the wrong side of history
 
 908
-00:57:43,232 --> 00:57:44,528
+00:57:43,232 --> 00:57:44,518
 I used that phrase, I said:
 
 909
-00:57:44,528 --> 00:57:46,520
+00:57:44,528 --> 00:57:46,748
 "you're on the wrong side of history"
 
 910
-00:57:48,648 --> 00:57:49,672
+00:57:48,648 --> 00:57:49,702
 And they looked bored,
 
 911
-00:57:49,712 --> 00:57:51,670
+00:57:49,712 --> 00:57:52,606
 they didn't even look angry, they just looked bored
 
 912
@@ -3661,27 +3659,27 @@ they didn't even look angry, they just looked bored
 and it began to occur to me that
 
 913
-00:57:55,230 --> 00:57:57,304
+00:57:55,230 --> 00:57:57,334
 we weren't having the same conversation.
 
 914
-00:57:57,344 --> 00:57:59,384
+00:57:57,344 --> 00:57:59,380
 I mean, I told them plenty of things about, you know
 
 915
-00:57:59,390 --> 00:58:02,688
+00:57:59,390 --> 00:58:02,870
 why people would download journal articles, and eventually
 
 916
-00:58:03,120 --> 00:58:04,768
+00:58:03,120 --> 00:58:05,220
 I don't remember what was around it
 
 917
-00:58:06,144 --> 00:58:08,400
+00:58:06,144 --> 00:58:08,390
 I mentioned he had done this blog post
 
 918
-00:58:08,400 --> 00:58:10,008
+00:58:08,400 --> 00:58:10,560
 the "Guerilla Open Access Manifesto"
 
 919
@@ -3697,87 +3695,87 @@ supposedly written in July 2008, in Italy
 Information is power.
 
 922
-00:58:21,736 --> 00:58:22,816
+00:58:21,736 --> 00:58:22,810
 But like all power,
 
 923
-00:58:22,820 --> 00:58:24,872
+00:58:22,820 --> 00:58:25,150
 there are those who want to keep it for themselves.
 
 924
-00:58:25,160 --> 00:58:27,264
+00:58:25,160 --> 00:58:27,318
 The world's entire scientific and cultural heritage,
 
 925
-00:58:27,328 --> 00:58:29,496
+00:58:27,328 --> 00:58:29,774
 published over centuries in books and journals,
 
 926
-00:58:29,784 --> 00:58:32,064
+00:58:29,784 --> 00:58:32,070
 is increasingly being digitized and locked up
 
 927
-00:58:32,080 --> 00:58:34,060
+00:58:32,080 --> 00:58:34,300
 by a handful of private corporations.
 
 928
-00:58:34,320 --> 00:58:38,096
+00:58:34,320 --> 00:58:38,270
 Meanwhile, those who have been locked out are not standing idly by.
 
 929
-00:58:38,280 --> 00:58:40,496
+00:58:38,280 --> 00:58:40,494
 You have been sneaking through holes and climbing over fences,
 
 930
-00:58:40,504 --> 00:58:42,614
+00:58:40,504 --> 00:58:42,610
 liberating the information locked up by the publishers
 
 931
-00:58:42,620 --> 00:58:43,856
+00:58:42,620 --> 00:58:44,598
 and sharing them with your friends.
 
 932
-00:58:44,608 --> 00:58:47,424
+00:58:44,608 --> 00:58:47,574
 But all of this action goes on in the dark, hidden underground.
 
 933
-00:58:47,584 --> 00:58:49,216
+00:58:47,584 --> 00:58:49,334
 It's called stealing or piracy,
 
 934
-00:58:49,344 --> 00:58:52,142
+00:58:49,344 --> 00:58:52,140
 as if sharing a wealth of knowledge were the moral equivalent of
 
 935
-00:58:52,150 --> 00:58:54,368
+00:58:52,150 --> 00:58:54,610
 plundering a ship and murdering its crew.
 
 936
-00:58:54,728 --> 00:58:57,592
+00:58:54,728 --> 00:58:57,670
 But sharing isn't immoral - it's a moral imperative.
 
 937
-00:58:57,680 --> 00:58:59,088
+00:58:57,680 --> 00:58:59,102
 Only those blinded by greed
 
 938
-00:58:59,112 --> 00:59:01,320
+00:58:59,112 --> 00:59:01,572
 would refuse to let a friend make a copy.
 
 939
-00:59:02,168 --> 00:59:04,448
+00:59:02,168 --> 00:59:04,440
 There is no justice in following unjust laws.
 
 940
-00:59:04,450 --> 00:59:06,264
+00:59:04,450 --> 00:59:06,278
 It's time to come into the light and,
 
 941
-00:59:06,288 --> 00:59:08,328
+00:59:06,288 --> 00:59:08,318
 in the grand tradition of civil disobedience,
 
 942
-00:59:08,328 --> 00:59:11,504
+00:59:08,328 --> 00:59:12,108
 declare our opposition to this private theft of public culture.
 
 943
@@ -3789,7 +3787,7 @@ The manifesto itself was allegedly written by four different people
 and also edited by Norton
 
 945
-00:59:18,696 --> 00:59:21,168
+00:59:18,696 --> 00:59:21,576
 but it was Swartz who had signed his name to it.
 
 946
@@ -3797,7 +3795,7 @@ but it was Swartz who had signed his name to it.
 When it's over, I go immediately to Aaron
 
 947
-00:59:25,250 --> 00:59:27,616
+00:59:25,250 --> 00:59:28,070
 and tell him everything I can remember about it
 
 948
@@ -3805,7 +3803,7 @@ and tell him everything I can remember about it
 And he gets very angry.
 
 949
-00:59:34,696 --> 00:59:37,208
+00:59:34,696 --> 00:59:38,176
 The things that I'd done shouldn't have added up that way.
 
 950
@@ -3825,11 +3823,11 @@ but I was never...
 I'm still angry
 
 954
-01:00:00,176 --> 01:00:01,864
+01:00:00,176 --> 01:00:02,036
 I'm still angry that you can...
 
 955
-01:00:03,110 --> 01:00:05,728
+01:00:03,110 --> 01:00:06,350
 ...try your best with these people to do the right thing
 
 956
@@ -3853,11 +3851,11 @@ but my much larger regret is that we've settled for this
 that we're OK with this
 
 961
-01:00:25,840 --> 01:00:28,968
+01:00:25,840 --> 01:00:28,960
 that we're OK with a justice system which tries to game people
 
 962
-01:00:28,970 --> 01:00:31,568
+01:00:28,970 --> 01:00:32,090
 into little traps so that they can ruin their lives.
 
 963
@@ -3889,7 +3887,7 @@ unhelpful to Aaron, and helpful to the prosecution of Aaron
 But, you know, I don't think she had information that was helpful to the government.
 
 970
-01:01:08,032 --> 01:01:12,000
+01:01:08,032 --> 01:01:12,292
 Months go by as Swartz's friends and family await a looming indictment.
 
 971
@@ -3897,11 +3895,11 @@ Months go by as Swartz's friends and family await a looming indictment.
 In the meantime, Swartz was becoming a goto expert on a series of Internet issues.
 
 972
-01:01:17,930 --> 01:01:22,036
+01:01:17,930 --> 01:01:22,062
 Do you think that the Internet is something that should be considered a human right
 
 973
-01:01:22,072 --> 01:01:24,580
+01:01:22,072 --> 01:01:25,130
 something that the government can not take away from you?
 
 974
@@ -3909,19 +3907,19 @@ something that the government can not take away from you?
 Yes. Definitely.
 
 975
-01:01:27,127 --> 01:01:30,458
+01:01:27,127 --> 01:01:30,614
 I mean, this notion that national security is an excuse to shut down the Internet,
 
 976
-01:01:30,624 --> 01:01:34,016
+01:01:30,624 --> 01:01:34,280
 that's exactly what we heard in Egypt, in Syria and all these other countries.
 
 977
-01:01:34,290 --> 01:01:37,141
+01:01:34,290 --> 01:01:37,168
 and so its true, sites like WikiLeaks are going to be putting up
 
 978
-01:01:37,178 --> 01:01:39,810
+01:01:37,178 --> 01:01:40,022
 some embarrassing material about what what the US government does
 
 979
@@ -3929,7 +3927,7 @@ some embarrassing material about what what the US government does
 and people are going to be organizing to protest about it
 
 980
-01:01:42,516 --> 01:01:43,800
+01:01:42,516 --> 01:01:44,019
 and try and change their government.
 
 981
@@ -3937,31 +3935,31 @@ and try and change their government.
 You know, and that's a good thing.
 
 982
-01:01:46,210 --> 01:01:48,225
+01:01:46,210 --> 01:01:48,251
 Thats what all these First Amendment rights of free expression,
 
 983
-01:01:48,261 --> 01:01:49,950
+01:01:48,261 --> 01:01:49,940
 of freedom of association are all about.
 
 984
-01:01:49,950 --> 01:01:52,341
+01:01:49,950 --> 01:01:52,360
 and so the notion that we should try and shut those down
 
 985
-01:01:52,370 --> 01:01:55,061
+01:01:52,370 --> 01:01:55,110
 I think, just goes against very basic American principles.
 
 986
-01:01:55,120 --> 01:01:58,100
+01:01:55,120 --> 01:01:58,128
 a principle, I think, is one that our founding fathers would have understood.
 
 987
-01:01:58,138 --> 01:01:59,716
+01:01:58,138 --> 01:01:59,779
 If the Internet had been around back then
 
 988
-01:01:59,789 --> 01:02:03,345
+01:01:59,789 --> 01:02:04,469
 instead of putting Post Offices in the Constitution, they would have put ISPs.
 
 989
@@ -3969,15 +3967,15 @@ instead of putting Post Offices in the Constitution, they would have put ISPs.
 Swartz meets activist Taren Steinbrickner-Kauffman and the two begin to date.
 
 990
-01:02:10,794 --> 01:02:12,437
+01:02:10,794 --> 01:02:12,427
 ...we need a massive public outcry.
 
 991
-01:02:12,437 --> 01:02:15,616
+01:02:12,437 --> 01:02:15,648
 If there is no massive global public outcry. It won't create any change.
 
 992
-01:02:15,658 --> 01:02:18,930
+01:02:15,658 --> 01:02:19,008
 You know, 4 people in this city should cause a massive global public outcry.
 
 993
@@ -3985,23 +3983,23 @@ You know, 4 people in this city should cause a massive global public outcry.
 You know, we need a petition signer.
 
 994
-01:02:22,390 --> 01:02:24,196
+01:02:22,390 --> 01:02:24,215
 Without telling her specifics, he warned her
 
 995
-01:02:24,225 --> 01:02:27,690
+01:02:24,225 --> 01:02:27,790
 he was involved in something he called simply "the bad thing".
 
 996
-01:02:27,800 --> 01:02:29,876
+01:02:27,800 --> 01:02:29,917
 And I had, sort of, crazy theories, like
 
 997
-01:02:29,927 --> 01:02:32,340
+01:02:29,927 --> 01:02:33,270
 that he was having an affair with Elizabeth Warren or something
 
 998
-01:02:33,280 --> 01:02:35,776
+01:02:33,280 --> 01:02:36,580
 I speculated both Hillary Clinton and Elizabeth Warren.
 
 999
@@ -4009,19 +4007,19 @@ I speculated both Hillary Clinton and Elizabeth Warren.
 So sometime in probably late July, Aaron called me
 
 1000
-01:02:42,356 --> 01:02:44,480
+01:02:42,356 --> 01:02:44,636
 and I happened to pick up and he said:
 
 1001
-01:02:45,265 --> 01:02:47,476
+01:02:45,265 --> 01:02:47,524
 "The bad thing might be in the news tomorrow"
 
 1002
-01:02:47,534 --> 01:02:49,629
+01:02:47,534 --> 01:02:49,662
 "Do you want me to tell you or do you want to read about it in the news".
 
 1003
-01:02:49,672 --> 01:02:51,520
+01:02:49,672 --> 01:02:51,832
 and I said: "I want you to tell me."
 
 1004
@@ -4029,11 +4027,11 @@ and I said: "I want you to tell me."
 and he said: "Well, I've been arrested"
 
 1005
-01:02:58,690 --> 01:03:00,800
+01:02:58,690 --> 01:03:00,830
 "for downloading too many academic journal articles"
 
 1006
-01:03:00,840 --> 01:03:03,440
+01:03:00,840 --> 01:03:03,540
 "and they want to make an example out of me."
 
 1007
@@ -4041,7 +4039,7 @@ and he said: "Well, I've been arrested"
 and I was like: "That's it? That's the big fuss? Really?"
 
 1008
-01:03:09,288 --> 01:03:11,120
+01:03:09,288 --> 01:03:11,307
 "it just doesn't sound like a very big deal."
 
 1009
@@ -4061,7 +4059,7 @@ on the same day that two people in England who are part of LulzSec get arrested
 and few other real hackers
 
 1013
-01:03:27,288 --> 01:03:29,920
+01:03:27,288 --> 01:03:29,910
 and Aaron is just someone who kind of looks like a hacker
 
 1014
@@ -4081,11 +4079,11 @@ they then strip searched him.
 took away his shoelaces, took away his belt
 
 1018
-01:03:45,324 --> 01:03:47,520
+01:03:45,324 --> 01:03:47,544
 and left him in solitary confinement.
 
 1019
-01:03:50,290 --> 01:03:52,906
+01:03:50,290 --> 01:03:52,941
 The District of Massachusetts, United States Attorney's Office
 
 1020
@@ -4097,7 +4095,7 @@ released a statement saying:
 "Swartz faces up to 35 years in prison
 
 1022
-01:03:57,875 --> 01:04:00,568
+01:03:57,875 --> 01:04:00,656
 to be followed by 3 years of supervised release
 
 1023
@@ -4117,15 +4115,15 @@ The same day, the primary victim in the case JSTOR
 formally drops all charges against Swartz and declines to pursue the case.
 
 1027
-01:04:17,822 --> 01:04:21,635
+01:04:17,822 --> 01:04:21,661
 JSTOR, they weren't our friends. They weren't helpful or friendly to us
 
 1028
-01:04:21,671 --> 01:04:24,755
+01:04:21,671 --> 01:04:25,270
 but they also were just kind of like "We are not part of this".
 
 1029
-01:04:25,280 --> 01:04:27,555
+01:04:25,280 --> 01:04:27,560
 JSTOR, and their parent company Ithica
 
 1030
@@ -4133,11 +4131,11 @@ JSTOR, and their parent company Ithica
 also sidestepped requests to talk with this film.
 
 1031
-01:04:30,970 --> 01:04:33,324
+01:04:30,970 --> 01:04:33,341
 But at the time they released a statement saying
 
 1032
-01:04:33,351 --> 01:04:36,942
+01:04:33,351 --> 01:04:37,371
 it was the government's decision whether to prosecute, not JSTOR's.
 
 1033
@@ -4145,7 +4143,7 @@ it was the government's decision whether to prosecute, not JSTOR's.
 And so it was our belief that with that the case would be over
 
 1034
-01:04:42,675 --> 01:04:45,350
+01:04:42,675 --> 01:04:45,385
 that we should be able to get Stephen Heymann to drop the case
 
 1035
@@ -4153,15 +4151,15 @@ that we should be able to get Stephen Heymann to drop the case
 or settle in some rational way.
 
 1036
-01:04:48,789 --> 01:04:50,133
+01:04:48,789 --> 01:04:50,409
 And the government refused.
 
 1037
-01:04:51,137 --> 01:04:52,050
+01:04:51,137 --> 01:04:52,157
 Interviewer: Why?
 
 1038
-01:04:55,315 --> 01:04:58,017
+01:04:55,315 --> 01:04:58,140
 Well, because I think, they wanted to make an example out of Aaron
 
 1039
@@ -4169,7 +4167,7 @@ Well, because I think, they wanted to make an example out of Aaron
 and they said the reason why they wouldn't move on
 
 1040
-01:05:03,235 --> 01:05:05,413
+01:05:03,235 --> 01:05:05,474
 requiring a felony conviction and jail time
 
 1041
@@ -4181,7 +4179,7 @@ was that they wanted to use this case as a case for deterrence.
 They told us that.
 
 1043
-01:05:13,395 --> 01:05:14,168
+01:05:13,395 --> 01:05:14,212
 Interviewer: They told you that?
 
 1044
@@ -4189,12 +4187,12 @@ Interviewer: They told you that?
 Yes.
 
 1045
-01:05:15,315 --> 01:05:17,324
+01:05:15,315 --> 01:05:17,376
 Interviewer: This was gonna be an example?
 Aaron's Father: Yes.
 
 1046
-01:05:17,386 --> 01:05:21,870
+01:05:17,386 --> 01:05:21,945
 Interviewer: He was gonna be an example?
 Aaron's Father: Yes. Steve Heymann said that.
 
@@ -4203,11 +4201,11 @@ Aaron's Father: Yes. Steve Heymann said that.
 Deterring who?
 
 1048
-01:05:23,466 --> 01:05:26,497
+01:05:23,466 --> 01:05:26,505
 There's no other people running around logging onto JSTOR
 
 1049
-01:05:26,515 --> 01:05:29,680
+01:05:26,515 --> 01:05:29,710
 and downloading the articles to make a political statement, I mean, who are they deterring?
 
 1050
@@ -4219,11 +4217,11 @@ It would be easier to understand the Obama Administration's posture
 of supposedly being for deterrence if this was an Administration that, for instance
 
 1052
-01:05:40,880 --> 01:05:45,795
+01:05:40,880 --> 01:05:45,883
 prosecuted arguably the biggest economic crime that this country has seen in the last 100 years
 
 1053
-01:05:45,893 --> 01:05:49,370
+01:05:45,893 --> 01:05:50,114
 the crimes that were committed that led to the financial crisis on Wall Street.
 
 1054
@@ -4247,15 +4245,15 @@ specifically on the basis of political ideology
 and thats not just un-democratic it is supposed to be un-American.
 
 1059
-01:06:19,850 --> 01:06:23,875
+01:06:19,850 --> 01:06:24,050
 Prosecutor Stephen Heymann later reportedly told MIT's outside counsel
 
 1060
-01:06:24,150 --> 01:06:27,422
+01:06:24,150 --> 01:06:27,456
 that the straw that broke the camel's back was a press release
 
 1061
-01:06:27,466 --> 01:06:31,240
+01:06:27,466 --> 01:06:31,323
 sent out by an organization Swartz founded called "Demand Progress".
 
 1062
@@ -4263,7 +4261,7 @@ sent out by an organization Swartz founded called "Demand Progress".
 According to the MIT account
 
 1063
-01:06:33,191 --> 01:06:35,777
+01:06:33,191 --> 01:06:35,981
 Heymann reacted to the short statement of support
 
 1064
@@ -4279,19 +4277,19 @@ and a foolish move that moved the case from human one-on-one level to an institu
 That was a poisonous combination.
 
 1067
-01:06:46,684 --> 01:06:51,137
+01:06:46,684 --> 01:06:51,234
 A prosecutor who didn't want to lose face, who had a political career in the offing maybe
 
 1068
-01:06:51,244 --> 01:06:53,448
+01:06:51,244 --> 01:06:53,492
 and didn't want to have this come back and haunt them.
 
 1069
-01:06:53,502 --> 01:06:57,617
+01:06:53,502 --> 01:06:57,888
 you spent how many tax dollars arresting someone for taking too many books out of the library
 
 1070
-01:06:57,898 --> 01:07:00,970
+01:06:57,898 --> 01:07:00,960
 and then got your ass handed to you in court. No way!
 
 1071
@@ -4299,7 +4297,7 @@ and then got your ass handed to you in court. No way!
 I then moved to try and put pressure on MIT in various ways
 
 1072
-01:07:04,684 --> 01:07:06,355
+01:07:04,684 --> 01:07:06,381
 to get them to go to the government
 
 1073
@@ -4307,11 +4305,11 @@ to get them to go to the government
 and request the government to stop the prosecution.
 
 1074
-01:07:11,217 --> 01:07:13,360
+01:07:11,217 --> 01:07:13,737
 Interviewer: What was MIT's reaction then?
 
 1075
-01:07:14,275 --> 01:07:17,520
+01:07:14,275 --> 01:07:17,935
 There doesn't seem to be any reaction from MIT at that point.
 
 1076
@@ -4327,11 +4325,11 @@ which to people inside of MIT community seems outrageous
 because MIT is a place that encourages hacking in the biggest sense of the word.
 
 1079
-01:07:35,900 --> 01:07:39,715
+01:07:35,900 --> 01:07:39,740
 At MIT the idea of going and running around on roofs and tunnels
 
 1080
-01:07:39,751 --> 01:07:43,457
+01:07:39,751 --> 01:07:43,711
 that you weren't allowed to be in, was not only a rite of passage,
 
 1081
@@ -4355,7 +4353,7 @@ MIT never stood up and took a position of saying to the Feds:
 "Don't do this. We don't want you to do this
 
 1086
-01:08:03,937 --> 01:08:07,280
+01:08:03,937 --> 01:08:07,657
 you are over reacting, this is too strong", that I'm aware of.
 
 1087
@@ -4375,11 +4373,11 @@ unless they felt that they had to, and they never tried to stop it.
 MIT declined repeated requests to comment.
 
 1091
-01:08:25,216 --> 01:08:30,208
+01:08:25,216 --> 01:08:30,198
 but they later released a report saying that they attempted to maintain a position of neutrality
 
 1092
-01:08:30,208 --> 01:08:35,520
+01:08:30,208 --> 01:08:35,851
 and believed Heymann and the US Attorney's office did not care what MIT thought or said about the case.
 
 1093
@@ -4391,7 +4389,7 @@ MIT's behavior seemed really at odds with the MIT ethos.
 You could argue that MIT turned a blind eye and that was okay for them to do
 
 1095
-01:08:47,445 --> 01:08:52,757
+01:08:47,445 --> 01:08:52,747
 but taking that stance, taking that neutral stance in and of itself, was taking a pro-prosecutor stance.
 
 1096
@@ -4399,7 +4397,7 @@ but taking that stance, taking that neutral stance in and of itself, was taking 
 If you look at Steve Jobs and Steve Wozniack, they started by selling a blue box
 
 1097
-01:08:58,922 --> 01:09:01,610
+01:08:58,922 --> 01:09:01,700
 which was a thing designed to defraud the phone company.
 
 1098
@@ -4407,19 +4405,19 @@ which was a thing designed to defraud the phone company.
 If you look at Bill Gates and Paul Allen,
 
 1099
-01:09:04,551 --> 01:09:08,728
+01:09:04,551 --> 01:09:08,811
 they initially started their business by using computer time at Harvard
 
 1100
-01:09:08,826 --> 01:09:11,093
+01:09:08,826 --> 01:09:11,130
 which was pretty clearly against the rules.
 
 1101
-01:09:11,140 --> 01:09:13,431
+01:09:11,140 --> 01:09:13,456
 The difference between Aaron and the people that I just mentioned
 
 1102
-01:09:13,466 --> 01:09:16,690
+01:09:13,466 --> 01:09:18,806
 is that Aaron wanted to make the world a better place, he didn't just want to make money.
 
 1103
@@ -4427,23 +4425,23 @@ is that Aaron wanted to make the world a better place, he didn't just want to ma
 Swartz continues to be outspoken on a variety of Internet Issues.
 
 1104
-01:09:23,440 --> 01:09:28,590
+01:09:23,440 --> 01:09:28,580
 You know, the reason the Internet works is because of the competitive marketplace of ideas.
 
 1105
-01:09:28,590 --> 01:09:31,804
+01:09:28,590 --> 01:09:31,838
 and what we need to be focusing on is getting more information about our government
 
 1106
-01:09:31,848 --> 01:09:34,540
+01:09:31,848 --> 01:09:34,731
 more accessibility, more discussion, more debate.
 
 1107
-01:09:34,741 --> 01:09:38,261
+01:09:34,741 --> 01:09:38,505
 but instead, it seems what Congress is focused on, is shutting things down
 
 1108
-01:09:38,515 --> 01:09:40,426
+01:09:38,515 --> 01:09:40,478
 Aaron thought he could change the world
 
 1109
@@ -4455,19 +4453,19 @@ just by explaining the world very clearly to people.
 FLAME can literally control your computer and make it spy on you.
 
 1111
-01:09:48,960 --> 01:09:52,020
+01:09:48,960 --> 01:09:52,050
 Welcome Aaron, good to have you back on the show here.
 
 1112
-01:09:52,060 --> 01:09:54,106
+01:09:52,060 --> 01:09:54,360
 You know, just like spies used to, in olden days,
 
 1113
-01:09:54,370 --> 01:09:56,373
+01:09:54,370 --> 01:09:56,363
 put microphones and tap what people were saying,
 
 1114
-01:09:56,373 --> 01:09:58,784
+01:09:56,373 --> 01:09:59,243
 now they are using computers to do the same things.
 
 1115
@@ -4475,7 +4473,7 @@ now they are using computers to do the same things.
 Swartz's political activity continues,
 
 1116
-01:10:01,777 --> 01:10:06,840
+01:10:01,777 --> 01:10:06,838
 his attention turning to a bill moving through Congress designed to curb on-line piracy.
 
 1117
@@ -4483,15 +4481,15 @@ his attention turning to a bill moving through Congress designed to curb on-line
 It was called SOPA.
 
 1118
-01:10:09,200 --> 01:10:12,951
+01:10:09,200 --> 01:10:12,980
 Activists like Peter Eckersley saw it as an enormous overreach,
 
 1119
-01:10:13,084 --> 01:10:15,884
+01:10:13,084 --> 01:10:15,883
 threatening the technical integrity of Internet itself.
 
 1120
-01:10:15,893 --> 01:10:18,218
+01:10:15,893 --> 01:10:18,230
 And one of the first things I did was to call Aaron,
 
 1121
@@ -4499,7 +4497,7 @@ And one of the first things I did was to call Aaron,
 and I said can we do a big on-line campaign against this,
 
 1122
-01:10:21,955 --> 01:10:24,040
+01:10:21,955 --> 01:10:24,115
 "This isn't a bill about copyright."
 
 1123
@@ -4511,7 +4509,7 @@ and I said can we do a big on-line campaign against this,
 "No", he said. "It's a bill about the freedom to connect."
 
 1125
-01:10:30,533 --> 01:10:31,671
+01:10:30,533 --> 01:10:31,733
 Now I was listening.
 
 1126
@@ -4519,11 +4517,11 @@ Now I was listening.
 And he thought about it for a while and then said yes,
 
 1127
-01:10:35,715 --> 01:10:38,008
+01:10:35,715 --> 01:10:38,115
 and he went and founded Demand Progress.
 
 1128
-01:10:38,400 --> 01:10:40,693
+01:10:38,400 --> 01:10:40,710
 Demand Progress in an on-line activism organization.
 
 1129
@@ -4535,15 +4533,15 @@ We got around a million and half members now.
 But started in the Fall on 2010.
 
 1131
-01:10:47,297 --> 01:10:49,306
+01:10:47,297 --> 01:10:49,332
 Aaron was one of the most prominent people
 
 1132
-01:10:49,342 --> 01:10:51,937
+01:10:49,342 --> 01:10:52,043
 in a community of people who helped lead organizing
 
 1133
-01:10:52,053 --> 01:10:55,330
+01:10:52,053 --> 01:10:55,750
 around social justice issues at the federal level in this country.
 
 1134
@@ -4559,7 +4557,7 @@ but what it did was basically take a sledge hammer
 to a problem that needed a scalpel.
 
 1137
-01:11:07,226 --> 01:11:11,795
+01:11:07,226 --> 01:11:11,918
 If passed, the law would allow a company to cut off finances to entire websites
 
 1138
@@ -4567,11 +4565,11 @@ If passed, the law would allow a company to cut off finances to entire websites
 without due process or even to force Google to exclude their links
 
 1139
-01:11:16,949 --> 01:11:20,448
+01:11:16,949 --> 01:11:20,609
 all they needed was a single claim of copyright infringement.
 
 1140
-01:11:20,808 --> 01:11:23,884
+01:11:20,808 --> 01:11:23,918
 It pitted the titans of traditional media against a new
 
 1141
@@ -4579,19 +4577,19 @@ It pitted the titans of traditional media against a new
 and now far more sophisticated remix culture.
 
 1142
-01:11:27,160 --> 01:11:30,222
+01:11:27,160 --> 01:11:30,340
 It makes everyone who runs a website into a policeman
 
 1143
-01:11:30,382 --> 01:11:33,013
+01:11:30,382 --> 01:11:33,056
 and if they don't do their job of making sure nobody on their site
 
 1144
-01:11:33,066 --> 01:11:35,422
+01:11:33,066 --> 01:11:35,643
 uses it for anything that's even potentially illegal
 
 1145
-01:11:35,653 --> 01:11:38,480
+01:11:35,653 --> 01:11:38,612
 the entire site could get shutdown without even so much as a trial.
 
 1146
@@ -4611,7 +4609,7 @@ for all who use the Internet.
 Only handful of us who said: "Look we are not for piracy either
 
 1150
-01:11:56,293 --> 01:11:58,906
+01:11:56,293 --> 01:11:59,074
 but it makes no sense to destroy the architecture of the Internet,
 
 1151
@@ -4623,11 +4621,11 @@ the domain name system and so much that makes it free and open
 in the name of fighting piracy
 
 1153
-01:12:06,142 --> 01:12:07,591
+01:12:06,142 --> 01:12:07,670
 and Aaron got that right away.
 
 1154
-01:12:07,680 --> 01:12:09,617
+01:12:07,680 --> 01:12:09,643
 The freedoms guaranteed in our constitution,
 
 1155
@@ -4635,11 +4633,11 @@ The freedoms guaranteed in our constitution,
 the freedoms our country had been built on would be suddenly deleted.
 
 1156
-01:12:14,124 --> 01:12:16,728
+01:12:14,124 --> 01:12:16,932
 New technology, instead of bringing us greater freedom
 
 1157
-01:12:16,942 --> 01:12:20,130
+01:12:16,942 --> 01:12:21,382
 would have snuffed out fundamental rights we had always taken for granted.
 
 1158
@@ -4651,7 +4649,7 @@ And I realized that day, talking to Peter, that I couldn't let that happen.
 When SOPA was introduced in October 2011 it was considered inevitable.
 
 1160
-01:12:33,422 --> 01:12:37,350
+01:12:33,422 --> 01:12:37,510
 Our strategy when it first came out was to hopefully slow the bill down
 
 1161
@@ -4679,23 +4677,23 @@ are fights between different sets of corporate money interests.
 And all duking it out to pass legislation
 
 1167
-01:13:00,650 --> 01:13:04,995
+01:13:00,650 --> 01:13:05,376
 and the fights that are the closest are when you have one set of corporate interests
 
 1168
-01:13:05,386 --> 01:13:08,130
+01:13:05,386 --> 01:13:08,158
 against another set of corporate interests and they are financially
 
 1169
-01:13:08,168 --> 01:13:11,160
+01:13:08,168 --> 01:13:11,158
 equally matched in terms of campaign contributions and lobbying.
 
 1170
-01:13:11,168 --> 01:13:12,661
+01:13:11,168 --> 01:13:12,788
 Those are the closest ones.
 
 1171
-01:13:13,013 --> 01:13:15,395
+01:13:13,013 --> 01:13:15,518
 The ones that aren't even fights, typically,
 
 1172
@@ -4703,11 +4701,11 @@ The ones that aren't even fights, typically,
 are ones where all the money is on one side
 
 1173
-01:13:18,480 --> 01:13:20,346
+01:13:18,480 --> 01:13:20,381
 all the corporations are on one side,
 
 1174
-01:13:20,391 --> 01:13:22,850
+01:13:20,391 --> 01:13:23,391
 and its just millions of people on the other side.
 
 1175
@@ -4727,7 +4725,7 @@ So they were already a long long way to getting 60 votes to clear all the proced
 Even I began to doubt myself. It was a rough period.
 
 1179
-01:13:48,010 --> 01:13:51,697
+01:13:48,010 --> 01:13:51,850
 Swartz and Demand Progress were able to marshal enormous support
 
 1180
@@ -4735,7 +4733,7 @@ Swartz and Demand Progress were able to marshal enormous support
 using traditional outrage combined with commonly used Voice over IP
 
 1181
-01:13:56,370 --> 01:13:59,182
+01:13:56,370 --> 01:13:59,310
 to make it very easy for people to call Congress.
 
 1182
@@ -4747,7 +4745,7 @@ I've never met anybody else who was able to operate at his level,
 both on the technological side and on the campaign strategy side.
 
 1184
-01:14:08,453 --> 01:14:12,577
+01:14:08,453 --> 01:14:12,593
 Millions of people contacted Congress and signed anti-SOPA petitions.
 
 1185
@@ -4755,15 +4753,15 @@ Millions of people contacted Congress and signed anti-SOPA petitions.
 Congress was caught off guard.
 
 1186
-01:14:15,660 --> 01:14:20,231
+01:14:15,660 --> 01:14:20,670
 There was just something about watching those clueless members of Congress debate the bill,
 
 1187
-01:14:20,680 --> 01:14:22,791
+01:14:20,680 --> 01:14:22,825
 watching them insist they could regulate the Internet
 
 1188
-01:14:22,835 --> 01:14:24,951
+01:14:22,835 --> 01:14:25,083
 and a bunch of nerds couldn't possibly stop them.
 
 1189
@@ -4771,15 +4769,15 @@ and a bunch of nerds couldn't possibly stop them.
 I'm not a nerd.
 
 1190
-01:14:26,133 --> 01:14:27,640
+01:14:26,133 --> 01:14:27,678
 I am just not enough of a nerd.
 
 1191
-01:14:27,688 --> 01:14:30,737
+01:14:27,688 --> 01:14:30,859
 ...maybe we ought to ask some nerds what this thing really does.
 
 1192
-01:14:30,869 --> 01:14:32,896
+01:14:30,869 --> 01:14:33,329
 Let's have a hearing, bring in the nerds.
 
 1193
@@ -4791,7 +4789,7 @@ Really?
 Nerds?
 
 1195
-01:14:42,088 --> 01:14:45,546
+01:14:42,088 --> 01:14:46,228
 You know, I think actually the word you are looking for is "Experts".
 
 1196
@@ -4799,7 +4797,7 @@ You know, I think actually the word you are looking for is "Experts".
 to enlighten you, so your laws won't backfire, break the Internet.
 
 1197
-01:14:53,351 --> 01:14:56,702
+01:14:53,351 --> 01:14:56,790
 We use the term Geek, but we're allowed to use that because we are geeks.
 
 1198
@@ -4807,7 +4805,7 @@ We use the term Geek, but we're allowed to use that because we are geeks.
 The fact that it got as far as it did without them talking to any technical experts
 
 1199
-01:15:01,888 --> 01:15:04,704
+01:15:01,888 --> 01:15:04,727
 reflects the fact that there is a problem in this town.
 
 1200
@@ -4815,11 +4813,11 @@ reflects the fact that there is a problem in this town.
 I'm looking for somebody to come before this body and testify in a hearing
 
 1201
-01:15:10,248 --> 01:15:12,080
+01:15:10,248 --> 01:15:12,288
 and say this is why they're wrong.
 
 1202
-01:15:12,320 --> 01:15:15,484
+01:15:12,320 --> 01:15:15,536
 There used to be an office that provided Science and Technology advice
 
 1203
@@ -4827,7 +4825,7 @@ There used to be an office that provided Science and Technology advice
 and members could go to them and say "Help me understand XYZ".
 
 1204
-01:15:19,488 --> 01:15:22,069
+01:15:19,488 --> 01:15:22,059
 and Gingrich killed it. He said it was waste of money.
 
 1205
@@ -4835,7 +4833,7 @@ and Gingrich killed it. He said it was waste of money.
 Ever since then Congress has plunged into the dark ages.
 
 1206
-01:15:26,097 --> 01:15:29,850
+01:15:26,097 --> 01:15:30,212
 I don't think anybody really thought that SOPA could be beaten, including Aaron.
 
 1207
@@ -4843,19 +4841,19 @@ I don't think anybody really thought that SOPA could be beaten, including Aaron.
 I think it was worth trying, but it didn't seem winnable.
 
 1208
-01:15:34,506 --> 01:15:37,130
+01:15:34,506 --> 01:15:37,136
 And I remember, maybe a few months later, I remember him
 
 1209
-01:15:37,146 --> 01:15:40,030
+01:15:37,146 --> 01:15:40,384
 just turning to me and being like "I think we might win this"
 
 1210
-01:15:40,394 --> 01:15:42,250
+01:15:40,394 --> 01:15:42,734
 and I was like "That would be amazing!"
 
 1211
-01:15:44,500 --> 01:15:50,222
+01:15:44,500 --> 01:15:50,238
 Calls to Congress continue when the domain hosting site GoDaddy becomes a supporter of the bill.
 
 1212
@@ -4871,15 +4869,15 @@ Within a week, a humbled GoDaddy reverses their position on SOPA.
 About when the Congress people that supported these
 
 1215
-01:16:04,471 --> 01:16:08,320
+01:16:04,471 --> 01:16:08,336
 the record and movie industries realize that there was this backlash
 
 1216
-01:16:08,346 --> 01:16:10,364
+01:16:08,346 --> 01:16:10,420
 they kind of scaled the bill back a little bit
 
 1217
-01:16:10,430 --> 01:16:11,644
+01:16:10,430 --> 01:16:11,678
 you could see the curve happening.
 
 1218
@@ -4887,19 +4885,19 @@ you could see the curve happening.
 you could see that our arguments were starting to resonate.
 
 1219
-01:16:15,946 --> 01:16:18,980
+01:16:15,946 --> 01:16:18,976
 It was like Aaron had been like striking a match and it was being blown out...
 
 1220
-01:16:18,986 --> 01:16:20,864
+01:16:18,986 --> 01:16:21,100
 striking another one and being blown out and finally
 
 1221
-01:16:21,110 --> 01:16:24,071
+01:16:21,110 --> 01:16:24,779
 he managed to catch enough kindling that the flame actually caught
 
 1222
-01:16:24,789 --> 01:16:26,873
+01:16:24,789 --> 01:16:27,019
 and then they turned into this roaring blaze.
 
 1223
@@ -4907,7 +4905,7 @@ and then they turned into this roaring blaze.
 On January 16th, 2012, the White House issued a statement saying
 
 1224
-01:16:32,042 --> 01:16:33,706
+01:16:32,042 --> 01:16:33,782
 they didn't support the bill.
 
 1225
@@ -4915,15 +4913,15 @@ they didn't support the bill.
 and then this happened.
 
 1226
-01:16:36,180 --> 01:16:39,866
+01:16:36,180 --> 01:16:39,883
 I'm a big believer that we should be dealing with issues of piracy
 
 1227
-01:16:39,893 --> 01:16:42,040
+01:16:39,893 --> 01:16:42,550
 and we should deal with them in a serious way
 
 1228
-01:16:42,560 --> 01:16:44,337
+01:16:42,560 --> 01:16:44,443
 but this bill is not the right bill.
 
 1229
@@ -4947,7 +4945,7 @@ Wikipedia went black,
 Reddit went black,
 
 1234
-01:17:01,724 --> 01:17:02,970
+01:17:01,724 --> 01:17:03,044
 Craigslist went black,
 
 1235
@@ -4955,11 +4953,11 @@ Craigslist went black,
 phone lines on Capitol Hill flat out melted,
 
 1236
-01:17:06,280 --> 01:17:09,395
+01:17:06,280 --> 01:17:09,412
 members of Congress started rushing to issue statements
 
 1237
-01:17:09,422 --> 01:17:12,960
+01:17:09,422 --> 01:17:13,590
 retracting their support for the bill, that they were promoting just a couple days ago.
 
 1238
@@ -4987,7 +4985,7 @@ throughout the day of blackout was pretty unbelievable,
 there was like a hundred representative swing,
 
 1244
-01:17:34,506 --> 01:17:38,581
+01:17:34,506 --> 01:17:38,571
 And that was when, as hard as it was for me to believe after all this
 
 1245
@@ -4995,7 +4993,7 @@ And that was when, as hard as it was for me to believe after all this
 We had won!
 
 1246
-01:17:40,690 --> 01:17:42,426
+01:17:40,690 --> 01:17:42,452
 The thing that everyone said was impossible,
 
 1247
@@ -5011,7 +5009,7 @@ We did it!
 We won!
 
 1250
-01:17:55,777 --> 01:17:58,773
+01:17:55,777 --> 01:17:58,816
 This is a historic week in Internet politics, maybe American politics.
 
 1251
@@ -5019,15 +5017,15 @@ This is a historic week in Internet politics, maybe American politics.
 The thing that we heard from people in Washington D.C.
 
 1252
-01:18:02,533 --> 01:18:06,970
+01:18:02,533 --> 01:18:06,960
 from staffers on Capitol Hill was, they received more emails and more phone calls
 
 1253
-01:18:06,970 --> 01:18:10,462
+01:18:06,970 --> 01:18:10,571
 on SOPA blackout day than they'd ever received about anything.
 
 1254
-01:18:10,581 --> 01:18:12,928
+01:18:10,581 --> 01:18:12,918
 I think that was an extremely exciting moment,
 
 1255
@@ -5035,7 +5033,7 @@ I think that was an extremely exciting moment,
 this was the moment when the Internet had grown up politically.
 
 1256
-01:18:17,770 --> 01:18:21,269
+01:18:17,770 --> 01:18:21,341
 It was exhilarating because its hard to believe that it actually happened.
 
 1257
@@ -5047,15 +5045,15 @@ It's hard to believe, a bill with so much financial power behind it
 didn't simply sail through the Congress.
 
 1259
-01:18:29,376 --> 01:18:32,298
+01:18:29,376 --> 01:18:32,976
 and not only did it not sail through, it didn't pass at all.
 
 1260
-01:18:34,060 --> 01:18:36,293
+01:18:34,060 --> 01:18:36,301
 It's easy sometimes to feel like you are powerless
 
 1261
-01:18:36,311 --> 01:18:39,060
+01:18:36,311 --> 01:18:39,065
 like, when you come out on the streets and you march and you yell,
 
 1262
@@ -5063,11 +5061,11 @@ like, when you come out on the streets and you march and you yell,
 and nobody hears you.
 
 1263
-01:18:40,462 --> 01:18:43,057
+01:18:40,462 --> 01:18:43,402
 But I'm here to tell you today: you are powerful!
 
 1264
-01:18:46,053 --> 01:18:48,550
+01:18:46,053 --> 01:18:48,567
 Maybe sometimes you feel like you not being listened to,
 
 1265
@@ -5075,7 +5073,7 @@ Maybe sometimes you feel like you not being listened to,
 but I'm here to tell you that you are, that you are being listened to,
 
 1266
-01:18:51,870 --> 01:18:56,405
+01:18:51,870 --> 01:18:56,610
 You are making a difference. You can stop this bill if you don't stop fighting.
 
 1267
@@ -5083,11 +5081,11 @@ You are making a difference. You can stop this bill if you don't stop fighting.
 Stop PIPA! Stop SOPA!
 
 1268
-01:19:04,444 --> 01:19:07,370
+01:19:04,444 --> 01:19:07,590
 Some of the biggest Internet companies, to put it frankly, would benefit
 
 1269
-01:19:07,600 --> 01:19:11,160
+01:19:07,600 --> 01:19:11,560
 from a world in which their little competitors could get censored.
 
 1270
@@ -5095,7 +5093,7 @@ from a world in which their little competitors could get censored.
 We can't let that happen.
 
 1271
-01:19:15,114 --> 01:19:19,125
+01:19:15,114 --> 01:19:19,254
 For him it was more important to be sure that you made a small change
 
 1272
@@ -5107,11 +5105,11 @@ than to play a small part in a big change.
 But SOPA was like playing a major part in a major change.
 
 1274
-01:19:27,351 --> 01:19:30,008
+01:19:27,351 --> 01:19:30,411
 and so for him it was kind of his proof of concept.
 
 1275
-01:19:30,862 --> 01:19:34,540
+01:19:30,862 --> 01:19:34,816
 Okay, you know, what I want to do with my life is to change the world.
 
 1276
@@ -5123,7 +5121,7 @@ I think about it in this really scientific way of measuring my impact
 and this shows that it is possible
 
 1278
-01:19:42,528 --> 01:19:45,472
+01:19:42,528 --> 01:19:46,034
 right, that the thing that I want to do with my life is possible.
 
 1279
@@ -5139,7 +5137,7 @@ For a guy who never really thought he had done much
 which was Aaron.
 
 1282
-01:19:59,381 --> 01:20:02,517
+01:19:59,381 --> 01:20:02,741
 it was one of the few moments where you could really see
 
 1283
@@ -5151,7 +5149,7 @@ that he felt like he had done something good.
 feeling like here is his maybe one and only victory lap.
 
 1285
-01:20:13,717 --> 01:20:16,341
+01:20:13,717 --> 01:20:16,346
 Everyone said that there was no way we could stop SOPA.
 
 1286
@@ -5167,11 +5165,11 @@ I mean, if there is a time to be positive it's now.
 He wins at SOPA a year after he is arrested.
 
 1289
-01:20:30,016 --> 01:20:31,978
+01:20:30,016 --> 01:20:31,968
 it's not an unambiguously happy moment.
 
 1290
-01:20:31,978 --> 01:20:33,344
+01:20:31,978 --> 01:20:33,334
 There is a lot going on.
 
 1291
@@ -5179,11 +5177,11 @@ There is a lot going on.
 He is so atuned towards participating in the political process, you can't stop him.
 
 1292
-01:20:40,337 --> 01:20:44,350
+01:20:40,337 --> 01:20:44,342
 The list of organizations Swartz founded or co-founded is enormous.
 
 1293
-01:20:44,352 --> 01:20:48,256
+01:20:44,352 --> 01:20:48,430
 and years before Edward Snowden would expose widespread Internet surveillance
 
 1294
@@ -5195,15 +5193,15 @@ Swartz was already concerned.
 It is shocking to think that accountability is so lax
 
 1296
-01:20:55,290 --> 01:20:57,111
+01:20:55,290 --> 01:20:57,127
 that they don't even have basic statistics
 
 1297
-01:20:57,137 --> 01:20:59,110
+01:20:57,137 --> 01:20:59,190
 about how big this spying program is.
 
 1298
-01:20:59,200 --> 01:21:03,594
+01:20:59,200 --> 01:21:03,584
 If the answer is "We are spying on so many people we can't possibly even count them."
 
 1299
@@ -5211,15 +5209,15 @@ If the answer is "We are spying on so many people we can't possibly even count t
 then that's an awful lot of people.
 
 1300
-01:21:06,602 --> 01:21:10,058
+01:21:06,602 --> 01:21:10,048
 One thing that they said was "Look, we know the number of telephones we are spying on,
 
 1301
-01:21:10,058 --> 01:21:12,868
+01:21:10,058 --> 01:21:13,200
 we don't know exactly how many real people that corresponds to."
 
 1302
-01:21:13,210 --> 01:21:15,349
+01:21:13,210 --> 01:21:15,376
 but they just came back and said we can't give you a number at all.
 
 1303
@@ -5228,10 +5226,10 @@ Thats pretty... I mean, scary is what it is.
 
 1304
 01:21:18,888 --> 01:21:25,730
-And they put incredible pressure on him, took away .. all of the money he had made.
+And they put incredible pressure on him, took away.. all of the money he had made.
 
 1305
-01:21:27,500 --> 01:21:29,807
+01:21:27,500 --> 01:21:30,047
 they threatened to take away his physical freedom.
 
 1306
@@ -5251,15 +5249,15 @@ about all sorts of things, from the banks
 to war, to just sort of government transparency.
 
 1310
-01:21:46,447 --> 01:21:51,466
+01:21:46,447 --> 01:21:51,610
 So secrecy serves those who are already in power, and we are living in an era of secrecy
 
 1311
-01:21:51,620 --> 01:21:54,408
+01:21:51,620 --> 01:21:54,470
 that coincides with an era where the government is doing
 
 1312
-01:21:54,480 --> 01:21:58,293
+01:21:54,480 --> 01:21:58,560
 also a lot of things that are probably illegal and unconstitutional.
 
 1313
@@ -5267,7 +5265,7 @@ also a lot of things that are probably illegal and unconstitutional.
 So, those two things are not coincidences
 
 1314
-01:22:01,530 --> 01:22:04,275
+01:22:01,530 --> 01:22:04,301
 It's very clear that this technology has been developed
 
 1315
@@ -5275,39 +5273,39 @@ It's very clear that this technology has been developed
 not for small countries overseas, but right here
 
 1316
-01:22:07,440 --> 01:22:09,920
+01:22:07,440 --> 01:22:09,910
 for use in the United States by the US government.
 
 1317
-01:22:09,920 --> 01:22:13,724
+01:22:09,920 --> 01:22:13,710
 The problem with the spying program is its this sort of long, slow expansion
 
 1318
-01:22:13,720 --> 01:22:16,622
+01:22:13,720 --> 01:22:16,880
 you know, going back to the Nixon Administration, right
 
 1319
-01:22:16,890 --> 01:22:19,920
+01:22:16,890 --> 01:22:19,963
 obviously it became big after 9/11 under George W. Bush
 
 1320
-01:22:19,973 --> 01:22:21,768
+01:22:19,973 --> 01:22:21,838
 and Obama has continued to expand it
 
 1321
-01:22:21,848 --> 01:22:23,866
+01:22:21,848 --> 01:22:23,981
 the problems have slowly grown worse and worse
 
 1322
-01:22:23,991 --> 01:22:26,515
+01:22:23,991 --> 01:22:26,541
 but there's never been this moment you can point to and say
 
 1323
-01:22:26,551 --> 01:22:30,970
+01:22:26,551 --> 01:22:31,231
 "Okay we need to galvanize opposition today because today is when it matters."
 
 1324
-01:22:32,230 --> 01:22:34,888
+01:22:32,230 --> 01:22:34,967
 The prosecution, in my estimation, of Aaron Swartz
 
 1325
@@ -5323,7 +5321,7 @@ that the Obama Administration sees as politically threatening
 and that is the essentially the hacker, the information and the democracy activist community.
 
 1328
-01:22:54,030 --> 01:22:57,306
+01:22:54,030 --> 01:22:57,323
 and the message that the Obama Administration wanted to send
 
 1329
@@ -5331,11 +5329,11 @@ and the message that the Obama Administration wanted to send
 to that particular community was in my estimation
 
 1330
-01:23:00,853 --> 01:23:04,808
+01:23:00,853 --> 01:23:04,873
 "we know you have the ability to make trouble for the establishment
 
 1331
-01:23:06,910 --> 01:23:08,862
+01:23:06,910 --> 01:23:08,887
 and so are going to try to make an example out of Aaron Swartz
 
 1332
@@ -5343,7 +5341,7 @@ and so are going to try to make an example out of Aaron Swartz
 to scare as many of you as possible into not making that trouble."
 
 1333
-01:23:13,706 --> 01:23:14,817
+01:23:13,706 --> 01:23:14,878
 And the government said
 
 1334
@@ -5351,27 +5349,27 @@ And the government said
 "Oh, the legal opinions we are using to legalize the spying program are also classified
 
 1335
-01:23:20,355 --> 01:23:23,448
+01:23:20,355 --> 01:23:23,480
 so we can't even tell you which laws we are using to spy on you."
 
 1336
-01:23:23,490 --> 01:23:26,533
+01:23:23,490 --> 01:23:26,550
 Every time they can say "Oh this is another instance of cyber war"
 
 1337
-01:23:26,560 --> 01:23:28,440
+01:23:26,560 --> 01:23:28,452
 "the cyber criminals are attacking us again"
 
 1338
-01:23:28,462 --> 01:23:30,360
+01:23:28,462 --> 01:23:30,425
 "we are all in danger, we are all under threat".
 
 1339
-01:23:30,435 --> 01:23:33,970
+01:23:30,435 --> 01:23:34,695
 they use those as excuses to push through more and more dangerous laws.
 
 1340
-01:23:37,320 --> 01:23:40,897
+01:23:37,320 --> 01:23:40,920
 Interviewer: Personally, how do you feel the fight is going?
 
 1341
@@ -5383,23 +5381,23 @@ It's up to you.
 You know, there are sort of these two polarizing perspectives
 
 1343
-01:23:52,320 --> 01:23:55,457
+01:23:52,320 --> 01:23:55,447
 Everything is great, Internet has created all this freedom and liberty,
 
 1344
-01:23:55,457 --> 01:23:57,040
+01:23:55,457 --> 01:23:57,074
 and every thing's gonna be fantastic.
 
 1345
-01:23:57,084 --> 01:23:58,506
+01:23:57,084 --> 01:23:58,532
 or everything is terrible.
 
 1346
-01:23:58,542 --> 01:24:00,471
+01:23:58,542 --> 01:24:00,487
 the Internet has created all these tools for cracking down
 
 1347
-01:24:00,497 --> 01:24:03,370
+01:24:00,497 --> 01:24:03,474
 and spying and, you know, controlling what we say.
 
 1348
@@ -5407,15 +5405,15 @@ and spying and, you know, controlling what we say.
 and I think both are true.
 
 1349
-01:24:06,293 --> 01:24:10,069
+01:24:06,293 --> 01:24:10,087
 the Internet has done both and both are kind of amazing and astonishing
 
 1350
-01:24:10,097 --> 01:24:13,102
+01:24:10,097 --> 01:24:13,150
 and which one will win out in the long run is up to us.
 
 1351
-01:24:13,160 --> 01:24:15,635
+01:24:13,160 --> 01:24:15,643
 It doesn't make sense to say "Oh one is doing better than the other"
 
 1352
@@ -5423,11 +5421,11 @@ It doesn't make sense to say "Oh one is doing better than the other"
 you know, they're both true.
 
 1353
-01:24:17,728 --> 01:24:21,461
+01:24:17,728 --> 01:24:21,701
 and it's up to us which ones we emphasize and which ones we take advantage of
 
 1354
-01:24:21,711 --> 01:24:23,701
+01:24:21,711 --> 01:24:25,491
 because they are both there and they are always gonna be there.
 
 1355
@@ -5435,7 +5433,7 @@ because they are both there and they are always gonna be there.
 On September 12th, 2012, Federal prosecutors filed a superseding indictment against Swartz
 
 1356
-01:24:34,965 --> 01:24:40,256
+01:24:34,965 --> 01:24:40,496
 adding additional counts of wire fraud, unauthorized access to a computer, and Computer Fraud.
 
 1357
@@ -5443,7 +5441,7 @@ adding additional counts of wire fraud, unauthorized access to a computer, and C
 Now, instead of 4 felony counts, Swartz was facing 13.
 
 1358
-01:24:45,760 --> 01:24:48,576
+01:24:45,760 --> 01:24:48,816
 The prosecution's leverage had dramatically increased
 
 1359
@@ -5459,11 +5457,11 @@ They filed a separate indictment to add more charges
 and they had a theory about why this conduct constituted a number of federal crimes
 
 1362
-01:25:01,839 --> 01:25:05,749
+01:25:01,839 --> 01:25:06,039
 and that a very significant sentence could attach to it under the law.
 
 1363
-01:25:07,048 --> 01:25:10,515
+01:25:07,048 --> 01:25:10,630
 That theory and much of the prosecution's case against Swartz
 
 1364
@@ -5471,15 +5469,15 @@ That theory and much of the prosecution's case against Swartz
 involved a law created originally in 1986.
 
 1365
-01:25:14,044 --> 01:25:16,500
+01:25:14,044 --> 01:25:16,684
 it is called "Computer Fraud and Abuse Act".
 
 1366
-01:25:16,885 --> 01:25:19,914
+01:25:16,885 --> 01:25:19,972
 The Computer Fraud and Abuse Act was inspired by the movie "War Games"
 
 1367
-01:25:19,982 --> 01:25:21,660
+01:25:19,982 --> 01:25:22,682
 with Mathew Brodrick, which is a great movie.
 
 1368
@@ -5491,7 +5489,7 @@ In this movie, a kid gets the ability through the magic of computer networks
 to, like, launch a nuclear attack.
 
 1370
-01:25:33,920 --> 01:25:37,706
+01:25:33,920 --> 01:25:37,690
 Now that's not actually possible and it certainly wasn't possible in the 80s
 
 1371
@@ -5503,7 +5501,7 @@ but apparently this movie scared Congress enough
 to pass the original Computer Fraud and Abuse Act.
 
 1373
-01:25:45,130 --> 01:25:47,093
+01:25:45,130 --> 01:25:47,110
 This is a law that's just behind the times
 
 1374
@@ -5519,7 +5517,7 @@ and something like eHarmony or match.com
 and somebody sort of inflates their own personal characteristics
 
 1377
-01:26:01,431 --> 01:26:05,840
+01:26:01,431 --> 01:26:05,942
 and all of a sudden, depending on the jurisdiction and the prosecutors, they
 
 1378
@@ -5531,7 +5529,7 @@ could be in whole host of troubles.
 We all know what Terms of Use are.
 
 1380
-01:26:10,600 --> 01:26:13,555
+01:26:10,600 --> 01:26:13,607
 Most people don't read them, but not abiding by their terms
 
 1381
@@ -5539,11 +5537,11 @@ Most people don't read them, but not abiding by their terms
 could mean you are committing a felony.
 
 1382
-01:26:16,426 --> 01:26:20,458
+01:26:16,426 --> 01:26:20,698
 The website terms of service often say things like "Be nice to each other" or
 
 1383
-01:26:20,708 --> 01:26:22,510
+01:26:20,708 --> 01:26:22,594
 "don't do anything that's improper".
 
 1384
@@ -5551,7 +5549,7 @@ The website terms of service often say things like "Be nice to each other" or
 The idea that the criminal law has anything to say about these kinds of violations
 
 1385
-01:26:27,697 --> 01:26:29,840
+01:26:27,697 --> 01:26:29,917
 I think strikes most people as crazy.
 
 1386
@@ -5567,7 +5565,7 @@ Until it was changed in March of 2013.
 the Terms of Use on the website of Hearst's Seventeen magazine said you had to be 18 in order to read it.
 
 1389
-01:26:42,880 --> 01:26:46,720
+01:26:42,880 --> 01:26:46,754
 I would say that the way the CFAA has been interpreted by Justice Department
 
 1390
@@ -5579,7 +5577,7 @@ we are all probably breaking the law.
 Vague and prone to misuse, the CFAA has become "one size, fits all" hammer
 
 1392
-01:26:55,111 --> 01:26:57,790
+01:26:55,111 --> 01:26:57,865
 for a wide range of computer related disputes.
 
 1393
@@ -5587,7 +5585,7 @@ for a wide range of computer related disputes.
 Though not the only factor in his case, 11 of 13 charges against Swartz
 
 1394
-01:27:02,826 --> 01:27:05,111
+01:27:02,826 --> 01:27:05,346
 involved the Computer Fraud and Abuse Act.
 
 1395
@@ -5595,7 +5593,7 @@ involved the Computer Fraud and Abuse Act.
 The question "Why?" hangs over much of the story of Aaron Swartz.
 
 1396
-01:27:11,946 --> 01:27:15,626
+01:27:11,946 --> 01:27:16,194
 just what was motivating the government and what would their case have been?
 
 1397
@@ -5603,19 +5601,19 @@ just what was motivating the government and what would their case have been?
 The Dept. of Justice declined requests for answers.
 
 1398
-01:27:19,637 --> 01:27:23,285
+01:27:19,637 --> 01:27:23,483
 but Prof. Orin Kerr is a former prosecutor who has studied the case.
 
 1399
-01:27:23,493 --> 01:27:27,937
+01:27:23,493 --> 01:27:28,267
 I think I come about this case from a different direction than other people on a number of reasons.
 
 1400
-01:27:28,277 --> 01:27:32,437
+01:27:28,277 --> 01:27:32,603
 I was a federal prosecutor at the justice department for 3 years before I started teaching.
 
 1401
-01:27:32,613 --> 01:27:34,640
+01:27:32,613 --> 01:27:34,674
 The government came forward with an indictment
 
 1402
@@ -5623,27 +5621,27 @@ The government came forward with an indictment
 based on what crimes they thought were committed
 
 1403
-01:27:37,920 --> 01:27:41,137
+01:27:37,920 --> 01:27:41,154
 just as a purely lawyers matter, looking at the precedents
 
 1404
-01:27:41,164 --> 01:27:43,200
+01:27:41,164 --> 01:27:43,230
 looking at the statute, looking at the history,
 
 1405
-01:27:43,240 --> 01:27:45,484
+01:27:43,240 --> 01:27:45,687
 looking at the cases that are out there so far
 
 1406
-01:27:45,697 --> 01:27:48,370
+01:27:45,697 --> 01:27:48,517
 I think it was a fair indictment based on that.
 
 1407
-01:27:49,120 --> 01:27:51,573
+01:27:49,120 --> 01:27:51,563
 You can debate whether they should have charged this case.
 
 1408
-01:27:51,573 --> 01:27:52,768
+01:27:51,573 --> 01:27:52,864
 There is just a lot of disagreement.
 
 1409
@@ -5667,11 +5665,11 @@ to breaking the law to overcome a law that Swartz saw as unjust
 and in a democracy if you think a law is unjust, there are ways of changing that law
 
 1414
-01:28:20,821 --> 01:28:24,725
+01:28:20,821 --> 01:28:24,715
 there is, going to congress, as Swartz did so masterfully with SOPA
 
 1415
-01:28:24,725 --> 01:28:28,458
+01:28:24,725 --> 01:28:28,448
 or you can violate that law in a way to try to nullify that law.
 
 1416
@@ -5695,31 +5693,31 @@ you couldn't put the toothpaste back into the tube
 it would be done and Swartz's side would win.
 
 1421
-01:28:52,650 --> 01:28:55,893
+01:28:52,650 --> 01:28:56,167
 There is a big disagreement in society as to whether that is an unjust law
 
 1422
-01:28:56,177 --> 01:29:00,130
+01:28:56,177 --> 01:29:00,427
 and ultimately that's a decision for American people to make, working through Congress.
 
 1423
-01:29:00,437 --> 01:29:03,680
+01:29:00,437 --> 01:29:03,714
 and than the second problem is I think, we are still trying to figure out
 
 1424
-01:29:03,724 --> 01:29:07,600
+01:29:03,724 --> 01:29:07,930
 what's the line between less serious offenses and more serious offenses.
 
 1425
-01:29:07,940 --> 01:29:12,142
+01:29:07,940 --> 01:29:12,680
 We are now entering this different environment of computers and computer misuse
 
 1426
-01:29:12,850 --> 01:29:16,737
+01:29:12,850 --> 01:29:16,772
 and we don't yet have a really strong sense of exactly what these lines are
 
 1427
-01:29:16,782 --> 01:29:18,440
+01:29:16,782 --> 01:29:19,002
 because we are just working that out.
 
 1428
@@ -5731,19 +5729,19 @@ This is a poor use of prosecutorial discretion.
 The hammer that the Justice Department has to scare people with just gets bigger and bigger and bigger
 
 1430
-01:29:28,453 --> 01:29:32,970
+01:29:28,453 --> 01:29:32,994
 and so most people, you know, you can't roll the  dice with your life like that
 
 1431
-01:29:33,004 --> 01:29:35,660
+01:29:33,004 --> 01:29:35,678
 Should we tap somebody's phone? Should we film them?
 
 1432
-01:29:35,688 --> 01:29:39,320
+01:29:35,688 --> 01:29:39,744
 Should we turn somebody and get them to testify against these other people?
 
 1433
-01:29:39,754 --> 01:29:42,421
+01:29:39,754 --> 01:29:42,411
 That's how federal agents and prosecutors think.
 
 1434
@@ -5751,7 +5749,7 @@ That's how federal agents and prosecutors think.
 They build cases, they make cases.
 
 1435
-01:29:46,835 --> 01:29:49,964
+01:29:46,835 --> 01:29:50,198
 Swartz was caught in the gears of brutal criminal justice system
 
 1436
@@ -5759,7 +5757,7 @@ Swartz was caught in the gears of brutal criminal justice system
 that could not turn back.
 
 1437
-01:29:51,875 --> 01:29:56,880
+01:29:51,875 --> 01:29:57,074
 A machine that has made America the country with the highest rate of incarceration in the world.
 
 1438
@@ -5771,11 +5769,11 @@ We have in this country allowed ourselves to be captured by the politics of fear
 and anything we are afraid of, like the future of the Internet and access
 
 1440
-01:30:08,746 --> 01:30:11,925
+01:30:08,746 --> 01:30:11,926
 and anything we are angry about instinctively creates
 
 1441
-01:30:11,991 --> 01:30:13,580
+01:30:11,991 --> 01:30:13,810
 a criminal justice intervention.
 
 1442
@@ -5783,11 +5781,11 @@ a criminal justice intervention.
 and we have used jail, prison and punishment
 
 1443
-01:30:17,262 --> 01:30:21,173
+01:30:17,262 --> 01:30:21,198
 to resolve a whole host of problems that historically were never seen
 
 1444
-01:30:21,208 --> 01:30:22,740
+01:30:21,208 --> 01:30:22,896
 as criminal justice problems.
 
 1445
@@ -5795,11 +5793,11 @@ as criminal justice problems.
 The impulse to threaten, indict, prosecute
 
 1446
-01:30:26,844 --> 01:30:32,780
+01:30:26,844 --> 01:30:32,992
 which is part of what has created this debate and controversy over on-line access and information on the Internet.
 
 1447
-01:30:33,002 --> 01:30:35,477
+01:30:33,002 --> 01:30:35,501
 It's very consistent with what we have seen in other areas
 
 1448
@@ -5807,15 +5805,15 @@ It's very consistent with what we have seen in other areas
 the one difference is people are usually targeted and victimized by
 
 1449
-01:30:40,328 --> 01:30:44,951
+01:30:40,328 --> 01:30:45,068
 these kinds of criminal and carceral responses are typically poor and minority.
 
 1450
-01:30:47,440 --> 01:30:50,382
+01:30:47,440 --> 01:30:50,620
 Swartz's isolation from friends and family increased.
 
 1451
-01:30:50,640 --> 01:30:53,155
+01:30:50,640 --> 01:30:53,287
 He had basically stopped working on anything else.
 
 1452
@@ -5823,7 +5821,7 @@ He had basically stopped working on anything else.
 and the case was in fact taking over his whole life.
 
 1453
-01:30:56,888 --> 01:31:00,053
+01:30:56,888 --> 01:31:00,043
 One of Aaron's lawyers apparently told the prosecutors that
 
 1454
@@ -5831,7 +5829,7 @@ One of Aaron's lawyers apparently told the prosecutors that
 he was emotionally vulnerable.
 
 1455
-01:31:03,048 --> 01:31:06,830
+01:31:03,048 --> 01:31:06,896
 and that was something they really needed to keep in mind, so that.. they knew that.
 
 1456
@@ -5855,7 +5853,7 @@ was terrifying to him.
 ...completely exhausted his financial resources and
 
 1461
-01:31:27,537 --> 01:31:32,030
+01:31:27,537 --> 01:31:32,097
 it cost us a lot of money also, and he raised a substantial amount of money.
 
 1462
@@ -5863,29 +5861,29 @@ it cost us a lot of money also, and he raised a substantial amount of money.
 So it was, you know, it was in the millions of dollars.
 
 1463
-01:31:36,378 --> 01:31:38,197
+01:31:36,378 --> 01:31:38,437
 Interviewer: The legal defense?
 Aaron's Father: Yes.
 
 1464
-01:31:38,447 --> 01:31:40,288
+01:31:38,447 --> 01:31:41,163
 Interviewer: Was in millions?
 Aaron's Father: Yes.
 
 1465
-01:31:41,173 --> 01:31:44,950
+01:31:41,173 --> 01:31:45,197
 Yea, I think he didn't want to be a burden to people. I think that was a factor
 
 1466
-01:31:45,207 --> 01:31:49,546
+01:31:45,207 --> 01:31:49,572
 Like I have my normal life, and then I have this shitty thing I have to deal with.
 
 1467
-01:31:49,582 --> 01:31:52,890
+01:31:49,582 --> 01:31:53,062
 and I try to keep the two of them as separate as possible.
 
 1468
-01:31:53,146 --> 01:31:57,184
+01:31:53,146 --> 01:31:58,006
 But they were just beginning to blur together and everything was becoming shitty.
 
 1469
@@ -5893,11 +5891,11 @@ But they were just beginning to blur together and everything was becoming shitty
 Swartz faced a tough choice that was only getting tougher.
 
 1470
-01:32:02,533 --> 01:32:06,740
+01:32:02,533 --> 01:32:06,981
 Do you admit guilt and move on with your life, or do you fight a broken system?
 
 1471
-01:32:06,991 --> 01:32:12,608
+01:32:06,991 --> 01:32:12,718
 With his legal case the answer was simple. He rejects the final plea deal and a trial date is set.
 
 1472
@@ -5905,39 +5903,39 @@ With his legal case the answer was simple. He rejects the final plea deal and a 
 Aaron was resolute that he didn't want to knuckle under
 
 1473
-01:32:16,142 --> 01:32:18,810
+01:32:16,142 --> 01:32:19,056
 and accept something that he didn't believe was fair
 
 1474
-01:32:19,066 --> 01:32:20,949
+01:32:19,066 --> 01:32:21,226
 but I also think that he was scared.
 
 1475
-01:32:32,789 --> 01:32:34,325
+01:32:32,789 --> 01:32:34,372
 I don't think they would have convicted Aaron.
 
 1476
-01:32:34,382 --> 01:32:38,540
+01:32:34,382 --> 01:32:38,603
 I think we would have walked him out of that courthouse and I would have given him a big hug
 
 1477
-01:32:38,613 --> 01:32:42,940
+01:32:38,613 --> 01:32:44,313
 and we would have walked across that little river in Boston and gone and had a couple of beers.
 
 1478
-01:32:46,044 --> 01:32:47,653
+01:32:46,044 --> 01:32:47,741
 I really thought that we were right.
 
 1479
-01:32:47,751 --> 01:32:49,386
+01:32:47,751 --> 01:32:49,412
 I thought that we were gonna win the case.
 
 1480
-01:32:49,422 --> 01:32:51,130
+01:32:49,422 --> 01:32:51,243
 I thought we could win the case.
 
 1481
-01:32:51,253 --> 01:32:55,840
+01:32:51,253 --> 01:32:56,713
 He didn't talk about it very much but you could see the enormous pain he was going through.
 
 1482
@@ -5949,7 +5947,7 @@ No time in his childhood did Aaron have any severe mood swings, or like depressi
 or anything that I would ascribe to severe depression.
 
 1484
-01:33:10,842 --> 01:33:13,322
+01:33:10,842 --> 01:33:14,922
 And it's possible, you know, he was depressed, people get depressed.
 
 1485
@@ -5961,11 +5959,11 @@ Very early in our relationship, like 3 or 4 weeks in or something,
 I remember him saying to me that I was a lot stronger than he was.
 
 1487
-01:33:30,517 --> 01:33:36,362
+01:33:30,517 --> 01:33:36,395
 You know, he was brittle in a lot of ways, things were a lot harder for him than for a lot of people.
 
 1488
-01:33:36,405 --> 01:33:38,304
+01:33:36,405 --> 01:33:38,445
 It was part of his brilliance too.
 
 1489
@@ -5973,7 +5971,7 @@ It was part of his brilliance too.
 I think, he probably had something like clinical depression in his early '20s.
 
 1490
-01:33:47,484 --> 01:33:49,370
+01:33:47,484 --> 01:33:49,421
 I don't think he did when I was with him.
 
 1491
@@ -5985,7 +5983,7 @@ He wasn't a joyful person.... but that's different from being depressed.
 He was just under such, such enormous pressure, for two years straight.
 
 1493
-01:34:00,874 --> 01:34:02,816
+01:34:00,874 --> 01:34:03,094
 He just didn't want to do it anymore.
 
 1494
@@ -5997,7 +5995,7 @@ He was just.. I just think it was too much.
 I got a phone call late at night.
 
 1496
-01:34:17,511 --> 01:34:22,420
+01:34:17,511 --> 01:34:22,551
 I could tell something was wrong and then I called and I realized what had happened.
 
 1497
@@ -6005,7 +6003,7 @@ I could tell something was wrong and then I called and I realized what had happe
 The co-founder of the social news and entertainment website reddit has been found dead.
 
 1498
-01:34:29,075 --> 01:34:34,020
+01:34:29,075 --> 01:34:34,295
 Police say 26 year old Aaron Swartz killed himself yesterday in his Brooklyn apartment.
 
 1499
@@ -6021,7 +6019,7 @@ I was like, the whole world fell apart at that moment.
 It was one of the hardest nights of my life.
 
 1502
-01:34:59,982 --> 01:35:03,910
+01:34:59,982 --> 01:35:04,422
 I kept screaming "I can't hear you.. what did you say.. I can't hear you."
 
 1503
@@ -6045,7 +6043,7 @@ You know I tried to explain it to my kids.
 My 3 year old told me that the doctors would fix him.
 
 1508
-01:35:52,021 --> 01:35:56,160
+01:35:52,021 --> 01:35:56,235
 I've known lots of people who have died but I've never lost anybody like this.
 
 1509
@@ -6139,7 +6137,7 @@ He was the Internet's Own Boy... and the old world killed him.
 We are standing in the middle of a time when great injustice is not touched.
 
 1531
-01:38:01,960 --> 01:38:05,832
+01:38:01,960 --> 01:38:06,259
 Architects of the financial meltdown have dinner with the President regularly.
 
 1532
@@ -6147,7 +6145,7 @@ Architects of the financial meltdown have dinner with the President regularly.
 In middle of that time the idea that this
 
 1533
-01:38:10,516 --> 01:38:12,669
+01:38:10,516 --> 01:38:12,916
 was what the government had to prosecute
 
 1534
@@ -6159,11 +6157,11 @@ it just seems absurd, if it weren't tragic.
 The question is can we do something, given what's happened
 
 1536
-01:38:23,272 --> 01:38:25,220
+01:38:23,272 --> 01:38:25,252
 to make the world a better place.
 
 1537
-01:38:26,389 --> 01:38:30,485
+01:38:26,389 --> 01:38:30,769
 And how can we further that legacy? That's the only question one can ask.
 
 1538
@@ -6223,7 +6221,7 @@ Aaron Swartz was not a criminal.
 Change does not roll in on the wheels of inevitability
 
 1552
-01:39:25,510 --> 01:39:27,700
+01:39:25,510 --> 01:39:27,730
 it comes through continuous struggle.
 
 1553
@@ -6231,15 +6229,15 @@ it comes through continuous struggle.
 Aaron really could do magic
 
 1554
-01:39:32,000 --> 01:39:33,900
+01:39:32,000 --> 01:39:34,085
 and I am dedicated to making sure...
 
 1555
-01:39:34,095 --> 01:39:35,936
+01:39:34,095 --> 01:39:36,176
 ... that his magic doesn't end with his death.
 
 1556
-01:39:36,186 --> 01:39:37,664
+01:39:36,186 --> 01:39:37,904
 He believed that he could change the world.
 
 1557
@@ -6247,7 +6245,7 @@ He believed that he could change the world.
 And he was right.
 
 1558
-01:39:40,590 --> 01:39:44,210
+01:39:40,590 --> 01:39:44,550
 Out of the last week and out of today phoenixes are already rising
 
 1559
@@ -6255,11 +6253,11 @@ Out of the last week and out of today phoenixes are already rising
 Since Swartz's death Representative Zoe Lofgren and Senator Ron Wyden
 
 1560
-01:39:51,887 --> 01:39:53,536
+01:39:51,887 --> 01:39:53,776
 have introduced legislations that would reform
 
 1561
-01:39:53,786 --> 01:39:55,370
+01:39:53,786 --> 01:39:55,490
 the Computer Fraud and Abuse Act.
 
 1562
@@ -6275,15 +6273,15 @@ It's called "Aaron's Law."
 Aaron believed that like you literally ought to
 
 1565
-01:40:06,052 --> 01:40:07,424
+01:40:06,052 --> 01:40:07,664
 be asking yourself all the time
 
 1566
-01:40:07,674 --> 01:40:11,157
+01:40:07,674 --> 01:40:11,397
 "what is the most important thing I could be working on in the world right now?"
 
 1567
-01:40:11,407 --> 01:40:13,269
+01:40:11,407 --> 01:40:14,467
 And if you are not working on that, why aren't you?
 
 1568
@@ -6291,7 +6289,7 @@ And if you are not working on that, why aren't you?
 I wish we could change the past, but we cannot.
 
 1569
-01:40:37,160 --> 01:40:39,570
+01:40:37,160 --> 01:40:39,610
 but we can change the future and we must.
 
 1570
@@ -6303,7 +6301,7 @@ We must do so for Aaron. We must do so for ourselves.
 We must do so to make our world a better place, a more humane place.
 
 1572
-01:40:48,719 --> 01:40:50,304
+01:40:48,719 --> 01:40:50,399
 A place where justice works.
 
 1573
@@ -6331,7 +6329,7 @@ and he figured out a way to do early tests for Pancreatic Cancer.
 and Pancreatic cancer kills the shit out of you.
 
 1579
-01:41:17,940 --> 01:41:22,560
+01:41:17,940 --> 01:41:22,730
 Because we detect it way too late. By the time we detect it, it's already too late to do anything about that.
 
 1580
@@ -6339,28 +6337,28 @@ Because we detect it way too late. By the time we detect it, it's already too la
 And, he sent emails off to the entire Oncology department at Johns Hopkins.
 
 1581
-01:41:28,810 --> 01:41:31,430
+01:41:28,810 --> 01:41:31,460
 you know hundreds of them.
 Interviewer: A 14 year old?
 
 1582
-01:41:31,470 --> 01:41:33,610
+01:41:31,470 --> 01:41:33,850
 14 year old kid yeah. And most of them ignored it.
 
 1583
-01:41:33,860 --> 01:41:35,594
+01:41:33,860 --> 01:41:35,834
 But one of them, like, sent him a email back
 
 1584
-01:41:35,844 --> 01:41:38,100
+01:41:35,844 --> 01:41:38,340
 And said, "this is not an entirely stupid idea. Why don't you come on over."
 
 1585
-01:41:38,350 --> 01:41:43,180
+01:41:38,350 --> 01:41:43,456
 This kid worked evenings and weekends with this researcher and in February, I heard him on the news
 
 1586
-01:41:43,466 --> 01:41:46,794
+01:41:43,466 --> 01:41:47,786
 just couple of weeks after Aaron died, when Aaron was in the news a lot.
 
 1587
@@ -6372,7 +6370,7 @@ just couple of weeks after Aaron died, when Aaron was in the news a lot.
 And he said, the reason he was on the news is because they had done it.
 
 1589
-01:41:59,247 --> 01:42:03,200
+01:41:59,247 --> 01:42:03,616
 They were shipping an early test for pancreatic cancer that was gonna save lives.
 
 1590
@@ -6380,15 +6378,15 @@ They were shipping an early test for pancreatic cancer that was gonna save lives
 And he said, "This is why what Aaron did was so important."
 
 1591
-01:42:10,496 --> 01:42:12,224
+01:42:10,496 --> 01:42:12,235
 Because you never know, right.
 
 1592
-01:42:12,245 --> 01:42:17,024
+01:42:12,245 --> 01:42:17,264
 This truth of the universe is not only something that policy makers use to figure out
 
 1593
-01:42:17,274 --> 01:42:19,029
+01:42:17,274 --> 01:42:19,269
 you know, what the speed limit should be.
 
 1594
@@ -6421,7 +6419,7 @@ Subtitles Creative Commons CC0 license:
 http://creativecommons.org/publicdomain/zero/1.0/
 
 1601
-01:43:38,000 --> 01:43:45,000
+01:43:38,000 --> 01:43:44,960
 Contribute and help translating at:
 https://github.com/iliasbartolini/the-internet-s-own-boy--aaron-swartz--subtitles
 
