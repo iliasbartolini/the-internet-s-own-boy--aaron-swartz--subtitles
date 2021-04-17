@@ -12,7 +12,7 @@ Hij was totaal niet geïnteresseerd in ondernemen en geld verdienen
 
 4
 00:01:09,941 --> 00:01:14,861
-Er is een diep gevoel van verlies in Highland Park, Aaron Swartz's thuisstad
+Er is een diep gevoel van verlies in Highland Park, Aaron Swartz' thuisstad
 
 5
 00:01:14,909 --> 00:01:18,929
@@ -32,7 +32,7 @@ omdat dierbaren afscheid nemen van felste lichten van het internet
 
 9
 00:01:29,600 --> 00:01:34,283
-...ze wilden hem gebruiken om anderen af te schrikken, ok?
+...ze wilden hem gebruiken om anderen af te schrikken, oké?
 
 10
 00:01:34,865 --> 00:01:39,000
@@ -88,7 +88,7 @@ Nou, hij was geboren in Highland Park en groeide daar op
 
 23
 00:02:36,552 --> 00:02:40,090
-Aaron kwam uit een gezin met drie broers, alledrie waren ze buitengewoon slim
+Aaron kwam uit een gezin met drie broers, alle drie waren ze buitengewoon slim
 
 24
 00:02:40,100 --> 00:02:42,370
@@ -113,7 +113,7 @@ Maar, ik heb me gerealiseerd: Aaron leerde te leren toen hij nog heel jong was
 
 29
 00:03:00,807 --> 00:03:06,500
-Eén, twee, drie, vier, vijf, zes, zeven, acht, negen, tien!
+Één, twee, drie, vier, vijf, zes, zeven, acht, negen, tien!
 
 30
 00:03:06,500 --> 00:03:07,700
@@ -158,7 +158,7 @@ en elke planeet heeft een symbool:
 40
 00:03:27,080 --> 00:03:32,950
 Mercurius' symbool, Venus' symbool, Aarde's symbool,
-Mars' symbool, Jupiter's symbool.
+Mars' symbool, Jupiters symbool.
 
 41
 00:03:33,000 --> 00:03:34,500
@@ -210,11 +210,11 @@ Ik pakte een boek uit de kast dat uit, zeg, 1900 kwam
 
 53
 00:04:12,589 --> 00:04:16,090
-en liet het hem zien, ik zei: "Weet je, dit is een echt een buitengewoone plek"
+en liet het hem zien, ik zei: "Weet je, dit is een echt een buitengewone plek"
 
 54
 00:04:16,100 --> 00:04:22,152
-We waren alledrie nieuwsgierige kinderen maar Aaron
+We waren alle drie nieuwsgierige kinderen maar Aaron
 hield echt van leren en hield echt van uitleggen
 
 55
@@ -287,7 +287,7 @@ Hij zat naast me in de kelder waar de computer was
 
 72
 00:05:29,600 --> 00:05:32,500
-uurenlang het spel te programmeren
+urenlang het spel te programmeren
 
 73
 00:05:34,880 --> 00:05:38,237
@@ -338,7 +338,7 @@ als dingen die hij wilde zien
 84
 00:06:16,470 --> 00:06:20,200
 Host Aaron, stop!
-Jongens, kom op, kijk naarde camera
+Jongens, kom op, kijk naar de camera
 
 85
 00:06:24,130 --> 00:06:28,174
@@ -390,7 +390,7 @@ Een van de docenten reageerde als:
 
 97
 00:07:01,541 --> 00:07:04,712
-"Dit is een vrezelijk slecht idee, je kan niet iedereen zomaar
+"Dit is een vreselijk slecht idee, je kan niet iedereen zomaar
 
 98
 00:07:04,756 --> 00:07:07,139
@@ -414,7 +414,7 @@ Mijn broer en ik zeiden: "Oh, weet je"
 
 103
 00:07:21,490 --> 00:07:25,770
-Aaron's website "De Info.org" wint een schoolwedstrijd
+Aarons website "The Info.org" wint een schoolwedstrijd
 
 104
 00:07:25,800 --> 00:07:30,000
@@ -523,7 +523,7 @@ en het stukje waar hij me bezig was, RSS
 
 130
 00:09:02,756 --> 00:09:05,800
-was een gereedschap dat je kon gebruiken om sammenvattingen te krijgen
+was een gereedschap dat je kon gebruiken om samenvattingen te krijgen
 
 131
 00:09:05,854 --> 00:09:08,317
@@ -599,7 +599,7 @@ Ik denk dat het verschil is dat je nu geen bedrijfen zoals die meer maken per se
 
 149
 00:10:10,140 --> 00:10:12,208
-je kan geen bedrijfen meer hebben die gewoon denken
+je kan geen bedrijven meer hebben die gewoon denken
 
 150
 00:10:12,218 --> 00:10:15,720
@@ -627,7 +627,7 @@ Ben ik beter dan jij, en kan ik je vertellen wat je moet doen"
 
 156
 00:10:30,007 --> 00:10:34,500
-Het is een uitbreiding van hem als een soort lomperik. [Gniffels]
+Het is een uitbreiding van hem als een soort lomperik. [gegniffel]
 
 157
 00:10:35,100 --> 00:10:38,615
@@ -781,7 +781,7 @@ het was verstandig om er voor te zorgen dat mensen betaald kregen
 
 194
 00:12:46,254 --> 00:12:50,100
-Waar Aaron's generatie tegen op liep was de botsing
+Waar Aarons generatie tegen op liep was de botsing
 
 195
 00:12:50,145 --> 00:12:52,800
@@ -865,11 +865,11 @@ zelfs als ere andere dingen zijn waar je wel mijn toestemming voor nodig hebt
 
 215
 00:14:13,300 --> 00:14:16,400
-En Aaron's rol was het computer gedeelte
+En Aarons rol was het computer gedeelte
 
 216
 00:14:16,600 --> 00:14:18,790
-zoals hoe je de licensies ontwerpt
+zoals hoe je de licenties ontwerpt
 
 217
 00:14:18,800 --> 00:14:23,590
@@ -909,7 +909,7 @@ Als we naar onze website gaan hier
 
 226
 00:14:49,300 --> 00:14:50,890
-en je naar "kies licensie" gaat
+en je naar "kies licentie" gaat
 
 227
 00:14:50,900 --> 00:14:54,600
@@ -925,7 +925,7 @@ Wil je naamsvermelding eisen?
 
 230
 00:14:59,900 --> 00:15:02,890
-Wil je commerciele toepassingen van je werk toestaan?
+Wil je commerciële toepassingen van je werk toestaan?
 
 231
 00:15:02,900 --> 00:15:05,780
@@ -954,7 +954,7 @@ En ze luisterden allemaal naar hem, gewoon
 237
 00:15:23,000 --> 00:15:28,600
 Ik zat achterin denkend:
-"hij is maar een jongen, waarom luisterd iedereen naar hem?"
+"hij is maar een jongen, waarom luistert iedereen naar hem?"
 
 238
 00:15:28,800 --> 00:15:29,700
@@ -971,12 +971,12 @@ dat artiesten betaald krijgen voor hun werk
 
 241
 00:15:37,200 --> 00:15:40,140
-het success van Creative Commons was enorm
+het succes van Creative Commons was enorm
 
 242
 00:15:40,200 --> 00:15:46,700
 Op de website Flickr alleen al zijn er meer dan 200 miljoen mensen
-die een licensie van Creative Commons gebruiken
+die een licentie van Creative Commons gebruiken
 
 243
 00:15:46,800 --> 00:15:51,400
@@ -1064,7 +1064,7 @@ In 2005 na één jaar aan de universiteit
 
 264
 00:17:28,923 --> 00:17:32,302
-kreeg Swartz een plek aangeboden bij een startup
+kreeg Swartz een plek aangeboden bij een start-up
 
 265
 00:17:32,312 --> 00:17:36,130
@@ -1080,11 +1080,11 @@ en Paul Graham vond hem goed genoeg en zei
 
 268
 00:17:41,941 --> 00:17:46,174
-"Ja, oke!", dus Aaron stopt met studeren, verhuist naar een appartement
+"Ja, oké!", dus Aaron stopt met studeren, verhuist naar een appartement
 
 269
 00:17:46,247 --> 00:17:48,942
-Dit was dus Aaron's appartement toen hij hier woonde
+Dit was dus Aarons appartement toen hij hier woonde
 
 270
 00:17:48,952 --> 00:17:55,163
@@ -1108,7 +1108,7 @@ en de bibliotheek, er zijn nu meer boeken, maar veel zijn van Aaron
 
 275
 00:18:11,500 --> 00:18:17,400
-Aaron's Y Combinator site heette "infogami", een gereedschap om websites te bouwen
+Aarons Y Combinator site heette "infogami", een gereedschap om websites te bouwen
 
 276
 00:18:17,476 --> 00:18:19,774
@@ -1132,7 +1132,7 @@ We begonnen met bijna niets, geen gebruikers, geen geld, geen code
 
 281
 00:18:33,745 --> 00:18:36,865
-en goeide dag na dag tot een enorm populaire website
+en groeide dag na dag tot een enorm populaire website
 
 282
 00:18:37,200 --> 00:18:38,840
@@ -1234,7 +1234,7 @@ de volgende dag gaf hij mij de sleutels
 
 306
 00:20:23,700 --> 00:20:28,890
-Het was grappig, hij verkocht een startup dus we dachten dat hij heel rijk was...
+Het was grappig, hij verkocht een start-up dus we dachten dat hij heel rijk was...
 
 307
 00:20:28,900 --> 00:20:34,120
@@ -1275,7 +1275,7 @@ In het oude systeem van het uitzenden ben je fundamenteel gelimiteerd door de ru
 
 316
 00:21:04,900 --> 00:21:09,590
-Weet je wel, je kan maar 10 kanelen uitzenden in de ether voor televisie,
+Weet je wel, je kan maar 10 kanalen uitzenden in de ether voor televisie,
 
 317
 00:21:09,600 --> 00:21:13,290
@@ -1295,7 +1295,7 @@ En dus zie je nu dat het niet meer de vraag is:
 
 321
 00:21:24,900 --> 00:21:29,490
-Je begint te zien dat macht zich centralizeert bij sites als Google, zulke poortwachters vertellen je
+Je begint te zien dat macht zich centraliseert bij sites als Google, zulke poortwachters vertellen je
 
 322
 00:21:29,500 --> 00:21:34,590
@@ -1323,7 +1323,7 @@ nieuwe dingen kon installeren op deze computer, wat ongehoord is voor een ontwik
 
 328
 00:21:59,500 --> 00:22:03,040
-Vanaf de eerste dag klaagte hij over al dat soort dingen.
+Vanaf de eerste dag klaagde hij over al dat soort dingen.
 
 329
 00:22:05,600 --> 00:22:10,890
@@ -1383,15 +1383,15 @@ Alexis Ohanian en Steve Huffman wilden niet geïnterviewd worden voor deze film.
 
 343
 00:23:09,400 --> 00:23:11,600
-Hij verworp de bedrijfswereld.
+Hij verwierp de bedrijfswereld.
 
 344
 00:23:12,200 --> 00:23:16,100
-Een van de belangrijste dingen om te onthouden over
+Een van de belangrijkste dingen om te onthouden over
 
 345
 00:23:16,300 --> 00:23:19,890
-die keuze van Aaron om zich terug te trekken uit de startupcultuur,
+die keuze van Aaron om zich terug te trekken uit de start-upcultuur,
 
 346
 00:23:19,900 --> 00:23:26,100
@@ -1481,7 +1481,7 @@ Mensen zouden gezien hebben: "Oh, daar kan ik geld aan verdienen!"
 
 367
 00:24:57,800 --> 00:25:01,190
-dus er zouden allemaal kleine webs zijn geweest, in plaats van een grote.
+dus er zouden allemaal kleine webben zijn geweest, in plaats van een grote.
 
 368
 00:25:01,200 --> 00:25:04,400
@@ -1624,7 +1624,7 @@ Hij kon geweldig optimistisch zijn over het leven.
 402
 00:27:53,400 --> 00:27:57,700
 Aaron: Wat doe je?
-Quinn: Flickr heeft videos nu
+Quinn: Flickr heeft video's nu
 
 403
 00:27:59,000 --> 00:28:04,800
@@ -1644,7 +1644,7 @@ Dus het Open Library project is een website,
 
 407
 00:28:13,450 --> 00:28:17,340
-waar je naar toe kan gaan vida openlibrary.org en het idea is om een enorme wiki te zijn,
+waar je naar toe kan gaan via openlibrary.org en het idee is om een enorme wiki te zijn,
 
 408
 00:28:17,350 --> 00:28:19,930
@@ -1672,7 +1672,7 @@ waar je het kan kopen, kan lenen, of kan inkijken.
 
 414
 00:28:34,640 --> 00:28:37,190
-Ik hou van bibliotheken, weet je, ik ben zoiemand die
+Ik hou van bibliotheken, weet je, ik ben zo iemand die
 
 415
 00:28:37,200 --> 00:28:39,690
@@ -1784,7 +1784,7 @@ Het kost 10 cent per pagina, het is de meest breindode code die je ooit hebt gez
 
 442
 00:30:25,377 --> 00:30:29,590
-Je kan er niet in zoeken, je kan geen bladwijzers maken, je moet een credit card hebben.
+Je kan er niet in zoeken, je kan geen bladwijzers maken, je moet een creditcard hebben.
 
 443
 00:30:29,600 --> 00:30:34,640
@@ -1792,7 +1792,7 @@ and dit zijn publiekelijke stukken, weet je, districtrechtbanken in de VS zijn e
 
 444
 00:30:35,600 --> 00:30:38,425
-dat is waar veel van onze baanbrekende rechtzaken beginnen, zaken over burgerrechten,
+dat is waar veel van onze baanbrekende rechtszaken beginnen, zaken over burgerrechten,
 
 445
 00:30:38,435 --> 00:30:42,500
@@ -1816,7 +1816,7 @@ Het is een peilingstaks op toegang tot het recht.
 
 450
 00:30:57,800 --> 00:31:04,800
-Je weet dat de wet besturingssysteem is van onze demacratie
+Je weet dat de wet besturingssysteem is van onze democratie
 en dan moet je betalen om het te kunnen inzien?
 
 451
@@ -1849,7 +1849,7 @@ Als de oprichter van public.resource.org
 
 458
 00:31:37,466 --> 00:31:40,408
-wilde Malamud protesteren tegen de toeganskosten van PACER.
+wilde Malamud protesteren tegen de toegangskosten van PACER.
 
 459
 00:31:40,530 --> 00:31:44,016
@@ -1873,7 +1873,7 @@ en anderen over publiekelijke toegangen dus maakte ze een systeem
 
 464
 00:31:56,711 --> 00:32:01,700
-in 17 bibliotheken verpreid over het land waar je gratis toegang kon krijgen tot PACER.
+in 17 bibliotheken verspreid over het land waar je gratis toegang kon krijgen tot PACER.
 
 465
 00:32:01,800 --> 00:32:05,875
@@ -1889,7 +1889,7 @@ Ik spoorde vrijwilligers aan om zich aan te sluiten bij het zogenaamde ThumbDriv
 
 468
 00:32:12,080 --> 00:32:17,030
-en documenten te downloaden uit de publiekelijke toegansbibliotheken
+en documenten te downloaden uit de publiekelijke toegangsbibliotheken
 en te uploaden naar de PACER recycling site.
 
 469
@@ -1934,7 +1934,7 @@ Dus ik stapte op hem af en zei:
 
 479
 00:32:53,840 --> 00:32:58,110
-"Hey, ik denk over een ingreep na voor het PACER probleem."
+"Hé, ik denk over een ingreep na voor het PACER probleem."
 
 480
 00:33:00,000 --> 00:33:02,114
@@ -1986,7 +1986,7 @@ Met de informatie uit de proefbibliotheken,
 
 492
 00:33:51,982 --> 00:33:57,130
-voerde Swartz een massale parallele download van het PACER systeem uit.
+voerde Swartz een massale parallelle download van het PACER systeem uit.
 
 493
 00:33:57,288 --> 00:34:01,500
@@ -2034,7 +2034,7 @@ en dus kreeg ik Aaron eindelijk te pakken en, weet je
 
 504
 00:34:36,640 --> 00:34:39,700
-Aaron's moeder zei: "O mijn god, FBI! FBI! FBI!"
+Aarons moeder zei: "O mijn god, FBI! FBI! FBI!"
 
 505
 00:34:40,151 --> 00:34:46,133
@@ -2170,7 +2170,7 @@ een tijdje bij ons te komen rondhangen als stagair
 
 538
 00:36:21,712 --> 00:36:25,072
-zodat hij kon leren, weet je, over het politieke process.
+zodat hij kon leren, weet je, over het politieke proces.
 
 539
 00:36:25,303 --> 00:36:27,815
@@ -2186,7 +2186,7 @@ alsof hij leerde de politiek te hacken.
 
 542
 00:36:31,505 --> 00:36:34,305
-Het lijkt bespottelijk dat mijnwerkers moeten blijfen hameren
+Het lijkt bespottelijk dat mijnwerkers moeten blijven hameren
 
 543
 00:36:34,315 --> 00:36:36,691
@@ -2206,7 +2206,7 @@ terwijl ik steeds grotere sommen geld verdien elke dag
 
 547
 00:36:43,929 --> 00:36:45,849
-door alleen maar te zitten en TV te kijken.
+door alleen maar te zitten en tv te kijken.
 
 548
 00:36:46,592 --> 00:36:48,932
@@ -2326,7 +2326,7 @@ of met overheidsbeurzen.
 
 577
 00:38:02,480 --> 00:38:05,120
-Maarom ze te lezen moet je opnieuw betalen
+Maar om ze te lezen moet je opnieuw betalen
 
 578
 00:38:05,130 --> 00:38:08,550
@@ -2334,7 +2334,7 @@ grof geld geven aan uitgevers zoals Reed Elsevier.
 
 579
 00:38:08,830 --> 00:38:11,142
-Deze licensievergoedingen zijn zo groot dat
+Deze licentievergoedingen zijn zo groot dat
 
 580
 00:38:11,152 --> 00:38:12,985
@@ -2362,7 +2362,7 @@ Ik bedoel maar, veel van deze tijdschriftartikelen, dateren terug tot de verlich
 
 586
 00:38:26,800 --> 00:38:29,600
-Elke keer dat iemand een wetenschappelijk artiekel heeft geschreven,
+Elke keer dat iemand een wetenschappelijk artikel heeft geschreven,
 
 587
 00:38:29,610 --> 00:38:32,838
@@ -2490,7 +2490,7 @@ wist hij dat gebruikers op MIT's beroemde open en snelle aangrenzende netwerk
 
 618
 00:40:07,552 --> 00:40:10,328
-toegang hadded tot de schatten van JSTOR.
+toegang hadden tot de schatten van JSTOR.
 
 619
 00:40:10,392 --> 00:40:12,320
@@ -2506,7 +2506,7 @@ en, met een beetje shell script magie
 
 622
 00:40:17,888 --> 00:40:19,988
-kan je die tijdschriftartiekelen krijgen.
+kan je die tijdschriftartikelen krijgen.
 
 623
 00:40:21,024 --> 00:40:23,576
@@ -2530,7 +2530,7 @@ Hij hackte JSTOR niet in de gebruikelijke betekenis van hacken.
 
 628
 00:40:38,720 --> 00:40:40,454
-de JSTOR database was georganizeerd, dus
+de JSTOR database was georganiseerd, dus
 
 629
 00:40:40,464 --> 00:40:42,080
@@ -2538,7 +2538,7 @@ het was doodsimpel om uit te vogelen
 
 630
 00:40:42,090 --> 00:40:44,454
-hoe je alle artiekelen van JSTOR kon downloaden
+hoe je alle artikelen van JSTOR kon downloaden
 
 631
 00:40:44,464 --> 00:40:45,580
@@ -2546,7 +2546,7 @@ want het was praktisch genummerd
 
 632
 00:40:45,590 --> 00:40:48,398
-het was praktisch "/" "/" "/" nummer artiekel...
+het was praktisch "/" "/" "/" nummer artikel...
 
 633
 00:40:48,408 --> 00:40:52,630
@@ -2554,19 +2554,19 @@ het was praktisch "/" "/" "/" nummer artiekel...
 
 634
 00:40:52,640 --> 00:40:55,406
-Hij schreef een pythonscript genaamd "keepgrabbing.py"
+Hij schreef een python script genaamd "keepgrabbing.py"
 
 635
 00:40:55,416 --> 00:40:58,416
-wat artiekel na artiekel aan het pakken was
+wat artikel na artikel aan het pakken was
 
 636
 00:40:58,725 --> 00:41:01,825
-De volgende dag begint ghost laptop weer met het pakken van artiekelen
+De volgende dag begint ghost laptop weer met het pakken van artikelen
 
 637
 00:41:02,020 --> 00:41:05,400
-maar snel werd het IP address van de computer geblokkeerd.
+maar snel werd het IP adres van de computer geblokkeerd.
 
 638
 00:41:05,720 --> 00:41:08,400
@@ -2574,7 +2574,7 @@ Voor Swartz was dat nauwelijks een hobbel op zijn pad
 
 639
 00:41:08,420 --> 00:41:11,425
-hij hernieuwt snel het IP address van zijn computer
+hij hernieuwt snel het IP adres van zijn computer
 
 640
 00:41:11,425 --> 00:41:13,420
@@ -2610,11 +2610,11 @@ omdat hij meer technische kennis heeft dan de mensen die de JSTOR database bevei
 
 648
 00:41:42,675 --> 00:41:46,760
-Na een tijdje was er een ontgrendelde vooraadskast in de kelder van een van de gebouwen.
+Na een tijdje was er een ontgrendelde voorraadkast in de kelder van een van de gebouwen.
 
 649
 00:41:46,770 --> 00:41:48,510
-Hij ging, in plaats van met de WiFi,
+Hij ging, in plaats van met de wifi,
 
 650
 00:41:48,520 --> 00:41:51,010
@@ -2622,7 +2622,7 @@ ging hij daar naar beneden en sloot hij zijn computer gewoon direct aan op het n
 
 651
 00:41:51,020 --> 00:41:56,615
-En liet het daar achter met een externe harde schijf om de artiekelen te downloaden op de computer
+En liet het daar achter met een externe harde schijf om de artikelen te downloaden op de computer
 
 652
 00:41:56,625 --> 00:42:01,900
@@ -2678,7 +2678,7 @@ leunt uit beeld gedurende ongeveer 5 minuten, en vertrekt.
 
 665
 00:43:37,025 --> 00:43:42,150
-En toen organizeerde ze een soort stake-out. Toen hij naar huis fietste van MIT
+En toen organiseerde ze een soort stake-out. Toen hij naar huis fietste van MIT
 
 666
 00:43:42,325 --> 00:43:48,805
@@ -2714,7 +2714,7 @@ was zo buitenaards en onbegrijpelijk, dat ik niet wist wat ik moest doen.
 
 674
 00:44:18,250 --> 00:44:21,310
-Nou, ze voeren huiszoekingsbevelen uit bij Aaron's huis,
+Nou, ze voeren huiszoekingsbevelen uit bij Aarons huis,
 
 675
 00:44:21,320 --> 00:44:24,775
@@ -2752,11 +2752,11 @@ en gevaren van de moderne terroristen
 
 683
 00:45:01,600 --> 00:45:06,860
-Volgens de geheime dienst zijn ze voornamlijk bezig met activiteiten met economische gevolgen,
+Volgens de geheime dienst zijn ze voornamelijk bezig met activiteiten met economische gevolgen,
 
 684
 00:45:06,870 --> 00:45:11,400
-georganizeerde misdaadgroepen of het gebruik van constructies
+georganiseerde misdaadgroepen of het gebruik van constructies
 die gebruik maken van nieuwe technologie
 
 685
@@ -2802,7 +2802,7 @@ maar hij is te zien hier bij een aflevering van de televisieshow: "American Gree
 
 695
 00:45:46,570 --> 00:45:48,640
-gefilmt rond de tijd van de arrestatie van Aaron.
+gefilmd rond de tijd van de arrestatie van Aaron.
 
 696
 00:45:48,650 --> 00:45:53,510
@@ -2823,7 +2823,7 @@ De grootste fraude van die soort in de geschiedenis
 
 700
 00:46:04,475 --> 00:46:09,675
-Heymann, beschrijft hier Gonzalez, geeft hem zijn mening over de gedachtengang van hackers.
+Heymann, beschrijft hier Gonzalez, geeft hem zijn mening over de gedachtegang van hackers.
 
 701
 00:46:10,200 --> 00:46:16,125
@@ -2839,7 +2839,7 @@ en alles wat je met geld kan bereiken.
 
 704
 00:46:25,075 --> 00:46:27,660
-Eén van de verdachten in de Gonzalez zaak
+Één van de verdachten in de Gonzalez zaak
 
 705
 00:46:27,670 --> 00:46:30,000
@@ -2847,7 +2847,7 @@ was een jonge hacker genaamd Jonathan James.
 
 706
 00:46:30,010 --> 00:46:33,115
-Hij geloofde dat Gonzalez misdrijfen op hem zouden worden afgeschoven
+Hij geloofde dat Gonzalez misdrijven op hem zouden worden afgeschoven
 
 707
 00:46:33,120 --> 00:46:36,060
@@ -2887,7 +2887,7 @@ maar je moet veel subtieler zijn om uit te vinden
 
 716
 00:47:09,575 --> 00:47:13,675
-wat voor'n soort schade echt schadelijk is hier.
+wat voor een soort schade echt schadelijk is hier.
 
 717
 00:47:14,950 --> 00:47:16,538
@@ -3011,7 +3011,7 @@ met veel hackers zijn gelederen,
 
 747
 00:49:07,520 --> 00:49:11,440
-ging fink te keer.
+ging flink te keer.
 
 748
 00:49:11,611 --> 00:49:14,205
@@ -3023,7 +3023,7 @@ zijn dingen zouden overgelaten moeten worden aan MIT en JSTOR om er iets mee te 
 
 750
 00:49:18,228 --> 00:49:22,057
-op een soort particuliere, profesionele manier.
+op een soort particuliere, professionele manier.
 
 751
 00:49:22,060 --> 00:49:28,262
@@ -3083,7 +3083,7 @@ Dus of je schuldig of niet bent kan je beter de deal aannemen.
 
 765
 00:50:18,468 --> 00:50:21,108
-Boston heeft zijn eigen computercriminaliteitdivisie.
+Boston heeft zijn eigen afdeling voor computercriminaliteit.
 
 766
 00:50:21,588 --> 00:50:25,222
@@ -3187,11 +3187,11 @@ He had zulke... hij had serieuze politieke doelen ontwikkeld
 
 791
 00:51:42,868 --> 00:51:46,408
-in de tussentijd tuseen toen, weet je, dat moment
+in de tijd tussen toen, weet je, dat moment
 
 792
 00:51:46,605 --> 00:51:51,360
-dat hij zijn ondernemende startup leven opzegde
+dat hij zijn ondernemende start-up leven opzegde
 
 793
 00:51:51,360 --> 00:51:56,171
@@ -3279,7 +3279,7 @@ Zelfs met het fysieke bewijs
 
 814
 00:53:14,520 --> 00:53:18,180
-afkomstig van Aaron's Acer computer, harde schijf, en usb stick,
+afkomstig van Aarons Acer computer, harde schijf, en usb stick,
 
 815
 00:53:18,448 --> 00:53:21,268
@@ -3287,7 +3287,7 @@ hadden de aanklagers bewijs nodig van zijn motieven.
 
 816
 00:53:21,376 --> 00:53:24,696
-Waarom was Aaron Swartz JSTOR artiekelen aan het downloaden?
+Waarom was Aaron Swartz JSTOR artikelen aan het downloaden?
 
 817
 00:53:24,824 --> 00:53:27,344
@@ -3307,7 +3307,7 @@ want Aaron had een geschiedenis van
 
 821
 00:53:39,136 --> 00:53:42,768
-projecten waar hij enorme datasets van artiekelen analyseert
+projecten waar hij enorme datasets van artikelen analyseert
 
 822
 00:53:42,920 --> 00:53:45,238
@@ -3343,7 +3343,7 @@ Hij heeft een geweldige analyse gedaan van bedrijven met winstoogmerk
 
 830
 00:54:07,700 --> 00:54:11,054
-die geld geven aan professors in de rechten die wetsherzieningsartiekelen schreven
+die geld geven aan professors in de rechten die wetsherzieningsartikelen schreven
 
 831
 00:54:11,064 --> 00:54:15,072
@@ -3403,7 +3403,7 @@ wat als hij het zou willen bevrijden voor alle ontwikkelingslanden?
 
 845
 00:54:53,736 --> 00:54:55,350
-Afhankelijk van wat hij aan hetdoen was,
+Afhankelijk van wat hij aan het doen was,
 
 846
 00:54:55,360 --> 00:54:59,174
@@ -3495,7 +3495,7 @@ een "Koningin voor een dag" brief of een aanbod
 
 868
 00:55:57,576 --> 00:56:00,734
-het gaf aanklagers toestemming om vragen te stellen over Aaron's zaak.
+het gaf aanklagers toestemming om vragen te stellen over Aarons zaak.
 
 869
 00:56:00,744 --> 00:56:03,870
@@ -3543,7 +3543,7 @@ Ja, een aanbodbrief
 
 880
 00:56:25,920 --> 00:56:28,230
-Interviewer: waarin je simpelgezegd informatie geeft
+Interviewer: waarin je simpel gezegd informatie geeft
 
 881
 00:56:28,240 --> 00:56:30,350
@@ -3625,7 +3625,7 @@ we waren er erg verwoest door.
 
 900
 00:57:19,024 --> 00:57:21,166
-Aaron's advocaten waren er erg verwoest door.
+Aarons advocaten waren er erg verwoest door.
 
 901
 00:57:21,176 --> 00:57:23,696
@@ -3653,7 +3653,7 @@ geen misdrijf was,
 
 907
 00:57:40,960 --> 00:57:43,222
-ik verdelde hen dat ze aan de verkeerde kant van de geschiedenis stonden
+ik vertelde hen dat ze aan de verkeerde kant van de geschiedenis stonden
 
 908
 00:57:43,232 --> 00:57:44,518
@@ -3685,7 +3685,7 @@ Ik bedoel, ik heb hen genoeg verteld over, weet je
 
 915
 00:57:59,390 --> 00:58:02,870
-waarom mensen tijdschijftartiekelen zouden downloaden, en uiteindelijk
+waarom mensen tijdschriftartikelen zouden downloaden, en uiteindelijk
 
 916
 00:58:03,120 --> 00:58:05,220
@@ -3729,7 +3729,7 @@ uitgegeven over de eeuwen in boeken en tijdschriften,
 
 926
 00:58:29,784 --> 00:58:32,070
-wordt steeds meer gedigitaliseert en opgesloten
+wordt steeds meer gedigitaliseerd en opgesloten
 
 927
 00:58:32,080 --> 00:58:34,300
@@ -3797,7 +3797,7 @@ ons uit te spreken tegen deze particuliere diefstal van publieke cultuur.
 
 943
 00:59:12,344 --> 00:59:16,392
-Het manifesto zelf was naar verluidt geschreven door vier verschillende mensen
+Het manifest zelf was naar verluidt geschreven door vier verschillende mensen
 
 944
 00:59:16,728 --> 00:59:18,390
@@ -3865,11 +3865,11 @@ maar nog meer speet het mij dat we hier genoegen mee genomen hebben
 
 960
 01:00:23,608 --> 01:00:25,432
-dat we dit OK vinden
+dat we dit oké vinden
 
 961
 01:00:25,840 --> 01:00:28,960
-dat we het een rechtssysteem OK vinden dat mensen probeert te lokken
+dat we het een rechtssysteem oké vinden dat mensen probeert te lokken
 
 962
 01:00:28,970 --> 01:00:32,090
@@ -3885,7 +3885,7 @@ maar ik ben veel, veel bozer dat ik hier terecht ben gekomen
 
 965
 01:00:42,552 --> 01:00:46,880
-Dat we dit als mensheid OK vinden.
+Dat we dit als mensheid oké vinden.
 
 966
 01:00:48,296 --> 01:00:52,232
@@ -3905,7 +3905,7 @@ Maar, weet je, ik denk niet dat ze informatie had die nuttig was voor de overhei
 
 970
 01:01:08,032 --> 01:01:12,292
-Het duurt maanden terwijl Swartz' familie wacht op een drijgende veroordeling.
+Het duurt maanden terwijl Swartz' familie wacht op een dreigende veroordeling.
 
 971
 01:01:12,426 --> 01:01:17,376
@@ -3953,7 +3953,7 @@ Weet je, dat is iets goeds.
 
 982
 01:01:46,210 --> 01:01:48,251
-Dat is wat alle First Amendment rechten van vrijheids van meningsuiting,
+Dat is wat alle First Amendment rechten van vrijheid van meningsuiting,
 
 983
 01:01:48,261 --> 01:01:49,940
@@ -3977,7 +3977,7 @@ Als het internet er toen was geweest
 
 988
 01:01:59,789 --> 01:02:04,469
-zouden ze in plaats van postkantoren ISPs in de grondwet hebben gezet.
+zouden ze in plaats van postkantoren ISP's in de grondwet hebben gezet.
 
 989
 01:02:05,504 --> 01:02:10,261
@@ -4009,7 +4009,7 @@ hij maakte deel uit van iets dat hij simpelweg "het slechte ding" noemde.
 
 996
 01:02:27,800 --> 01:02:29,917
-En ik had, als het ware, gestoorde theoriën, zoals
+En ik had, als het ware, gestoorde theorieën, zoals
 
 997
 01:02:29,927 --> 01:02:33,270
@@ -4045,7 +4045,7 @@ en hij zei: "Nou, ik ben gearresteerd"
 
 1005
 01:02:58,690 --> 01:03:00,830
-"voor het downloaden van wetenschappelijke artiekelen"
+"voor het downloaden van wetenschappelijke artikelen"
 
 1006
 01:03:00,840 --> 01:03:03,540
@@ -4206,12 +4206,12 @@ Ja.
 1045
 01:05:15,315 --> 01:05:17,376
 Interviewer: Dit zou een voorbeeld zijn?
-Aaron's vader: Ja.
+Aarons vader: Ja.
 
 1046
 01:05:17,386 --> 01:05:21,945
 Interviewer: Hij zou als voorbeeld dienen?
-Aaron's vader: Ja. Steve Heymann zei dat.
+Aarons vader: Ja. Steve Heymann zei dat.
 
 1047
 01:05:21,955 --> 01:05:23,413
@@ -4223,7 +4223,7 @@ Er zijn geen andere mensen die rondrennen en inloggen in JSTOR
 
 1049
 01:05:26,515 --> 01:05:29,710
-en artiekelen te downloaden om een politiek statement te maken, ik bedoel, wie schrikken ze af?
+en artikelen te downloaden om een politiek statement te maken, ik bedoel, wie schrikken ze af?
 
 1050
 01:05:29,720 --> 01:05:35,502
@@ -4239,7 +4239,7 @@ de grootste economische misdaad die dit land in de afgelopen 100 jaar heeft gezi
 
 1053
 01:05:45,893 --> 01:05:50,114
-de misdaden die gepleegd werden die leidde tot de financiele crisis in Wall Street.
+de misdaden die gepleegd werden die leidde tot de financiële crisis in Wall Street.
 
 1054
 01:05:50,124 --> 01:05:58,310
@@ -4259,7 +4259,7 @@ gebaseerd op een specifiek ideologisch doel
 
 1058
 01:06:10,275 --> 01:06:15,570
-en dat is niet alleen ondemocratisch, dat zou ook onamerikaans moeten zijn.
+en dat is niet alleen ondemocratisch, dat zou ook on-Amerikaans moeten zijn.
 
 1059
 01:06:19,850 --> 01:06:24,050
@@ -4288,7 +4288,7 @@ door het een wilde internetcampagne te noemen
 1065
 01:06:38,302 --> 01:06:44,160
 en een dwaze actie die de zaak van een menselijk één-op-één niveau
-naar een intitutioneel niveau bracht.
+naar een institutioneel niveau bracht.
 
 1066
 01:06:44,231 --> 01:06:46,622
@@ -4342,7 +4342,7 @@ Wat schandalig lijkt voor mensen in de MIT gemeenschap
 
 1078
 01:07:30,542 --> 01:07:35,700
-omdat MIT een plaats is dat hacken aanmoedigd in de breedste zin van dat woord
+omdat MIT een plaats is dat hacken aanmoedigt in de breedste zin van dat woord
 
 1079
 01:07:35,900 --> 01:07:39,740
@@ -4412,7 +4412,7 @@ Je zou kunnen stellen dat MIT een oogje dichtknepen en dat dat prima was
 
 1095
 01:08:47,445 --> 01:08:52,747
-maar een standpunten innemen, dat neutrale standpunt opzich,
+maar een standpunten innemen, dat neutrale standpunt op zich,
 was een standpunt ten voordele van de aanklager.
 
 1096
@@ -4450,7 +4450,7 @@ Swartz is nog steeds vrijmoedig over veel verschillende problemen van het intern
 1104
 01:09:23,440 --> 01:09:28,580
 Weet je, de reden dat het internet werkt
-is vanwege de concurrerende markplaats van tideeën.
+is vanwege de concurrerende marktplaats van ideeën.
 
 1105
 01:09:28,590 --> 01:09:31,838
@@ -4474,7 +4474,7 @@ door alleen maar de wereld duidelijk uit te leggen aan mensen.
 
 1110
 01:09:44,346 --> 01:09:48,920
-FLAME kan letterlijk je computer besturen om je daarme te bespioneren
+FLAME kan letterlijk je computer besturen om je daarmee te bespioneren
 
 1111
 01:09:48,960 --> 01:09:52,050
@@ -4522,7 +4522,7 @@ en ik zei dat we een grote on-line campagne konden voeren hiertegen,
 
 1122
 01:10:21,955 --> 01:10:24,115
-"Dit is geen wetsvoortel over auteursrecht."
+"Dit is geen wetsvoorstel over auteursrecht."
 
 1123
 01:10:25,109 --> 01:10:25,941
@@ -4558,11 +4558,11 @@ Maar het begon in de herfst van 2010.
 
 1131
 01:10:47,297 --> 01:10:49,332
-Aaron was een van de prominenste personen
+Aaron was een van de prominentste personen
 
 1132
 01:10:49,342 --> 01:10:52,043
-in een gemeenschap mensen die organizering helpen leiden
+in een gemeenschap mensen die helpen met het leiden van organisatie
 
 1133
 01:10:52,053 --> 01:10:55,750
@@ -4578,7 +4578,7 @@ maar wat het was praktisch een sloophamer
 
 1136
 01:11:04,924 --> 01:11:07,060
-voor een probleem wat een operatiemes nodig had.
+voor een probleem waar een scalpel voor nodig was.
 
 1137
 01:11:07,226 --> 01:11:11,918
@@ -4651,7 +4651,7 @@ en Aaron wist dat direct.
 
 1154
 01:12:07,680 --> 01:12:09,643
-De vrijheiden gewaarborgd in onze grondwet,
+De vrijheden gewaarborgd in onze grondwet,
 
 1155
 01:12:09,653 --> 01:12:13,840
@@ -4659,7 +4659,7 @@ de vrijheden waar ons land op gebouwd is zouden ineens verwijderd worden.
 
 1156
 01:12:14,124 --> 01:12:16,932
-Nieuwe technologie, in plaaats van dat het onze vrijheid uitbreidt
+Nieuwe technologie, in plaats van dat het onze vrijheid uitbreidt
 
 1157
 01:12:16,942 --> 01:12:21,382
@@ -4675,7 +4675,7 @@ Toen SOPA geïntroduceerd werd in oktober in 2011 werd gedacht dat het onontkoom
 
 1160
 01:12:33,422 --> 01:12:37,510
-Onze strategrie, toen het voor het eerst naar buiten kwam, was om het wetsvoorstel te vertragen
+Onze strategie, toen het voor het eerst naar buiten kwam, was om het wetsvoorstel te vertragen
 
 1161
 01:12:37,520 --> 01:12:39,573
@@ -4828,7 +4828,7 @@ We gebruiken de term Geek, maar we mogen dat gebruiken omdat we geeks zijn.
 
 1198
 01:14:56,800 --> 01:15:01,880
-Het feit dat het zo ver is gekomen zonder dat ze met technische experts gepraten hebben
+Het feit dat het zo ver is gekomen zonder dat ze met technische experts gepraat hebben
 
 1199
 01:15:01,888 --> 01:15:04,727
@@ -4881,7 +4881,7 @@ en ik dacht "Dat zou fantastisch zijn!"
 1211
 01:15:44,500 --> 01:15:50,238
 Mensen bleven bellen naar het parlement.
-Toen de domainhosting site GoDaddy voorstander van het wetsvoortel werd
+Toen de domeinhosting site GoDaddy voorstander van het wetsvoorstel werd
 
 1212
 01:15:50,248 --> 01:15:54,920
@@ -4893,7 +4893,7 @@ Binnen een week trok GoDaddy zijn standpunt over SOPA in.
 
 1214
 01:15:59,650 --> 01:16:04,453
-Rond het moment dat de politicie die
+Rond het moment dat de politici die
 
 1215
 01:16:04,471 --> 01:16:08,336
@@ -4917,11 +4917,11 @@ Het was alsof Aaron een lucifer afstreek die weer uitgeblazen werd...
 
 1220
 01:16:18,986 --> 01:16:21,100
-een andere probeerde die ook uigeblazen werd en uiteindelijk
+een andere probeerde die ook uitgeblazen werd en uiteindelijk
 
 1221
 01:16:21,110 --> 01:16:24,779
-lukte het hem om genoeg aanmaakhoud aan te steken om een vlam te maken
+lukte het hem om genoeg aanmaakhout aan te steken om een vlam te maken
 
 1222
 01:16:24,789 --> 01:16:27,019
@@ -5038,7 +5038,7 @@ We hebben gewonnen!
 
 1250
 01:17:55,777 --> 01:17:58,816
-Dit is een historische week in internetpolitiek, misschien zelfs amerikaanse politiek.
+Dit is een historische week in internetpolitiek, misschien zelfs Amerikaanse politiek.
 
 1251
 01:17:58,826 --> 01:18:02,488
@@ -5046,11 +5046,11 @@ Het ding wat we van de mensen in Washington D.C. hebben gehoord
 
 1252
 01:18:02,533 --> 01:18:06,960
-van medewerkers op Capitol Hill was dat ze meer emails en telefoongesprekken ontvingen
+van medewerkers op Capitol Hill was dat ze meer e-mails en telefoongesprekken ontvingen
 
 1253
 01:18:06,970 --> 01:18:10,571
-op SOPA verduisteringsdag dan dat ze ooit hebben ontvangen over iets.
+op SOPA verduisteringdag dan dat ze ooit hebben ontvangen over iets.
 
 1254
 01:18:10,581 --> 01:18:12,918
@@ -5066,7 +5066,7 @@ Het was adembenemend omdat het moeilijk te geloven is dat het echt gebeurd is.
 
 1257
 01:18:21,351 --> 01:18:25,470
-Het is moeilijk te geloven, een wetsvoorstel met zoveel financiele macht erachter
+Het is moeilijk te geloven, een wetsvoorstel met zoveel financiële macht erachter
 
 1258
 01:18:25,893 --> 01:18:29,244
@@ -5210,7 +5210,7 @@ De lijst organisaties die Swartz heeft opgericht of mede-opgericht is enorm.
 
 1293
 01:20:44,352 --> 01:20:48,430
-en jaren voor Edward Snowden wijdverspreidde internetsurveillance blootstelde
+en jaren voor Edward Snowden wijdverspreide internetsurveillance blootstelde
 
 1294
 01:20:48,440 --> 01:20:50,490
@@ -5543,15 +5543,15 @@ en iets als eHarmony of match.com
 
 1376
 01:25:56,995 --> 01:26:01,400
-als mensen hun persoonslijke eigenschappen overdrijven
+als mensen hun persoonlijke eigenschappen overdrijven
 
 1377
 01:26:01,431 --> 01:26:05,942
-kunnen ze plotseling, afhankelijk van rechtsgebried en de aanklagers,
+kunnen ze plotseling, afhankelijk van rechtsgebied en de aanklagers,
 
 1378
 01:26:05,952 --> 01:26:08,106
-in een hele hoop probelemen belanden.
+in een hele hoop problemen belanden.
 
 1379
 01:26:08,120 --> 01:26:10,389
@@ -5579,7 +5579,7 @@ Het idee dat strafrecht iets te maken heeft met dit soort overtredingen
 
 1385
 01:26:27,697 --> 01:26:29,917
-vinden volgensmij de meeste mensen gestoord.
+vinden volgens mij de meeste mensen gestoord.
 
 1386
 01:26:30,586 --> 01:26:33,130
@@ -5729,7 +5729,7 @@ Er is een grote onenigheid in de maatschappij over de vraag of dit een rechtvaar
 
 1422
 01:28:56,177 --> 01:29:00,427
-en uiteindelijk is dat een beslissing die het amerikaanse volk moet nemen, door met het parlement te werken
+en uiteindelijk is dat een beslissing die het Amerikaanse volk moet nemen, door met het parlement te werken
 
 1423
 01:29:00,437 --> 01:29:03,714
@@ -5809,7 +5809,7 @@ een strafrechtelijke ingreep.
 
 1442
 01:30:13,820 --> 01:30:17,182
-We hebben gevangenis en sraf gebruikt
+We hebben gevangenis en straf gebruikt
 
 1443
 01:30:17,262 --> 01:30:21,198
@@ -5845,7 +5845,7 @@ De afstand tussen Swartz en zijn vrienden en familie werd groter.
 
 1451
 01:30:50,640 --> 01:30:53,287
-Hij hield praktisch op met het werken an andere dingen.
+Hij hield praktisch op met het werken aan andere dingen.
 
 1452
 01:30:53,297 --> 01:30:56,740
@@ -5853,7 +5853,7 @@ En de zaak nam zijn hele leven in beslag.
 
 1453
 01:30:56,888 --> 01:31:00,043
-Eén van Aaron's advocaten vertelde de aanklagers blijkbaar dat
+Één van Aarons advocaten vertelde de aanklagers blijkbaar dat
 
 1454
 01:31:00,053 --> 01:31:02,702
@@ -5885,7 +5885,7 @@ hij maakte zijn financiële middelen helemaal op en
 
 1461
 01:31:27,537 --> 01:31:32,097
-het kostte ons ook veel geld, en hij heeft een aanzienlijke hoeveelheid geld bij elkaar geprokkeld.
+het kostte ons ook veel geld, en hij heeft een aanzienlijke hoeveelheid geld bij elkaar gesprokkeld.
 
 1462
 01:31:32,280 --> 01:31:35,680
@@ -5894,12 +5894,12 @@ Dus het was, weet je, het was in de miljoenen dollars.
 1463
 01:31:36,378 --> 01:31:38,437
 Interviewer: De juridische verdediging?
-Aaron's vader: Ja.
+Aarons vader: Ja.
 
 1464
 01:31:38,447 --> 01:31:41,163
 Interviewer: Kostte miljoenen?
-Aaron's vader: Ja.
+Aarons vader: Ja.
 
 1465
 01:31:41,173 --> 01:31:45,197
@@ -5927,7 +5927,7 @@ Beken je schuld en ga je door met je leven, of blijf je tegen dit gebroken syste
 
 1471
 01:32:06,991 --> 01:32:12,718
-Met zijn rechtzaak was het antwoord simpel. Hij verwierp de laatste deal en de datum stond vast.
+Met zijn rechtszaak was het antwoord simpel. Hij verwierp de laatste deal en de datum stond vast.
 
 1472
 01:32:12,728 --> 01:32:16,100
@@ -6063,7 +6063,7 @@ Het sloeg helemaal nergens op, en dat doet het nog steeds niet.
 
 1505
 01:35:24,542 --> 01:35:27,480
-Ik was so gefrustreerd en boos.
+Ik was zo gefrustreerd en boos.
 
 1506
 01:35:38,154 --> 01:35:41,120
@@ -6161,7 +6161,7 @@ Mensen rouwden zichtbaar on-line.
 
 1529
 01:37:46,465 --> 01:37:51,253
-Hij was internet's eigen jongen... en de gevestigde orde heeft hem vermoord.
+Hij was het internets eigen jongen... en de gevestigde orde heeft hem vermoord.
 
 1530
 01:37:55,328 --> 01:38:00,277
@@ -6169,7 +6169,7 @@ We staan middenin in de tijd waar grove onrechtvaardigheid niet wordt aangeraakt
 
 1531
 01:38:01,960 --> 01:38:06,259
-Architecten van de financiele crisis dineren regelmatig met de president.
+Architecten van de financiële crisis dineren regelmatig met de president.
 
 1532
 01:38:06,269 --> 01:38:09,992
@@ -6297,7 +6297,7 @@ De verouderde wet die het grootste deel van de aanklacht tegen Swartz omvat.
 
 1563
 01:40:00,186 --> 01:40:02,389
-Het heet: "Aaron's wet."
+Het heet: "Aarons wet."
 
 1564
 01:40:02,639 --> 01:40:05,802
@@ -6365,7 +6365,7 @@ omdat we het te laat ontdekken. Op het moment dat we het ontdekken, is het te la
 
 1580
 01:41:22,740 --> 01:41:28,720
-En, hij stuurde emails naar de hele oncologieafdeling van het Johns Hopkins ziekenhuis.
+En, hij stuurde e-mails naar de hele oncologieafdeling van het Johns Hopkins ziekenhuis.
 
 1581
 01:41:28,810 --> 01:41:31,460
@@ -6422,7 +6422,7 @@ weet je, wat de maximumsnelheid moet zijn.
 
 1594
 01:42:19,279 --> 01:42:25,258
-Het is iets waar hetgeen, waardoor je kind niet zal sterfen aan alvleesklierkanker, uit voort komt.
+Het is iets waar hetgeen, waardoor je kind niet zal sterven aan alvleesklierkanker, uit voort komt.
 
 1595
 01:42:26,026 --> 01:42:31,146
@@ -6430,11 +6430,11 @@ En, zonder toegang had de persoon die iets zou kunnen bedenken waardoor
 
 1596
 01:42:31,396 --> 01:42:34,901
-jouw leven gerek kan worden nooit de oplossing kunnen vinden.
+jouw leven gered kan worden nooit de oplossing kunnen vinden.
 
 1597
 01:42:35,856 --> 01:42:47,520
-Hij slaapte zo goed, hij viel niet uit [babypraat] zelfs niet toen hij droomde dat hij op een ruimteschip stond.
+Hij sliep zo goed, hij viel niet uit [onverstaanbaar] zelfs niet toen hij droomde dat hij op een ruimteschip stond.
 
 1598
 01:42:48,210 --> 01:42:50,534
@@ -6446,7 +6446,7 @@ Oké! Nu gaan we zingen.
 
 1600
 01:43:28,000 --> 01:43:34,000
-Ondertitels met de Creative Commons licentie CC0:
+Ondertitels vallen onder de Creative Commons licentie CC0:
 http://creativecommons.org/publicdomain/zero/1.0/
 
 1601
